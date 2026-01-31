@@ -1,0 +1,37 @@
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The captain and her associate are ambushed and killed.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: ---
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The last of the hunters is dead.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Nngh!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I learned the second Word of the Bend Will Shout.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The service ends.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Contract?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Indeed. He's off to Redwater Den.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Haelga is a devout follower of Dibella and dotes over the statue to the Divine which she keeps at the Bunkhouse. Use it as leverage and she'll cave.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Rorikstead. I'm...I'm from Rorikstead.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Ralof of Riverwood. Lokir of Rorikstead.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Geh, Sahloknir, kaali mir.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: ...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Yay!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Fo...Krah Diin!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: ONDOLEMAR DISTRACTION
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Aiiiieeeeeeee!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Some innkeepers may not be able to give information. Others, like Hulda in as below.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Jarl Balgruuf...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I failed to bring down Sinding.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They stab the dragon in the mouth; it lies still.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Balgruuf!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Speaking of which...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Placing the giant's hammer on the shrine turns it into the ancient artifact Volundrung, Malacath's reward from ages past.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Feran Sedri and Hestla run out immediately.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: • Next, the cat! • Next, the Orc! • Next, the lizard! • Next, the Breton! • Next, the Redguard! • Next, the dark elf! • Next, the high elf! • Next, the wood elf! • Next, the Nord in the rags! • Next, the renegade from Cyrodiil!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Forget the list. He goes to the block.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: There are many ways to find leads, such as those Harkon suggested. The most can ask the librarian.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Rrraaaaaggghhhh!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The conversation done, Quaranir removes the time-stopping effect.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Why are Shouts in the dragon language?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Prey waits.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The coffin opens, Nazir having dragged it out of the pond. The fires have all stopped, but the Sanctuary is in ruins, most of it closed off or caved-in.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One does so.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Rrraaaaa!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Actually, Alain Dufont is already dead. I killed him.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: May I enter the College?

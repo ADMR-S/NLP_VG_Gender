@@ -1,0 +1,3 @@
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (garbled) with Susanne Alpert, environmental scientist. Doctor?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: This datapoint is obtained automatically during the main quest The Mountain that Fell. It cannot be missed.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: This datapoint is obtained automatically during the main quest The Heart of the Nora while exploring ELEUTHIA-9. It cannot be missed.

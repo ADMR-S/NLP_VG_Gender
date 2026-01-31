@@ -1,0 +1,26 @@
+ num_entries : 329
+
+CHARACTER : 213
+percentage of CHARACTER : 64.74164133738601%
+
+ACTION : 116
+percentage of ACTION : 35.25835866261398%
+
+num_unique_characters : 36
+characters with most dialogues : 
+character_name
+ACTION              116
+Elisabet Sobeck      29
+Ted Faro             26
+Female Counselor     23
+GAIA                 17
+Name: count, dtype: int64
+
+num_unique_groups : 4
+dialogues_per_group : 
+character_group
+ACTION     116
+female     113
+male        96
+unknown      4
+Name: count, dtype: int64

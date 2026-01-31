@@ -1,0 +1,153 @@
+Predicted: male, Actual: female, Dialogue: I'm so glad Mog is still with you. I like him.
+Predicted: male, Actual: female, Dialogue: You don't have to say any more. Lockne, you need to fix his Q-pid. I couldn't save our child, but you can save our world. Only you. I love you, you hear me? Forever and always.
+Predicted: male, Actual: female, Dialogue: Razelan. And you promised to behave yourself this time. Remove him. He's disturbing the other guests.
+Predicted: male, Actual: female, Dialogue: Yes. Please, follow me. Keep watch for Durnehviir. With the prison's barrier down, he's almost certain to investigate.
+Predicted: female, Actual: male, Dialogue: (auto-talk) Way to go, bobble-head!
+Predicted: male, Actual: female, Dialogue: Go! Not this again. Odin! Do it. (She again leaps forward to meet Caius.)
+Predicted: male, Actual: female, Dialogue: To battle, my friends! The fields will echo with the clamor of war, our wills undaunted.
+Predicted: male, Actual: female, Dialogue: It's up to you to keep hope alive.
+Predicted: male, Actual: female, Dialogue: We have to face Caius on two fronts: in Valhalla, and in the world of humans. If we don't... We won't be able to change the future. I can't do it on my own. I need your help.
+Predicted: male, Actual: female, Dialogue: Alyssa, you feel that way too?
+Predicted: male, Actual: female, Dialogue: (offscreen) I don't know how many days went by. The water ran dry, and the cold set in.
+Predicted: male, Actual: female, Dialogue: Gallus! I feared I would never see you again. I was afraid you'd become like the others.
+Predicted: male, Actual: female, Dialogue: You've served us all well, friend.
+Predicted: female, Actual: male, Dialogue: (leaps) Well, let's find out.
+Predicted: male, Actual: female, Dialogue: A...can't you tell just from looking at me? A vampire.
+Predicted: female, Actual: male, Dialogue: What's on your mind?
+Predicted: male, Actual: female, Dialogue: (sounding a bit depressed) Serah.
+Predicted: male, Actual: female, Dialogue: There you are.
+Predicted: male, Actual: female, Dialogue: That time was lost; yet time continued onward.
+Predicted: male, Actual: female, Dialogue: Jarl Balgruuf refuses the Legion's right to garrison troops in his city. On the other hand, he also refuses to acknowledge Ulfric's claim.
+Predicted: male, Actual: female, Dialogue: That son of a bitch! I'll kill him!
+Predicted: female, Actual: male, Dialogue: Arkay watch over you.
+Predicted: female, Actual: male, Dialogue: But Housecarl...how can we attack a dragon?
+Predicted: female, Actual: male, Dialogue: No! That urn was priceless!
+Predicted: male, Actual: female, Dialogue: Why do you ask?
+Predicted: male, Actual: female, Dialogue: To earn your bonus, do not kill Gaius Maro in Dragon Bridge, or on the road. Kill him in one of the other major cities he'll be visiting. There, the body will be discovered quickly, as will the letter implicating Gaius Maro in the plot to assassinate the Emperor. Do that, and Astrid has authorized me to grant you a rather unique bonus. It is a special token, to be given to Olava the Feeble, in Whiterun. Olava is an old and dear friend, and a powerful seer. The token entitles you to a reading of your future. It's an opportunity one should not pass up.
+Predicted: male, Actual: female, Dialogue: Can't. He's way more powerful now than he was before. But you could take him. You could. But promise me …  Promise me you'll leave him alive. There's something I wanna ask him to his face.
+Predicted: female, Actual: male, Dialogue: Bursts of chaos are warping reality, kupo.
+Predicted: male, Actual: female, Dialogue: (voice) What? Where?
+Predicted: male, Actual: female, Dialogue: Ready to take the plunge? So, the only things you can bring with you is yourself …  and maybe a few other trinkets that are really important to you. Okay. Close your eyes. Picture your destination—hold it in your mind …
+Predicted: male, Actual: female, Dialogue: Maybe the other side wants her back. Or maybe she wants to go back. We can't keep on like this. That much I know.
+Predicted: female, Actual: male, Dialogue: Hmph.
+Predicted: male, Actual: female, Dialogue: I'm sorry. I wish I knew a better way, something that would be easier for you. Just know that...whatever path you choose, I won't think any less of you. Sometimes things just have to be done. I know that better than anybody.
+Predicted: female, Actual: male, Dialogue: So what -- Ulfric gets this crown and then suddenly he's High King?
+Predicted: male, Actual: female, Dialogue: Sam, would you zip me up? I haven't been outside in a long time, It's just too much to take in all at once.
+Predicted: male, Actual: female, Dialogue: (voice) Because you needed help! (She materializes in front of them.)
+Predicted: male, Actual: female, Dialogue: (via codec) Sam, I've added a reverse trike to the list of supplies you can fabricate. Lake Knot City was kind enough to provide the blueprints as thanks. I'd tell you all about it, but, uh, didn't you used to have your own? Same deal-two front wheels, one rear, battery powered. Fitted with an auto-charging unit that kicks in when not in use … . Requires skill to drive over obstacle-strewn terrain …  Best-suited to long flat stretches …  yada yada yada … . We're working on securing you another vehicle, so you can look forward to that, too.
+Predicted: female, Actual: male, Dialogue: I can't believe it! You're...Dragonborn...
+Predicted: male, Actual: female, Dialogue: That's incredible!
+Predicted: female, Actual: male, Dialogue: Ah, never mind. Forget it.
+Predicted: male, Actual: female, Dialogue: These people were...why would anyone want to set up camp here? I wonder what happened to them.
+Predicted: female, Actual: male, Dialogue: And Caius smashed the bridge to block our path? If he thinks that's gonna stop us... he can think again.
+Predicted: male, Actual: female, Dialogue: This has gone too far. (She sucks in a deep breath and shouts.) That's enough! I've about had it with your mischief! You should be ashamed of yourselves for behaving like this! You should know better! Well? What do you have to say for yourselves?
+Predicted: male, Actual: female, Dialogue: The only person left who can stop him... is you.
+Predicted: male, Actual: female, Dialogue: That...that has to be the place. I've never seen a building like that before. It looks like some kind of temple. Never saw anything like this back on the island.
+Predicted: male, Actual: female, Dialogue: If I'm a servant of the goddess, what am I supposed to do?
+Predicted: male, Actual: female, Dialogue: We should get started.
+Predicted: female, Actual: male, Dialogue: Need a hand with the search?
+Predicted: male, Actual: female, Dialogue: (narrating) Lightning, I've come a long way, and it's all thanks to Noel. That's why, when I reach Valhalla, I want him with me. So here I am, inside the memory of a lost future. I've come to lead Noel away from this cold, distant world.
+Predicted: male, Actual: female, Dialogue: I disagree.
+Predicted: male, Actual: female, Dialogue: Let those that watch from Sovngarde envy us this day! Gormlaith/Felldir/Hakon: Joor...Zah...Frul!
+Predicted: female, Actual: male, Dialogue: He's in the Flagon right now. Get ready.
+Predicted: male, Actual: female, Dialogue: Oh, the director was there with me. Hey, Serah? After coming to the future myself, I-I think I understand how you must feel. The Academy has welcomed us with open arms, and we can research as we always have, but... ... sometimes I get these terrible anxiety attacks.
+Predicted: male, Actual: female, Dialogue: Hmmm. Pull chains and traps. Be careful here. Whatever's on the other side of this, the Falmer wanted to keep there.
+Predicted: male, Actual: female, Dialogue: I don't get it.
+Predicted: female, Actual: male, Dialogue: Veren...Thorek...you're alive!
+Predicted: male, Actual: female, Dialogue: This time, you're the one who's going to break.
+Predicted: female, Actual: male, Dialogue: Hm. It looks a lot like my era.
+Predicted: male, Actual: female, Dialogue: Yes, I think so. And look what I found. It was lying next to the gate.
+Predicted: male, Actual: female, Dialogue: You've earned the right. Your strength and honor are apparent to all.
+Predicted: male, Actual: female, Dialogue: Not here. Come with me. Stay close and the guards will leave you alone.
+Predicted: male, Actual: female, Dialogue: You're right, you're right. I just...I was sure it must have been them. If not the Thalmor, who? Or...what?
+Predicted: male, Actual: female, Dialogue: Helgen? Has something happened...? You're right. Follow me. Hod! Come here a minute. I need your help with something.
+Predicted: male, Actual: female, Dialogue: The area up ahead is being excavated in the hope of finding something significant.
+Predicted: female, Actual: male, Dialogue: Everyone has been talking about how you took on Atlas in a fierce battle! I'm so excited--I have goose bumps!
+Predicted: male, Actual: female, Dialogue: Yeah, he was in Cocoon's army. Lightning served in his unit. I've met him lots of times.
+Predicted: male, Actual: female, Dialogue: You were born into the pack, brother. I almost envy you, that first time is always the most...intense. You gave us even more trouble than Farkas did in his first turning.
+Predicted: male, Actual: female, Dialogue: Ah, good. I've been waiting for this. Are you new around here?
+Predicted: female, Actual: male, Dialogue: You're not paying attention then. Like most everyone else around here. Haven't you heard that the Hall of the Vigilants was destroyed by vampires? They never took the threat seriously, and now they've paid the price.
+Predicted: male, Actual: female, Dialogue: Thank you. I know that one day, we'll be released again. Only then can we ask for forgiveness. That is the fate time has in store for us. But fate also brought you here to this place, to hear my plea. All roads are connected somehow. And they all lead to a time of salvation, when imprisoned souls will be freed. They all lead to the end of the world, and a new beginning. (The camera angles to show Cocoon.)
+Predicted: male, Actual: female, Dialogue: Thanks. Wait. There's something I have to tell you. I didn't shoot Higgs. Couldn't pull the trigger. So I let him choose. Death or eternal solitude on the Beach.
+Predicted: male, Actual: female, Dialogue: He doesn't need your help. He's got the chiral network. And he's got me. We can jump east together.
+Predicted: male, Actual: female, Dialogue: That's my line, silly.
+Predicted: male, Actual: female, Dialogue: A substance that's not animal, vegetable, or mineral. Fascinating.
+Predicted: male, Actual: female, Dialogue: While you were in the Star, Azura gave me a vision. Her last, she said. I have never been without Azura's guidance since escaping Morrowind. I don't know what to do. If you need me, I'd be honored to accompany you, Guardian of the Star. It would give me a purpose.
+Predicted: male, Actual: female, Dialogue: Alyssa and the director are both from the same city, Palumpolum. They're also the same age. Isn't that a strange coincidence? They'd never met till they joined the Academy, though.
+Predicted: male, Actual: female, Dialogue: You know what this is?
+Predicted: male, Actual: female, Dialogue: I'm sure he's read the manual before. He probably just got a few things mixed up.
+Predicted: male, Actual: female, Dialogue: (putting her hand on Gadot's shoulder) Gadot...
+Predicted: male, Actual: female, Dialogue: (auto-talk) Alyssa's cute and smart--she's going places.
+Predicted: female, Actual: male, Dialogue: Gods be with you.
+Predicted: male, Actual: female, Dialogue: One of the many things I'd like to uncover in my research is a way to control these creatures.
+Predicted: male, Actual: female, Dialogue: If you ever have any free time, I'd love to hear your thoughts regarding these monsters.
+Predicted: male, Actual: female, Dialogue: We have to stick together, Noel. I've got no one else I can count on but you.
+Predicted: female, Actual: male, Dialogue: Tarry not too long -- the land of the dead is not meant for mortals to linger.
+Predicted: male, Actual: female, Dialogue: Where did you hear that?
+Predicted: female, Actual: male, Dialogue: Cicero admits, he thought the Listener would be dead by now. Heh. Maybe we can just forget all this? Hmm? Let bygones be bygones? What do you say?
+Predicted: male, Actual: female, Dialogue: Like I said in my note, I've heard that you might be Dragonborn. I'm part of a group that's been looking for you...well, someone like you, for a very long time. If you really are Dragonborn, that is. Before I tell you any more, I need to make sure I can trust you.
+Predicted: male, Actual: female, Dialogue: Don't take too long figuring it out. I've got a war to run here.
+Predicted: male, Actual: female, Dialogue: The old water cistern. One some days, this smell would just...be glad you weren't here then. Take a left up here. This is one of those weird double-barred security measures that my father put in when he got more paranoid. If we follow that path around, we can find the other switch. This leads out to the courtyard. Just head for the door.
+Predicted: male, Actual: female, Dialogue: No, nothing. At least nothing I'm aware of. Well... If I'm being honest, I haven't exactly been discreet lately in expressing my frustration with this whole situation. Obeying the Night Mother. You being the Listener. It's ridiculous. No offense. Cicero may have heard me talking to one of the others about the Night Mother. It's possible I was...not entirely respectful. But to go this far. To attempt to murder the leader of the Sanctuary. Cicero must pay with his life. There is no other option. Damnable jester...
+Predicted: male, Actual: female, Dialogue: (auto-talk) Shouldn't we stop the investigation?
+Predicted: female, Actual: male, Dialogue: (auto-talk) He said, 'I'll give you one of my treasures,' kupo!
+Predicted: female, Actual: male, Dialogue: Very well.
+Predicted: male, Actual: female, Dialogue: You can see the future, can't you?
+Predicted: female, Actual: male, Dialogue: I wonder what happened to the people who used to live on Gran Pulse.
+Predicted: male, Actual: female, Dialogue: The Lord of Plots, Deceiver of Nations, Devourer of Trinimac. The Queen of Shadows, Goddess of Destruction, He-Who-Destroys and She-Who-Erases... Many are our lord's lofty names, but they befit only us mortals. Intone her mighty names from now until the end of time -- it is for naught. Names mean nothing to our Lord. She only cares for those who care for themselves, whose hearts are full of purpose, whose lives are full of deeds.
+Predicted: male, Actual: female, Dialogue: If you can...I want you to kill someone else, as well. You don't have to -- it's not part of our deal. But if you do...I'll pay you even more. It's Nilsine Shatter-Shield, in Windhelm. If Nilsine dies, too...I'll make it worth your while.
+Predicted: female, Actual: male, Dialogue: Auriel's Bow will be mine!
+Predicted: male, Actual: female, Dialogue: Run, Sam! Run!
+Predicted: female, Actual: male, Dialogue: I think it's time to see what you two can really do.
+Predicted: male, Actual: female, Dialogue: Are you sure? I'm willing to do it, but you need to think it through. You'll remain mortal, but you'll find yourself weakened within the Soul Cairn.
+Predicted: female, Actual: male, Dialogue: We need to develop our technology in order to maintain Cocoon. That's why the Academy has been vested with so much authority--for the purpose of research. And we take that responsibility seriously.
+Predicted: female, Actual: male, Dialogue: (nods) Kupo. I know all about Caius, kupo. The Farseer Guardians were given a mission. They had to protect the seeress. They were l'Cie, kupo.
+Predicted: male, Actual: female, Dialogue: My purpose in using Snow Veil Sanctum to ambush Mercer wasn't simply for irony's sake. Before both of you arrived, I recovered a journal from Gallus' remains. I suspect the information we need is written inside.
+Predicted: female, Actual: male, Dialogue: I wonder if everyone else would be so happy to rifle through the bones of their ancestors.
+Predicted: female, Actual: male, Dialogue: All right... let's start over from Eleuthia-1.
+Predicted: male, Actual: female, Dialogue: Oh my god!
+Predicted: male, Actual: female, Dialogue: Right. Good thing they've already let you into their little cult. Not likely they'd help Esbern or me if we came calling. We'll look around Sky Haven Temple and see what else the old Blades might have left for us. It's a better hideout than we could have hoped for. Talos guard you.
+Predicted: male, Actual: female, Dialogue: But even so, she didn't try to avoid her fate.
+Predicted: male, Actual: female, Dialogue: What are you talking about?
+Predicted: male, Actual: female, Dialogue: Hail, Galmar.
+Predicted: female, Actual: male, Dialogue: I see. Well, make it quick, or do you have better things to do than fight for the people of Skyrim?
+Predicted: male, Actual: female, Dialogue: Director!
+Predicted: male, Actual: female, Dialogue: There's the Blades agent! Kill him!
+Predicted: male, Actual: female, Dialogue: I'd...well, I'd come with you, but I don't know if I can trust your friend. Let me know if you want me along.
+Predicted: male, Actual: female, Dialogue: If you think I'm going to let you have all the fun, you're crazy. I'll let you lead ahead, but I'll be keeping an eye on you.
+Predicted: female, Actual: male, Dialogue: Well you certainly caught me with my pants down. Glad you could make it, Sam.
+Predicted: male, Actual: female, Dialogue: Okay.
+Predicted: female, Actual: male, Dialogue: Jolly good guess! But only half right. I'm a mad god. The Mad God, actually. It's a family title. Gets passed down from me to myself every few thousand years. Now you. You can call me Ann Marie. But only if you're partial to being flayed alive and having an angry immortal skip rope with your entrails. If not... Then call me Sheogorath, Daedric Prince of Madness. Charmed.
+Predicted: male, Actual: female, Dialogue: Maybe we can fix it with a key from another time.
+Predicted: male, Actual: female, Dialogue: Hmm... what about Alyssa?
+Predicted: male, Actual: female, Dialogue: Until the "Betrayed" corrupted you. Yes, yes. We've heard this sad story.
+Predicted: male, Actual: female, Dialogue: What? You want it for that hussy Esmerelda, with the dark feathers –- don't you? I won't let her have you!
+Predicted: male, Actual: female, Dialogue: You're going to Riften. My spies report the Jarl's steward, Anuriel, has arrangements with the Thieves Guild that would be rather embarrassing if made public. I need you to find evidence of her corrupt activities, and use it to gain a measure of her "cooperation." This will require stealth and discretion. The Jarl's guards won't take kindly to anyone rummaging through her Steward's private quarters.
+Predicted: male, Actual: female, Dialogue: But what if hope does not exist?
+Predicted: male, Actual: female, Dialogue: Sounds like we did something .
+Predicted: female, Actual: male, Dialogue: This is Hope's fault.
+Predicted: female, Actual: male, Dialogue: I serve my master's will. But my master is dead, and his enemies will pay!
+Predicted: male, Actual: female, Dialogue: But, I didn't do anything. At least, I don't think I did. (The gates appear in her eyes and she has a vision of Noel battling Caius.)
+Predicted: male, Actual: female, Dialogue: And we need an artefact to open it, right?
+Predicted: male, Actual: female, Dialogue: Lok...Vah...Koor!
+Predicted: female, Actual: male, Dialogue: (auto-talk) You fixed another distortion in time, kupo!
+Predicted: male, Actual: female, Dialogue: The distortion in time gave birth to countless shards of many forgotten histories. The goddess is greatly troubled over this.
+Predicted: male, Actual: female, Dialogue: I don't know why you gave Ulfric so much. That murderer will never rule Skyrim.
+Predicted: male, Actual: female, Dialogue: How could you possibly know about... Please. My family means too much to me. Don't hurt them.
+Predicted: male, Actual: female, Dialogue: I hope this truce gives you what you need. It won't last.
+Predicted: female, Actual: male, Dialogue: And it knew all along that it was part of the paradox.
+Predicted: male, Actual: female, Dialogue: Please locate and retrieve paradox source. Neutralization of source object can be carried out at this terminal.
+Predicted: male, Actual: female, Dialogue: An arm!?
+Predicted: female, Actual: male, Dialogue: I want to become the leader of NORA someday! - Did you know that Gadot constructed all the houses along the shore? Not bad, eh? - I really want to practice for my show. - I thought of a great melody a second ago!
+Predicted: female, Actual: male, Dialogue: That's what I like to hear. Listen up. Those Imperials aren't here by coincidence. Their spies must have found out we know about the Crown, and they don't want us to have it. But they won't stand in our way. I know some of you are ex-legion and may know men on the other side. But remember this. They are the enemy now and they will not hesitate to kill you. Keep your wits about you and watch your shield brother's back. Ulfric Stormcloak is counting on us to bring him back that crown, and that's exactly what we are going to do. Follow me. Quickly and quietly now. I want their guts on the ground before they even know we're here.
+Predicted: female, Actual: male, Dialogue: They're constructing an elevator that can transport us to Cocoon, but it'll take years to finish.
+Predicted: male, Actual: female, Dialogue: Husband, let him tell his story.
+Predicted: female, Actual: male, Dialogue: But...
+Predicted: female, Actual: male, Dialogue: Oblivion take them. Every miserable last one of them.
+Predicted: male, Actual: female, Dialogue: I guess the ruins were interesting enough. They didn't need the paradox to draw them here.
+Predicted: male, Actual: female, Dialogue: Sir.
+Predicted: female, Actual: male, Dialogue: No. The rate that thing is eating through the crystal, it won't need a war to bring down Cocoon.
+Predicted: male, Actual: female, Dialogue: Oh, no. Just staring into space!
+Predicted: male, Actual: female, Dialogue: Really? All I know is I was wearing them when I woke up. But, maybe I haven't woken up yet after all...
+Predicted: male, Actual: female, Dialogue: You're tougher than you look. You remind me a lot of your sister.
+Predicted: female, Actual: male, Dialogue: That shadowy creature has to be killed right here, as soon as possible.

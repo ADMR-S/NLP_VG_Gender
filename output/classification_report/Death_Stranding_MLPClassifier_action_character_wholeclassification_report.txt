@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      ACTION       1.00      1.00      1.00         1
+   CHARACTER       1.00      1.00      1.00       315
+
+    accuracy                           1.00       316
+   macro avg       1.00      1.00      1.00       316
+weighted avg       1.00      1.00      1.00       316

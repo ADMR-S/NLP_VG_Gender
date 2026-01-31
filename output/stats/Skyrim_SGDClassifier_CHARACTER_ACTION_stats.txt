@@ -1,0 +1,27 @@
+ num_entries : 8892
+
+CHARACTER : 7675
+percentage of CHARACTER : 86.31354026090868%
+
+ACTION : 1217
+percentage of ACTION : 13.686459739091317%
+
+num_unique_characters : 380
+characters with most dialogues : 
+character_name
+Dragonborn    2474
+ACTION        1217
+Serana         257
+Brynjolf       165
+Ulfric         156
+Name: count, dtype: int64
+
+num_unique_groups : 5
+dialogues_per_group : 
+character_group
+male            3598
+playerChoice    2474
+female          1580
+ACTION          1217
+neutral           23
+Name: count, dtype: int64

@@ -1,0 +1,52 @@
+Fitting 3 folds for each of 128 candidates, totalling 384 fits
+Iteration 1, loss = 0.86629420
+Validation score: 0.542169
+Iteration 2, loss = 0.14385955
+Validation score: 0.602410
+Iteration 3, loss = 0.08282275
+Validation score: 0.626506
+Iteration 4, loss = 0.06045763
+Validation score: 0.638554
+Iteration 5, loss = 0.04814350
+Validation score: 0.626506
+Iteration 6, loss = 0.04119663
+Validation score: 0.650602
+Iteration 7, loss = 0.03606209
+Validation score: 0.662651
+Iteration 8, loss = 0.03235017
+Validation score: 0.662651
+Iteration 9, loss = 0.02960049
+Validation score: 0.662651
+Iteration 10, loss = 0.02758426
+Validation score: 0.662651
+Iteration 11, loss = 0.02590889
+Validation score: 0.662651
+Iteration 12, loss = 0.02464538
+Validation score: 0.662651
+Iteration 13, loss = 0.02356912
+Validation score: 0.662651
+Iteration 14, loss = 0.02265434
+Validation score: 0.674699
+Iteration 15, loss = 0.02200032
+Validation score: 0.674699
+Iteration 16, loss = 0.02129713
+Validation score: 0.674699
+Iteration 17, loss = 0.02075157
+Validation score: 0.674699
+Iteration 18, loss = 0.02021869
+Validation score: 0.674699
+Iteration 19, loss = 0.01982196
+Validation score: 0.674699
+Iteration 20, loss = 0.01940492
+Validation score: 0.674699
+Iteration 21, loss = 0.01918060
+Validation score: 0.674699
+Iteration 22, loss = 0.01875587
+Validation score: 0.674699
+Iteration 23, loss = 0.01845702
+Validation score: 0.674699
+Iteration 24, loss = 0.01823341
+Validation score: 0.674699
+Iteration 25, loss = 0.01799739
+Validation score: 0.674699
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.

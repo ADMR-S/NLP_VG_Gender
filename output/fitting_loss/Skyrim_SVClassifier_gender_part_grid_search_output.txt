@@ -1,0 +1,2 @@
+Fitting 3 folds for each of 1536 candidates, totalling 4608 fits
+[LibSVM]

@@ -1,0 +1,1 @@
+Fitting 3 folds for each of 768 candidates, totalling 2304 fits

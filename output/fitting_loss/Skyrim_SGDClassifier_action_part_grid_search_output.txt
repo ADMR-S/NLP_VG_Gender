@@ -1,0 +1,23 @@
+Fitting 3 folds for each of 1728 candidates, totalling 5184 fits
+-- Epoch 1
+Norm: 208.75, NNZs: 40351, Bias: 0.860229, T: 1422, Avg. loss: 0.225748
+Total training time: 0.00 seconds.
+-- Epoch 2
+Norm: 176.54, NNZs: 40351, Bias: 1.190005, T: 2844, Avg. loss: 0.013143
+Total training time: 0.00 seconds.
+-- Epoch 3
+Norm: 153.86, NNZs: 40351, Bias: 1.436515, T: 4266, Avg. loss: 0.008718
+Total training time: 0.00 seconds.
+-- Epoch 4
+Norm: 137.60, NNZs: 40351, Bias: 1.552847, T: 5688, Avg. loss: 0.008900
+Total training time: 0.00 seconds.
+-- Epoch 5
+Norm: 125.37, NNZs: 40351, Bias: 1.679686, T: 7110, Avg. loss: 0.009453
+Total training time: 0.00 seconds.
+-- Epoch 6
+Norm: 115.97, NNZs: 40351, Bias: 1.795041, T: 8532, Avg. loss: 0.009872
+Total training time: 0.00 seconds.
+-- Epoch 7
+Norm: 108.63, NNZs: 40351, Bias: 1.885809, T: 9954, Avg. loss: 0.010127
+Total training time: 0.00 seconds.
+Convergence after 7 epochs took 0.00 seconds

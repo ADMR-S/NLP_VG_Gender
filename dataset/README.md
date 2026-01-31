@@ -163,6 +163,7 @@ The group labels can be any string, and there can be as many groups as is necess
 		}
 ```
 
+
 Tracking for individual characters can be done by creating a group just for that character:
 
 ```json

@@ -1,0 +1,127 @@
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Don't take any chances with this one. Use the Jarrin Root to poison the Emperor's food. You're disguising yourself as a chef -- it only makes sense.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Didn't I tell you to step forward? Hmm... Farm boy, eh? What's your weapon?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: A shrine to Molag Bal, the mighty Daedra Prince who is father to all our kind. Our power is a blessing from him. It is he who first bestowed the power of the ancient blood upon me.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I should come along. I would very much like to see this dragon.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: You know what? I think I do know the guy you're talking about.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Gods be with you.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: A guest, feeling ill. Leave the poor wretch be.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If the player kills Silus:
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Frodnar walks off.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Is that so, Erikur? And you with such delicate sensibilities. It must have been most upsetting.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They enter the Emperor's dining room.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Downstairs is a torture room where the workers are fighting Stormcloaks.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: What's wrong?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: And what of your latest, Arnbjorn? Something about a Khajiit? Merchant was it?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Before we go, I have to ask...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: They were worshippers of Mehrunes Dagon, the Daedric Lord of Destruction and Change. The Mythic Dawn killed Uriel Septim VII and his heirs, triggering the events that lead to the Oblivion Crisis, when the Daedra invaded Tamriel. All that remains of the infamous cult, I've gathered in my museum.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Then I'll take it off your corpse!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Just try to relax, Veezara. Let the elixir do its work. You'll feel better, shortly.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One ventures to Understone Keep in Markarth, and finds Raerek's inscribed Amulet of Talos in his nightstand. He's immediately confronted with it.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Heh. Chamber fit for a king and all that, right? No problem. Give ya a big bed, decorate the room real nice, maybe even throw in a few extra baubles.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: We're looking for a book of alchemical recipes called "The Dreamstride." The tome bears the likeness of Vaermina on the cover. It should be here somewhere.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: For the time being, they will remain open. If remnants of our kind who escaped the betrayal at the hands of the dwarves exist out there, perhaps they will find this place one day.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I know who you are, Anton Virane. And where you're from.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Taking the Pale gives us another port in Dawnstar, and puts us within striking distance of Windhelm. That should make Ulfric a bit more cautious, eh? Battles are won by trained and disciplined men. Wars are won by talented and exceptional individuals. I'm raising you to Praefect. Take this blade, as a gift and symbol of your new rank. You've earned it.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Follow me. Listen up, legionnaires. Those Stormcloaks are here for the same reason we are. Ulfric the Pretender wants that crown, but we're not going to let him have it. I realize some of you may know men on the other side. But remember this. They are the enemy now and will not hesitate to end your lives either. General Tullius is counting on us to bring back the Jagged Crown, and that's exactly what we're going to do. Let's show these rebels what real soldiers look like.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Are you saying you sent me out there to die?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I was hoping you would say that.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Your loss, but if you change your mind, I'll be here.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If one talk with Isran before continuing on with Serana...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I've seen enough to know their fabric. The warp of air, the weft of time. But no, it is not in my possession.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I'm thinking we need that amulet appraised. I want to know where it came from, how much it's worth, and if we can actually get away with selling it. And, there's only one man who can give us what we need -- Delvin Mallory. He's a fence, a private operator. Works out of the Ratway, in Riften. Give me the letter. Bring Mallory the amulet. Find out everything you can, and sell it if he's willing. He'll offer a letter of credit -- that's fine. Delvin Mallory and the Dark Brotherhood have...history. He can be trusted.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I will kill anyone who stands in my way. Anyone.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I'm just a little girl! The Dark Brotherhood killed my mama and papa, and then they took me captive! Please, please help me! Rather convincing, don't you think? In truth, I'm no more a little girl than you are. I was once, of course. Three hundred years ago. Vampirism tends to keep one remarkably...fresh. Can't wait to hear all about the next person you murder.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: My wealth is none of your business.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Deal with your own curses.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Not yet. These things can't be rushed.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The two escapees set off down the road.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Once they're dead, they find Arvel the Swift moaning downstairs, caught in a spider's netting. A spider attacks.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: In the meantime, we're going to get to the bottom of why a vampire showed up here looking for you. Let's go have a little chat with it, shall we?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: A distant noise rings down the mountainside.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: No. Knowing they could never defeat the orcs, the priests of Vaermina released what they call "The Miasma," putting everyone to sleep.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: In an age long forgotten to history, I ruled as a mighty king. My domain was vast, my riches endless and my power infinite. And yet, as my mortal life neared an end, I faced a seemingly invincible enemy -- my own mortality. I pledged myself to Molag Bal, and in his name I sacrificed a thousand innocents. In reward, he gave everlasting life to myself, my wife and my daughter. And so I have defeated mortality itself.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: You Nords and your bloody sense of honor.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The player caps the Eye's power with the Staff, robbing Ancano of all his of his Thalmor ambitions.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Fortunately, you're in a position to breach the barrier that surrounds these ruins.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Afterwards...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Do you know where I can find an Elder Scroll?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Keep your distance, jester, and we'll get along just fine.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The three of us could keep it.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One goes back to the thane.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Preposterous! That research represents years of personal toil in some of the most dangerous Dwemer ruins in Skyrim! You must be mad to think I'd allow anyone to see it before it's completed.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: That's what everybody says, right up until they find their throat being ripped out by a pack of hungry vampires. If you change your mind and decide to join fight before it's too late, go talk to Isran up at the fort.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Very well. Perhaps when my research is complete, I'll feel more comfortable discussing my findings with you.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The conduit to Nocturnal's realm, the realm of Evergloam, has been in Skyrim...well, longer than recorded history. The Twilight Sepulcher was constructed around it by man and mer in order to shield it from those who would exploit its power. It's through this conduit that we're given Nocturnal's greatest gift, our luck. What she gains in return is a complete mystery.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Stormblade. I want you to have my sword, a token of my appreciation. Now then. The men will expect a speech. Will you stand by my side? I wish to honor you, Dragonborn and the truest of Stormcloaks.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Ill luck. I'm a busy man and I don't have time for this sort of frivolity. But at the same time, I don't dare refuse an invitation from Elenwen.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They turn to flee, but...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Fair enough. I was hoping you could put aside your loyalties for the greater good, but I see you're firmly in Ulfric's camp. Still... Winterhold would allow us to directly threaten the rebel supply lines out of Windhelm... Better than nothing, I suppose. But Ulfric will need to offer a lot more if he wants me to give up Markarth without a fight.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Dragonborn claims the final piece and returns to Eorlund.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: That's what caused all the trouble. Soul gems are used in enchanting, but they break afterwards. Except one.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Everyone moves to the snowy courtyard.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: She walks over to Razelan's bench.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: A true Nord never fears death. It's the how and why of it one needs consider.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: You people and your damn Jarls.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: He died by my hand.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: How did the Daedra drive Malyn insane?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Ulfric, why so hostile? After all, it's not the Thalmor that are burning your farms and killing your sons.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: When asked to supply things and all options are exhausted:
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I did this for Nocturnal.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: You must speak to that Muiri woman, correct? I have heard rumors in Windhelm. She was recently implicated in a thievery, along with her lover. The lover will likely be your target. If memory serves me correctly, he leads a group of bandits. So this may be rather interesting for you.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Doom? You mean the return of the dragons?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The Agent of Subterfuge utilizes shadow to cloud the judgment of those around him. By weaving the darkness to their will, this Agent can manipulate others into fighting for the Nightingale for a limited time. Choose your path and your journey will be complete.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The player uses his Clear Skies Shout.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Ah, that feels so much better! You forget how nice supreme power feels until you've been stuck in a cave for a few years. • It's a shame you wished for something so dull as me taking back the mutt. Quite a lack of imagination on your part. A lack of ambition like that really ought to be punished. Perhaps by turning you into a worm, or maybe a few decades of... • Now, as for your wish... An end to the war, was it? I'll make sure this war ends, all right. Just as soon as the dragons swarm across Skyrim and wipe out all of you puny... • Now, as for your wish... Power, was it? You can be a part of a tremendous power -- all you have to do is let your soul be absorbed by this axe. I never said it would be your power... Oh, fine. Have my boon and be done with it. I've got more interesting deals to make anyway.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Wonderful. Please follow me, and don't wander off.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The player picks his/her character, prompting a race-related remark.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I'm not really sure. Made and used by Magnus himself, if you believe those sorts of things. I believe I've heard it said that it's the only thing that could adequately contain his power. The sort of embellishment wizards of ancient times loved to make.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They kill him.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: After finding a promissory note, it's time to report back to the Guild.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: That's quite a noble sentiment for someone in our...well, in your line of work.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The ancients built many of the fortresses that dot the landscape of Skyrim. Sadly, most have fallen into disrepair. And nearly all have been overrun by bandits or other vagabonds. Fort Hraagstad is one of the few that remains mostly intact. We're going to install a garrison there, but first, your going to clean out the bandits that have moved in.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: As directed, one reunites with the Blade at Riverwood.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: As a vampire, you will gain new powers, but also a weakness to sunlight. With each passing day that you do not feed, that weakness will become more deadly, but your powers will also become stronger. Feed upon those who are sleeping, and your vulnerability to sunlight will diminish along with your powers.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: How about we skip the conversation?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: • Oh ho. The whimpering Nord, eh? Yes, yes, I can see how you'd come to that conclusion. Interesting choice. • Ah, the feisty goodwife. Quite the mouth on her. Someone must have wanted her dead... right? • The conniving Khajiit. Cat like that was sure to have enemies. It's no wonder you chose him. • The blubbering barbarian and the tenacious mother. Must have been one of them, right? • Hmm. The fearless wife and mother, and the underhanded Khajiit. Had to be one of them, right? Interesting choice. • The timid warrior and the sly Khajiit. Must have been one or the other, right? • Well, well, aren't we the overachiever? Three possibilities, three victims. Must have been one of them, right? So why take chances...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The other DB members can be asked to comment on the current contract and the insight into the mission, so I'll list it anyway.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Yes, yes, what is it?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Carry on, soldier. This is all part of the Dragonborn's plan.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One can ask about Vyrthur's plan...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The player walks over.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The Chantry was a place of peaceful worship. I led a small group of paladins, but we were no match for the Betrayed's sheer numbers. They slaughtered everyone and stormed the Inner Sanctum where I believe they corrupted Vyrthur.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: This is Mercer Frey's place and he don't like visitors. Now go away.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Stay close to the wall!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Ah, no mere brute mercenary, but a thinker -- perhaps even a scholar? You see, when the stories of dragons began to circulate, many dismissed them as mere fantasties, rumors. Impossibilities. One sure mark of a fool is to dismiss anything that falls outside his experience as being impossible. But I began to search for information about dragons -- where had they gone all those years ago? And where were they coming from?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They fight the ancient dragon, fending off the skeletons his powers start to resurrect. Eventually, they stamp out his attacks.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: That was crafty. I'm sure having a steward in the pocket will come in handy. Lucky for us, that wagon recently had a little accident.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Ah, the one generous soul among a gathering of pinch-pennies and lick-spittles! If there's anything I can ever do for you, do not hesitate to call upon me!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Even with Vyrthur gone and the Inner Sanctum destroyed, my duty as a Knight-Paladin of Auri-El remains. I've been sworn to protect this vale and everything it represents until I die.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Welcome, Dragonborn! Our door has stood empty since Alduin first set his soul-snare here. By Shor's command we sheathed our blades and ventured not the vale's dark mist. But three await your word to loose their fury upon the perilous foe. Gormlaith the fearless, glad-hearted in battle; Hakon the valiant, heavy-handed warrior; Felldir the Old, far-seeing and grim.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: It only hurts when I laugh. He he he. Oww...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Ni fas, Dovahkiin!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Farkas is nearby.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The player can question Amaund further.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I think my father really died a long time ago. This was just...the end of something else. I did what needed to be done. Nothing more.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The battle below goes ill. If Alduin does not rise to our challenge, I fear all may be lost.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Well, I don't take just anyone into the secret parts of the place I grew up. Get rid of this interloper and you and I can be on our way. I'll wait for you at the dock.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Right... Helgen... One of the prisoners, if I recall correctly.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: You two, stay and guard the entrance. We don't want any Stormcloak reinforcements taking us by surprise. Everyone else, with me.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Azura curse you!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Don't take too long figuring it out. I've got a war to run here.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The Ebonmere is a conduit through which Nocturnal influences our world. Not through magic or blessings, but purely through luck.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If Keerava is beaten up:
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They go downstairs, almost getting trapped under the collapsing ceiling.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I've seen documents dating back to the late Second Era. Beyond that, it's hard to say. Events in the last several hundred years resulted in a significant loss of our history, I'm afraid.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The player walks over.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Lokir looks at the gagged man.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: And let me guess, that so-called someone is my husband Leigelf? Well the feeling's mutual.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Everyone returns to Volkihar to confront Harkon. Before finding him, some of the other vampires will comment on it. This is optional, but eh well.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Well now...would you look at that. I never imagined we'd find something like this. Why is this buried so far within Saarthal?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Your hearts are full of grief, and my own weeps at the loss of Skjor. But his death was avenged long ago. You have taken more lives than honor demanded. The cycle of retaliation may continue for some time.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Your insults and provocations have gone far enough! I'd kill you where you stand if I wasn't bound by my oath as an officer of the Aldmeri Dominion.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: That's none of your business.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: And this Anton Virane knows the Gourmet's true identity?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: You are persistent, Dovahkiin. Pruzeh ol aar. A fine slave you would have made.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Their arrival is the best thing that's happened to this Sanctuary in years. Astrid is an effective leader, but we've been rudderless for too long. Scrounging for contracts, abandoning the Tenets. The Dark Brotherhood has been reduced to a group of common cutthroats. Frankly, it's embarrassing.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They return to Dexion, who now appears with a blindfold.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Oh, no. Only the Circle have the beastblood. Prove your honor to be a Companion. "Eyes on the prey, not the horizon." We should keep moving. Still the draugr to worry about.

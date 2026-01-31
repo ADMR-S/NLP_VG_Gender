@@ -1,0 +1,83 @@
+Predicted: female, Actual: male, Dialogue: Sam, you're already on the clock.
+Predicted: female, Actual: male, Dialogue: Here you go. As promised.
+Predicted: female, Actual: male, Dialogue: Discard precious hardware? Never.
+Predicted: male, Actual: female, Dialogue: (Hologram)   Sam, it's Fragile. I hear you brought three preppers into the network …  and delivered everything they needed. That's some good work.
+Predicted: female, Actual: male, Dialogue: Well? Have you had a chance to think it over? Chock-full of chiralium—but safe for you DOOMS guys to wear. Now, it's all you'll need to go forth and reconnect the world. To make us whole again.
+Predicted: female, Actual: male, Dialogue: (voice) We're coming, Sam! You ready, Fragile?
+Predicted: male, Actual: female, Dialogue: (Hologram)   Until we meet again, my friend.
+Predicted: male, Actual: female, Dialogue: (via codec) An empty container tagged with a fake ID, AKA decoy cargo. Could be useful for fooling folks who can't get enough of other people's deliveries.
+Predicted: male, Actual: female, Dialogue: You're gonna need this on the road ahead. This will ID you as an associate of Fragile Express. It's woven from my blood and chiral crystals. Think of it as a kind of bond. Preppers ‘round these parts won't give you trouble so long as you've got it. We were the only people making deliveries out here. This was our territory. Until Higgs fucked it all up. Me, the Express, our reputation—all of it.
+Predicted: male, Actual: female, Dialogue: London Bridge is falling down, falling down, falling down. London Bridge is falling down, my fair lady.
+Predicted: female, Actual: male, Dialogue: Lockne? Hold up, I- I need to talk to you! You're a technician, right?
+Predicted: female, Actual: male, Dialogue: I got caught in the storm and …  I was in a war zone …
+Predicted: male, Actual: female, Dialogue: (via codec) Hey Sam. I was looking through my old client database on the off chance I might find our mystery woman. And wouldn't you know it, a pretty close match popped up. Facial and voice. She's still alive. Our junk dealer's grieving for nothing. I doubt he'll take our word for it, though. Hang on. He just posted another order. Probably just trying to push our buttons. May as well check the delivery terminal and see what he wants.
+Predicted: female, Actual: male, Dialogue: So what's your angle? You wanna save the world? Or you wanna fuck it all up like him?
+Predicted: male, Actual: female, Dialogue: (via codec) Oh, that's the roboticist's custom-made active skeleton, isn't it? Should be a big help on mountain trails—or any lousy road, come to think of it.
+Predicted: male, Actual: female, Dialogue: Here we go again. I don't know what's gotten into her lately. She's so scared. Look at her.
+Predicted: female, Actual: male, Dialogue: (Hologram)   The good news is, Fragile's available and willing to lend you a hand. If you want Fragile to send you, you'll need to head to a private room. South Knot City looks closest, from what I can see. It'll be a lot quicker than walking, that's for sure. But you can't take any cargo with you, so there's that. It's up to you. Just remember the option's there if you need it.
+Predicted: male, Actual: female, Dialogue: (Hologram)   Thanks, Sam. You've saved South Knot City and brought our people even closer together. You're halfway there—halfway to making us whole again. Listen, there's something I need to tell you.
+Predicted: female, Actual: male, Dialogue: You know, Sam, I'm starting to understand why BB is so important to you.
+Predicted: female, Actual: male, Dialogue: (via codec) Be advised, Sam. The case for that antimatter bomb was not designed for long-distance transport. The magnetic traps that keep the antimatter sequestered are delicate. A powerful impact, reckless driving, an unbalanced carrier-there are all kinds of ways the traps could fail. Any abnormalities detected within the case should trigger an alarm. If it goes off, you're doing it wrong. And if the bomb goes off, we'll have a disaster on our hands. The kind we can't come back from.
+Predicted: female, Actual: male, Dialogue: I'm sorry. I'm so sorry. (cries)
+Predicted: male, Actual: female, Dialogue: Take it with you. Tell the lifers with porter syndrome what happens when you hide behind a mask.
+Predicted: male, Actual: female, Dialogue: But it does. The Beach is doomed no matter what. One look ought to tell you that. Which is why we must sever our connection.
+Predicted: female, Actual: male, Dialogue: Can you see me Sam? It's DOOMSDAY! SAAAAM! Haha. There's no point in fighting.
+Predicted: female, Actual: male, Dialogue: Let it go—please.
+Predicted: female, Actual: male, Dialogue: Thank you, Sam. In reclaiming our past, we've uncovered a number of vital clues. Don't worry. I just got back. We have time. When you met with Mama, you experienced a strong antigen-antibody reaction, correct?
+Predicted: male, Actual: female, Dialogue: Higgs and his people came. They finally reached Edge Knot City. There's no escape for me now. Everyone's dead, the city's destroyed. And what's left is crawling with BTs. They're everywhere.
+Predicted: male, Actual: female, Dialogue: Ask your boss man.
+Predicted: female, Actual: male, Dialogue: (Hologram)   No reservations about working with her then, I hope.
+Predicted: female, Actual: male, Dialogue: That you, Sam? Sam! Over here! Sam, over here.
+Predicted: female, Actual: male, Dialogue: Getting a little touchy-feely there, Mr. Aphenphosmphobia. (laughs and coughs) Well, congratulations. You won the game. Too bad you didn't stop shit. Well? Get on with it.
+Predicted: female, Actual: male, Dialogue: You won't. I'm ending the call.
+Predicted: male, Actual: female, Dialogue: (via codec) Sam, it's Fragile. Though he calls himself a junk dealer now, your client used to work in comms as a repairman. Could fix anything—from simple wireless terminals to integral parts of the civic network. He was a good man. A pleasure to deal with. But after the attack near South Knot City, he changed. Not that I blame him. We gave him plenty of reason to distrust us.
+Predicted: male, Actual: female, Dialogue: (via codec) The second you left the distribution center, the storm blinked out. Just like that. Chiral density dropped almost as fast.
+Predicted: female, Actual: male, Dialogue: By killing him?
+Predicted: male, Actual: female, Dialogue: (via codec) You may select "Partial Delivery" to submit required cargo currently in your possession and return with the remainder when convenient. Once the cargo submitted meets or exceeds requirements, you may designate the order complete at any time.
+Predicted: male, Actual: female, Dialogue: Okay. Let's pull the data from your cuff links and take a look then.
+Predicted: male, Actual: female, Dialogue: Sam? What are you doing here?
+Predicted: female, Actual: male, Dialogue: Over here! Amelie!
+Predicted: female, Actual: male, Dialogue: Where's the other thing you were supposed to bring? Ah, found it. Behold.
+Predicted: female, Actual: male, Dialogue: Sam, it's me. Deadman.
+Predicted: male, Actual: female, Dialogue: Well, that's all pretty crazy, but at least you're not. Timestamps in the logs support your story. Best guess I can muster is you were, "trapped" between two different spacetimes.
+Predicted: male, Actual: female, Dialogue: She was due …  I was in the hospital waiting for a C-section. Then the terrorists hit us.
+Predicted: female, Actual: male, Dialogue: Nobody out here but us damn fools …  Well, at least I'm getting my steps in.
+Predicted: male, Actual: female, Dialogue: Sorry. Didn't mean to startle you. You were sleeping when I cropped by. Thanks for the shower.
+Predicted: male, Actual: female, Dialogue: (Hologram)   Thank you.
+Predicted: female, Actual: male, Dialogue: (via codec) You know, if you've got a floating carrier but no cargo worth mentioning, you might try hopping on it yourself.
+Predicted: female, Actual: male, Dialogue: (Hologram)   Long time gone, my girl. All because of some terrorist nutjobs …  and their buddies at Fragile fucking Express—not to mention the Bridges assholes who had to go and kick the hornet's nest. Whatever—let's see the goods. You made good time. Like you're supposed to. That's your job, isn't it?
+Predicted: female, Actual: male, Dialogue: Oh …  Jesus.
+Predicted: female, Actual: male, Dialogue: (via codec) So, here's the thing …  Lockne is Mama's twin sister. Former Bridges I. Went west with the others. Second group, just like Mama. Mama's not her real name, of course. That'd be Målingen. Both have DOOMS and both are scientific geniuses. Mama's primary field of expertise is applied physics. Lockne's is theoretical. Mama designed the Q-pid hardware, Lockne the software. They said they could converse over any distance. Said they had a special bond that let them. I don't know how that's possible, but I'll tell you this. There wouldn't be a chiral network without them. They were so close that some said they were like one person in two bodies. Might be why they were able to develop the Q-pid. But they had a falling out after Målingen's accident. Lockne left Bridges and cut off all contact with us. I don't know what happened between them. But if we don't bring Lockne around, our plans to make America whole again are finished. Not that I'm asking you to stick your nose in their personal business … . Though …  if you did, it might help us figure out how to bring Lockne around. Which would be great, because our plans to make America whole again are finished without her. In the meantime, if you've got any bright ideas, feel free to give them a shot.
+Predicted: female, Actual: male, Dialogue: Don't let him take BB.
+Predicted: male, Actual: female, Dialogue: (via codec) He's wrong. She's in a shelter southeast of the ruins. Mind if I take over? If he's not coming outside, then it doesn't matter who he yells at over the wire. And I'm guessing he'll feel better taking it out on me.
+Predicted: female, Actual: male, Dialogue: You think the suicide that took out Central Knot was one of theirs?
+Predicted: female, Actual: male, Dialogue: See? It's like I'm not even here. Same as it ever was.
+Predicted: male, Actual: female, Dialogue: She's sound asleep. I made sure she got plenty of milk. Just do it. Please, Sam. Set us free. This world was never hers, but all the same I didn't want her to leave it. Even though she is already lost. Truth is …  She's not really my daughter.
+Predicted: female, Actual: male, Dialogue: All right. I'm pretty good at patching things up.
+Predicted: female, Actual: male, Dialogue: Help me! HELP ME!
+Predicted: male, Actual: female, Dialogue: There. She's down. Even though she can't drink it, my body keeps making it. Going through the motions really helps with the soreness, though.
+Predicted: female, Actual: male, Dialogue: He wasn't quarantined?
+Predicted: male, Actual: female, Dialogue: Come on! I need to see it now! It's a nuke! Not again. That bastard can't do this to me again! The timer's already started. I can't stop it. We only have one option. Sam, we've got to get rid of it! Take it down to the crater next to South Knot. It's a tar pit damn near bottomless. If we chuck it in there we just might have a chance!
+Predicted: female, Actual: male, Dialogue: Yeah, she'd already cut her Beach loose. It was just …  gone. We didn't know if that meant she'd dragged you into the great beyond, or sent you to some other Beach …  We were really racking our brains. Heartman and Mama split up and started searching every Beach you might feasibly have washed up on. We looked for a month with absolutely nothing to show for it.
+Predicted: female, Actual: male, Dialogue: Keep it together, I'm on my way. And don't hook up BB either—you'll lead him straight to you.
+Predicted: male, Actual: female, Dialogue: Of course I've got a solution. Right over here, in fact. We just need to integrate a limiter into this new Q-pid I threw together. Thought I'd make you one, since you said you were coming.
+Predicted: female, Actual: male, Dialogue: (voice) Over here, Sam! Deadman!
+Predicted: male, Actual: female, Dialogue: Oh good. That's great.
+Predicted: male, Actual: female, Dialogue: (via codec) An oxygen mask, huh? Good idea. It'll filtrate the air and keep you breathing normally. In addition to protecting you from toxic gases, it'll also help to reduce fatigue from strenuous activity, making it easier to keep your balance. If it didn't have a limited battery life, I'd tell you to keep it on the whole time but it does, so don't.
+Predicted: male, Actual: female, Dialogue: We convinced community after community to join the UCA, and we left behind our own people to help them. It took us three years, but we managed to make it all the way to Edge Knot City.
+Predicted: female, Actual: male, Dialogue: No, I'm not. Not anymore. My name is Sam Porter Bridges.
+Predicted: female, Actual: male, Dialogue: (on the Beach) What happened? What's going on?
+Predicted: female, Actual: male, Dialogue: (via codec) Sam. I'm sure you haven't forgotten, but you need to be extremely careful with that antimatter bomb, especially when transporting it via carrier or vehicle. Any irregularities should trigger an alarm. Don't ignore it.
+Predicted: male, Actual: female, Dialogue: (via codec) Looks like you've got an empty container there, huh? Feel free to submit junk like that to Bridges. You might not have a use for it, but we do.
+Predicted: male, Actual: female, Dialogue: No. Crisis not averted. We need to rewrite the software to work with the new hardware.
+Predicted: female, Actual: male, Dialogue: She's safe here with us. But so long as you're over there, she won't be able to send you to the Beach.
+Predicted: male, Actual: female, Dialogue: He doesn't need your help. He's got the chiral network. And he's got me. We can jump east together.
+Predicted: female, Actual: male, Dialogue: Thank you, Sam.
+Predicted: male, Actual: female, Dialogue: So yeah …  you will need to haul yourself all the way back here. But once you have, I promise I'll take you to Amelie. Straight to her Beach.
+Predicted: female, Actual: male, Dialogue: (via codec) Don't forget that container isn't airtight. Oration You can't afford to submerge it-even partially.
+Predicted: male, Actual: female, Dialogue: Okay. Then, how about I add another knot every time I see you?
+Predicted: female, Actual: male, Dialogue: That's ‘cause we're partners.
+Predicted: male, Actual: female, Dialogue: No, the Beach goes the whole way. We run, together.
+Predicted: male, Actual: female, Dialogue: Higgs. He's the leader of a separatist group.
+Predicted: female, Actual: male, Dialogue: (with distorted Amelie voice) Sam, it's me.
+Predicted: male, Actual: female, Dialogue: (via codec) Looks like you've tripped an intrusion sensor. To be clear, these sensors react to you, not to your cargo. Be careful—trouble may be on the way.

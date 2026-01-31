@@ -1,0 +1,19 @@
+Predicted: ACTION, Actual: CHARACTER, Dialogue: A guest, feeling ill. Leave the poor wretch be.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One ventures to Understone Keep in Markarth, and finds Raerek's inscribed Amulet of Talos in his nightstand. He's immediately confronted with it.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: i've brought a message from the Jarl of Whiterun.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: In the time before man, they were known as the snow elves. They lived in the sunlight and had a very prosperous society.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: What's the Dawnguard?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They turn to flee, but...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: She walks over to Razelan's bench.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The Night Mother heard your pleas, Motierre.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: How did the Daedra drive Malyn insane?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: When asked to supply things and all options are exhausted:
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Secure the door.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The other DB members can be asked to comment on the current contract and the insight into the mission, so I'll list it anyway.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One can ask about Vyrthur's plan...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Stay close to the wall!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Right... Helgen... One of the prisoners, if I recall correctly.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: ...and steals its soul when it lands. He repeats this for his other helper.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Everyone returns to Volkihar to confront Harkon. Before finding him, some of the other vampires will comment on it. This is optional, but eh well.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Give the word, my lord, and Whiterun is yours.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They return to Dexion, who now appears with a blindfold.

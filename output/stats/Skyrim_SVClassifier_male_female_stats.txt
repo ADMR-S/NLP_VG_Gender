@@ -1,0 +1,24 @@
+ num_entries : 5178
+
+male : 3598
+percentage of male : 69.48628814213981%
+
+female : 1580
+percentage of female : 30.513711857860176%
+
+num_unique_characters : 369
+characters with most dialogues : 
+character_name
+Serana      257
+Brynjolf    165
+Ulfric      156
+Galmar      140
+Karliah     139
+Name: count, dtype: int64
+
+num_unique_groups : 2
+dialogues_per_group : 
+character_group
+male      3598
+female    1580
+Name: count, dtype: int64

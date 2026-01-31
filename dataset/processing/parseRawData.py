@@ -103,32 +103,37 @@ if len(sys.argv)>1:
 	folders = [fx]
 
 for folder in folders:
-	with open(folder+"meta.json") as json_file:
-		meta = json.load(json_file)
-	pp = meta["parserParameters"]
-	print("PARSING "+meta["game"])
+    meta_path = folder + "meta.json"
+    if not os.path.isfile(meta_path):
+        print(f"File not found: {meta_path}")
+        print("Directory contents:", os.listdir(folder))
+        continue
+    with open(meta_path) as json_file:
+        meta = json.load(json_file)
+    pp = meta["parserParameters"]
+    print("PARSING "+meta["game"])
 
-	parseMethod = getattr(getattr(parsers, pp["parser"]),"parseFile")
-	fileType = "html"
-	if "fileType" in pp:
-		fileType = pp["fileType"]
-	rawFiles = [x for x in os.listdir(folder+"raw/") if x.endswith(fileType)]
-	rawFiles.sort()
-	out = []
-	for rawFile in rawFiles:
-		out += parseMethod(folder+"raw/"+rawFile,pp)
-	
-	if hasattr(getattr(parsers, pp["parser"]), 'postProcessing'):
-		postProcessingMethod = getattr(getattr(parsers, pp["parser"]),"postProcessing")
-		out = postProcessingMethod(out)
-	
-	#altAliasOut = deepcopy(out)
-	if "aliases" in meta.keys():
-		# At the beginning of the project, the alias algorithm iterated over lines, applying all rules to each line.
-		#  However, coders were creating rules as if they iterated over rules, applying a rule to all lines.
-		#  So another algorithm was implemented
-		#out = changeAliasMulitlevel(out,meta["aliases"])
-		out = changeAliasMulitlevel_applyMetaFileOrder(out,meta["aliases"])
-	
-	writeData(out,folder)
+    parseMethod = getattr(getattr(parsers, pp["parser"]),"parseFile")
+    fileType = "html"
+    if "fileType" in pp:
+        fileType = pp["fileType"]
+    rawFiles = [x for x in os.listdir(folder+"raw/") if x.endswith(fileType)]
+    rawFiles.sort()
+    out = []
+    for rawFile in rawFiles:
+        out += parseMethod(folder+"raw/"+rawFile,pp)
+    
+    if hasattr(getattr(parsers, pp["parser"]), 'postProcessing'):
+        postProcessingMethod = getattr(getattr(parsers, pp["parser"]),"postProcessing")
+        out = postProcessingMethod(out)
+    
+    #altAliasOut = deepcopy(out)
+    if "aliases" in meta.keys():
+        # At the beginning of the project, the alias algorithm iterated over lines, applying all rules to each line.
+        #  However, coders were creating rules as if they iterated over rules, applying a rule to all lines.
+        #  So another algorithm was implemented
+        #out = changeAliasMulitlevel(out,meta["aliases"])
+        out = changeAliasMulitlevel_applyMetaFileOrder(out,meta["aliases"])
+    
+    writeData(out,folder)
 

@@ -1,0 +1,73 @@
+Predicted: male, Actual: female, Dialogue: Hmm. I'll supply you both with comm devices. Right this way, please.
+Predicted: male, Actual: female, Dialogue: (auto-talk) We should talk to those people. Maybe they can tell us what's going on.
+Predicted: male, Actual: female, Dialogue: This has gone too far. (She sucks in a deep breath and shouts.) That's enough! I've about had it with your mischief! You should be ashamed of yourselves for behaving like this! You should know better! Well? What do you have to say for yourselves?
+Predicted: female, Actual: male, Dialogue: Good. Why don't we go and find Lightning?
+Predicted: female, Actual: male, Dialogue: I wonder if he really meant it. Maybe you didn't want to go, and you were glad to have the excuse.
+Predicted: female, Actual: male, Dialogue: (over an intercom) Serah, get down! (Blasts of energy from a skyfleet strike the monsters. Hope is shown on the deck of one of the ships with a team of soldiers. He waves an arm.) Go! (The soldiers leap down.)
+Predicted: female, Actual: male, Dialogue: (nods) Right.
+Predicted: female, Actual: male, Dialogue: I must admit you surprised me, but you've also piqued my interest! It's in my nature to want to study the unexplained.
+Predicted: male, Actual: female, Dialogue: (narrating) The man we encountered was an elite member of the Blitz Squadron. They called him Baxter. He was wounded from head to toe, but miraculously, none of his wounds were fatal. The airship that was carrying these Academy soldiers was attacked by a dark shadow in the sky before it crashed to the ground. It's a miracle they survived this horrible accident.
+Predicted: female, Actual: male, Dialogue: This, this is what it means to change time.
+Predicted: female, Actual: male, Dialogue: (auto-talk) We should flip the switch.
+Predicted: female, Actual: male, Dialogue: Uh-oh. Did you guys forget something? Hey, and when did you become pros at working that time machine?
+Predicted: male, Actual: female, Dialogue: (auto-talk) This isn't real... None of it! Where did he go!?
+Predicted: male, Actual: female, Dialogue: Mog, you can help? You're a lifesaver!
+Predicted: female, Actual: male, Dialogue: So pick a side, Mog. Serah or Lightning?
+Predicted: male, Actual: female, Dialogue: (waving) I'll be back!
+Predicted: male, Actual: female, Dialogue: The group that stayed on Cocoon and the ones who moved to Pulse aren't on great terms. If things escalate, we might have another war.
+Predicted: male, Actual: female, Dialogue: (narrating) Vanille, listen. I know what it's like. You're trapped in crystal, but your soul is still alive. You're sleeping, but your thoughts are still awake. I know, because I experienced that, too. I can feel your pain. I can feel your sorrow, your grief, and your remorse. I know there's someone you want to apologize to. Can you give us some time? I promise we'll find Fang and bring her here, so you can tell her how you feel.
+Predicted: female, Actual: male, Dialogue: It's being jammed by a paradox.
+Predicted: male, Actual: female, Dialogue: Probably. But just because that's how she would do it, it doesn't necessarily mean that's how we should. I think we need to find our own way to do this. Don't you?
+Predicted: female, Actual: male, Dialogue: Lightning was fighting in Valhalla. That's where I met her, and that's when she told me to come and find Serah.
+Predicted: male, Actual: female, Dialogue: (auto-talk) I don't want to go back to the Sanctum days, but I have to admit things are pretty rough at the moment. The Academy's top priority is finding an energy source to replace the fal'Cie. I'm scared to get close to Atlas, but I do what I have to do because I know my work will help others.
+Predicted: female, Actual: male, Dialogue: (auto-talk) It's like that old saying: gil talks. All the monsters look like piles of gil to me! I'm making out like a bandit! They've raised the bounty again!
+Predicted: female, Actual: male, Dialogue: I'm counting on you. Come to me if you notice anything strange. By the way, the witnesses noticed something interesting about the stars. They said that all three of them were different colors. Three different colored stars falling from the sky... It sounds like it could be something quite mystical, don't you think?
+Predicted: female, Actual: male, Dialogue: Want to join me on my smoke break?
+Predicted: male, Actual: female, Dialogue: (auto-talk) Who was that? And why is she trying to help me?
+Predicted: female, Actual: male, Dialogue: For the love of Etro, don't thank me. (The scene ends and a new one begins. An artefact appears and Noel takes it.) An artefact from Yeul. (A Time Gate lights up in the distance.)
+Predicted: female, Actual: male, Dialogue: (watching things crumble around him) Lightning... Gotta go! (He leaps into the gate and the screen goes gray.)
+Predicted: female, Actual: male, Dialogue: (leaps) Well, let's find out.
+Predicted: female, Actual: male, Dialogue: If Snow hadn't trained us the way he did, there's no way we could survive here on Pulse.
+Predicted: female, Actual: male, Dialogue: Yes. The seeress would read the fates, see the future, and guide her country.
+Predicted: male, Actual: female, Dialogue: Is this... is this my village?
+Predicted: female, Actual: male, Dialogue: (nods) Let's.
+Predicted: male, Actual: female, Dialogue: Wait. What happened to Cocoon? It's not there.
+Predicted: male, Actual: female, Dialogue: (auto-talk) Assembling formation. Redirecting security forces.
+Predicted: female, Actual: male, Dialogue: From now on, the focus of the investigation will be those glowing objects, the gates. I'm just glad that no one was badly injured.
+Predicted: male, Actual: female, Dialogue: You're Yeul, aren't you?
+Predicted: female, Actual: male, Dialogue: Serah. I can take you there. We can find Lightning together. I know she wants to see you.
+Predicted: male, Actual: female, Dialogue: (narrating) The war against Cocoon--it was inevitable. The army of Gran Pulse was annihilated by the overwhelming power of the fal'Cie. Countless lives were lost. But I didn't fight. I couldn't. Not even to protect my friends, the people I love. To hate. To hurt. To destroy. I refused to accept my Focus. I was sad. I was scared. That's why I decided to run. I left Fang to deal with everything. We vowed to protect each other. And I broke that promise. I'm the reason. I'm the reason Fang was forced to carry the burden of the monster--of Ragnarok. Because I was weak. Because I abandoned her. Fang, where are you? (Serah and Noel approach Vanille's crystal.) I have to make up for what I did, Or else...
+Predicted: male, Actual: female, Dialogue: So what if he did?
+Predicted: female, Actual: male, Dialogue: If we succeed, you'll be reunited with Lightning. I guess we know what we have to do!
+Predicted: female, Actual: male, Dialogue: So you're sure about this, Mog?
+Predicted: female, Actual: male, Dialogue: That's her, right? That's Lightning?
+Predicted: female, Actual: male, Dialogue: (sinks to the ground) Ah, what a relief.
+Predicted: female, Actual: male, Dialogue: Oh? You'll go look for one for me? Is it snowing somewhere that I don't know about? Well, I won't hold out too much hope.
+Predicted: female, Actual: male, Dialogue: You're going to search for the tablet? Don't be absurd. Like I told you before, it shattered into a million pieces. It's gone. No other relic compared to that tablet in value. I don't see how you'd be able to get your hands on something like that.
+Predicted: female, Actual: male, Dialogue: You know, Maqui's been acting kind of shifty lately.
+Predicted: male, Actual: female, Dialogue: It looks like we're safe. The network's back up and running.
+Predicted: female, Actual: male, Dialogue: Excuse me, I don't mean to take up too much of your time, but did you see some strange lights last night? Someone witnessed three stars falling from the sky. I thought it could be a meteorite of some sort, but there's no evidence of that anywhere. It's possible it burned up before it reached our atmosphere. If you see anything that looks out of place, please let me know.
+Predicted: male, Actual: female, Dialogue: Serah.
+Predicted: female, Actual: male, Dialogue: I know you say you won't get mad at me, but I can't tell you. I don't wanna get yelled at.
+Predicted: male, Actual: female, Dialogue: Right. We'll do it your way.
+Predicted: female, Actual: male, Dialogue: Oh, thank goodness! Ray, the guys... They're okay!
+Predicted: female, Actual: male, Dialogue: Okay. You saw Serah getting mad at you, so you canceled your project, and then poof, the Proto fal'Cie disappeared. Is that about right? We didn't destroy it so much as it never existed in the first place.
+Predicted: female, Actual: male, Dialogue: I hear people are arguing about whether to restore Cocoon, or relocate residents to Pulse. I'm perfectly happy right here in the boonies!
+Predicted: male, Actual: female, Dialogue: There might be other things to discover, too. It looks like everything's back to normal.
+Predicted: male, Actual: female, Dialogue: Come, I'll teach you how to operate the machine. Use the lever to shift the direction of the wind. That's the first step in changing the weather. The weather will change depending on which levers you use. There are four possible combinations-- and four possible weather conditions. There is a correlation between monsters and the weather. For example, if you make it rain, the monsters near watering holes will become more vicious. And rare monsters with extraordinary strength may appear. By controlling the weather, you can control what kind of monsters you'll run into. That's about it. If you forget how to work it, come talk to me again.
+Predicted: male, Actual: female, Dialogue: Yes. Caius is trying to create a world where time does not exist. If he can erase time...
+Predicted: female, Actual: male, Dialogue: Etro?
+Predicted: female, Actual: male, Dialogue: A place that doesn't have much in the way of fun or civilization. That's where I'm from.
+Predicted: female, Actual: male, Dialogue: (auto-talk) This is more than just an elevator malfunction. We've been sucked into the paradox.
+Predicted: male, Actual: female, Dialogue: (standing a little ways away) Stop.
+Predicted: female, Actual: male, Dialogue: Thanks, Serah. We'll talk about it soon.`
+Predicted: female, Actual: male, Dialogue: (narrating) And that's how Caius came to abandon us, and made Yeul and I the last two humans left in the world.
+Predicted: male, Actual: female, Dialogue: (auto-talk) You know what, I wanna look at that device. It must have something to do with the paradox.
+Predicted: male, Actual: female, Dialogue: Two entities from different times cannot coexist. If this were to occur, history would be infused with contradictions. This would lead to a distortion causing the entire world to collapse. The Subjects require further analysis. Hypothesis: Their existence has initiated a distortion in history... ... and the entities are a living paradox.
+Predicted: male, Actual: female, Dialogue: (over communicator) Serah... you should take this more seriously.
+Predicted: female, Actual: male, Dialogue: No, that was just a lie. Now that the timeline is fixed, she's back in her own world. I bet she's waiting for you, along with everyone else.
+Predicted: male, Actual: female, Dialogue: (auto-talk) I wish I could help you out, but I don't have any jobs for you right now. Sorry! I appreciate your help!
+Predicted: female, Actual: male, Dialogue: We have no idea what caused the aberration.
+Predicted: female, Actual: male, Dialogue: I wonder what sort of person was this seeress.
+Predicted: male, Actual: female, Dialogue: Damn you...
+Predicted: male, Actual: female, Dialogue: You know, I was thinking, if Noel here really is from the future, he must be pretty curious about this time period.

@@ -1,0 +1,24 @@
+ num_entries : 209
+
+male : 96
+percentage of male : 45.933014354066984%
+
+female : 113
+percentage of female : 54.066985645933016%
+
+num_unique_characters : 34
+characters with most dialogues : 
+character_name
+Elisabet Sobeck     29
+Ted Faro            26
+Female Counselor    23
+GAIA                17
+Charles Ronson       9
+Name: count, dtype: int64
+
+num_unique_groups : 2
+dialogues_per_group : 
+character_group
+female    113
+male       96
+Name: count, dtype: int64

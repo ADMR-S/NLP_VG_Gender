@@ -1,0 +1,11 @@
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (garbled) with Susanne Alpert, environmental scientist. Doctor?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: DATAPOINT: Just a Little Longer
+Predicted: ACTION, Actual: CHARACTER, Dialogue: This datapoint is obtained automatically during the main quest The Mountain that Fell. It cannot be missed.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: This datapoint is obtained automatically during the main quest The Heart of the Nora while exploring ELEUTHIA-9. It cannot be missed.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I believe we couldn't negotiate a diplomatic solution.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: pause
+Predicted: CHARACTER, Actual: ACTION, Dialogue: various groans, muttered curses
+Predicted: CHARACTER, Actual: ACTION, Dialogue: DATAPOINT: FAS-ACA3 Scarab (Datapoint)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Elisabet Sobeck appears via hologram from outside the facility
+Predicted: CHARACTER, Actual: ACTION, Dialogue: DATAPOINT: Log: Tom Paech
+Predicted: CHARACTER, Actual: ACTION, Dialogue: DATAPOINT: Rest In Peace

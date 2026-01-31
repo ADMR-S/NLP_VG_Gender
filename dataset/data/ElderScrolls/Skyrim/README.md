@@ -17,6 +17,8 @@ The wiki has a list of male and female characters in Skyrim, which is a helpful 
 
 > "It's Durnehviir...he's here!"
 
+
+
 The Daedric Princes also do not appear in the gendered character lists, although again they are referred to with gendered pronouns in the game and in the wiki. The wiki notes (https://elderscrolls.fandom.com/wiki/Daedric_Princes): 
 
 > While Daedra can manifest as either male or female (being, in reality, genderless), all of these high Daedra are typically referred to as "Princes.

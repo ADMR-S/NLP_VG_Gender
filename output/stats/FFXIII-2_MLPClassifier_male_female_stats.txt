@@ -1,0 +1,24 @@
+ num_entries : 4285
+
+male : 2538
+percentage of male : 59.229871645274216%
+
+female : 1747
+percentage of female : 40.770128354725784%
+
+num_unique_characters : 203
+characters with most dialogues : 
+character_name
+Serah    1035
+Noel      961
+Mog       373
+Hope      128
+Snow      119
+Name: count, dtype: int64
+
+num_unique_groups : 2
+dialogues_per_group : 
+character_group
+male      2538
+female    1747
+Name: count, dtype: int64

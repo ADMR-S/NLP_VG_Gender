@@ -1,0 +1,56 @@
+Fitting 3 folds for each of 1728 candidates, totalling 5184 fits
+-- Epoch 1
+Norm: 247.25, NNZs: 10679, Bias: 0.622786, T: 828, Avg. loss: 1.049497
+Total training time: 0.00 seconds.
+-- Epoch 2
+Norm: 229.30, NNZs: 10729, Bias: 0.921750, T: 1656, Avg. loss: 0.105660
+Total training time: 0.00 seconds.
+-- Epoch 3
+Norm: 212.04, NNZs: 10711, Bias: 0.524547, T: 2484, Avg. loss: 0.056667
+Total training time: 0.00 seconds.
+-- Epoch 4
+Norm: 196.09, NNZs: 10646, Bias: 0.729195, T: 3312, Avg. loss: 0.061750
+Total training time: 0.00 seconds.
+-- Epoch 5
+Norm: 184.60, NNZs: 10647, Bias: 0.475999, T: 4140, Avg. loss: 0.043259
+Total training time: 0.00 seconds.
+-- Epoch 6
+Norm: 173.45, NNZs: 10644, Bias: 0.632112, T: 4968, Avg. loss: 0.062532
+Total training time: 0.00 seconds.
+-- Epoch 7
+Norm: 165.55, NNZs: 10642, Bias: 0.417477, T: 5796, Avg. loss: 0.042790
+Total training time: 0.00 seconds.
+-- Epoch 8
+Norm: 157.55, NNZs: 10636, Bias: 0.497074, T: 6624, Avg. loss: 0.055563
+Total training time: 0.00 seconds.
+-- Epoch 9
+Norm: 151.09, NNZs: 10635, Bias: 0.552854, T: 7452, Avg. loss: 0.045260
+Total training time: 0.00 seconds.
+-- Epoch 10
+Norm: 145.62, NNZs: 10630, Bias: 0.561787, T: 8280, Avg. loss: 0.041164
+Total training time: 0.00 seconds.
+-- Epoch 11
+Norm: 141.19, NNZs: 10627, Bias: 0.472364, T: 9108, Avg. loss: 0.043236
+Total training time: 0.00 seconds.
+-- Epoch 12
+Norm: 136.61, NNZs: 10625, Bias: 0.650783, T: 9936, Avg. loss: 0.047971
+Total training time: 0.00 seconds.
+-- Epoch 13
+Norm: 133.31, NNZs: 10620, Bias: 0.528978, T: 10764, Avg. loss: 0.038231
+Total training time: 0.00 seconds.
+-- Epoch 14
+Norm: 129.91, NNZs: 10615, Bias: 0.641602, T: 11592, Avg. loss: 0.050021
+Total training time: 0.00 seconds.
+-- Epoch 15
+Norm: 127.45, NNZs: 10611, Bias: 0.559561, T: 12420, Avg. loss: 0.039600
+Total training time: 0.00 seconds.
+-- Epoch 16
+Norm: 124.95, NNZs: 10610, Bias: 0.591543, T: 13248, Avg. loss: 0.044453
+Total training time: 0.00 seconds.
+-- Epoch 17
+Norm: 122.75, NNZs: 10605, Bias: 0.615535, T: 14076, Avg. loss: 0.043561
+Total training time: 0.01 seconds.
+-- Epoch 18
+Norm: 120.91, NNZs: 10601, Bias: 0.610954, T: 14904, Avg. loss: 0.044999
+Total training time: 0.01 seconds.
+Convergence after 18 epochs took 0.01 seconds

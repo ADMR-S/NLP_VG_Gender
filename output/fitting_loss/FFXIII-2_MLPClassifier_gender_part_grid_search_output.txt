@@ -1,0 +1,78 @@
+Fitting 3 folds for each of 128 candidates, totalling 384 fits
+Iteration 1, loss = 0.74295649
+Validation score: 0.594203
+Iteration 2, loss = 0.24387161
+Validation score: 0.594203
+Iteration 3, loss = 0.14703391
+Validation score: 0.608696
+Iteration 4, loss = 0.09957872
+Validation score: 0.594203
+Iteration 5, loss = 0.07556463
+Validation score: 0.579710
+Iteration 6, loss = 0.06215097
+Validation score: 0.565217
+Iteration 7, loss = 0.05465054
+Validation score: 0.579710
+Iteration 8, loss = 0.05087681
+Validation score: 0.594203
+Iteration 9, loss = 0.04952707
+Validation score: 0.594203
+Iteration 10, loss = 0.04829073
+Validation score: 0.623188
+Iteration 11, loss = 0.04759227
+Validation score: 0.637681
+Iteration 12, loss = 0.04508094
+Validation score: 0.623188
+Iteration 13, loss = 0.04479969
+Validation score: 0.637681
+Iteration 14, loss = 0.04487187
+Validation score: 0.652174
+Iteration 15, loss = 0.04398996
+Validation score: 0.652174
+Iteration 16, loss = 0.04332024
+Validation score: 0.666667
+Iteration 17, loss = 0.04282032
+Validation score: 0.652174
+Iteration 18, loss = 0.04439769
+Validation score: 0.666667
+Iteration 19, loss = 0.04380062
+Validation score: 0.666667
+Iteration 20, loss = 0.04431724
+Validation score: 0.666667
+Iteration 21, loss = 0.04338470
+Validation score: 0.666667
+Iteration 22, loss = 0.04279025
+Validation score: 0.666667
+Iteration 23, loss = 0.04300570
+Validation score: 0.652174
+Iteration 24, loss = 0.04189448
+Validation score: 0.681159
+Iteration 25, loss = 0.04312596
+Validation score: 0.681159
+Iteration 26, loss = 0.04191383
+Validation score: 0.666667
+Iteration 27, loss = 0.04313472
+Validation score: 0.695652
+Iteration 28, loss = 0.04191853
+Validation score: 0.695652
+Iteration 29, loss = 0.04260666
+Validation score: 0.681159
+Iteration 30, loss = 0.04329993
+Validation score: 0.652174
+Iteration 31, loss = 0.04286108
+Validation score: 0.666667
+Iteration 32, loss = 0.04202920
+Validation score: 0.666667
+Iteration 33, loss = 0.04355836
+Validation score: 0.666667
+Iteration 34, loss = 0.04285439
+Validation score: 0.623188
+Iteration 35, loss = 0.04344056
+Validation score: 0.623188
+Iteration 36, loss = 0.04372857
+Validation score: 0.652174
+Iteration 37, loss = 0.04247441
+Validation score: 0.623188
+Iteration 38, loss = 0.04372267
+Validation score: 0.637681
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.

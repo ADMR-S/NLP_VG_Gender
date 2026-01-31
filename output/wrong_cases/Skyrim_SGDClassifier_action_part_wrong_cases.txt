@@ -1,0 +1,12 @@
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Frodnar walks off.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Downstairs is a torture room where the workers are fighting Stormcloaks.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One ventures to Understone Keep in Markarth, and finds Raerek's inscribed Amulet of Talos in his nightstand. He's immediately confronted with it.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: In the time before man, they were known as the snow elves. They lived in the sunlight and had a very prosperous society.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: When asked to supply things and all options are exhausted:
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Argonian is found at Solitude's Winking Skeever tavern.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Stay close to the wall!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: He breathes firing, causing Farengar to scamper off.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Right... Helgen... One of the prisoners, if I recall correctly.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: ...and steals its soul when it lands. He repeats this for his other helper.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Everyone returns to Volkihar to confront Harkon. Before finding him, some of the other vampires will comment on it. This is optional, but eh well.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They return to Dexion, who now appears with a blindfold.

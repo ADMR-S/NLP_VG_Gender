@@ -1,0 +1,28 @@
+ num_entries : 23571
+
+CHARACTER : 23571
+percentage of CHARACTER : 100.0%
+
+ACTION : 0
+percentage of ACTION : 0.0%
+
+num_unique_characters : 56
+characters with most dialogues : 
+character_name
+Zagreus         8594
+_preLineAnim    2696
+Hades           1846
+Megaera         1265
+Thanatos         858
+Name: count, dtype: int64
+
+num_unique_groups : 6
+dialogues_per_group : 
+character_group
+male             16148
+female            4143
+unknown           2696
+genderless         354
+droppedMale        202
+droppedFemale       28
+Name: count, dtype: int64

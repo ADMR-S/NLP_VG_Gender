@@ -1,0 +1,24 @@
+ num_entries : 20291
+
+male : 16148
+percentage of male : 79.58208072544478%
+
+female : 4143
+percentage of female : 20.41791927455522%
+
+num_unique_characters : 30
+characters with most dialogues : 
+character_name
+Zagreus     8594
+Hades       1846
+Megaera     1265
+Thanatos     858
+Theseus      645
+Name: count, dtype: int64
+
+num_unique_groups : 2
+dialogues_per_group : 
+character_group
+male      16148
+female     4143
+Name: count, dtype: int64

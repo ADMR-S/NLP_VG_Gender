@@ -1,0 +1,32 @@
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Yeul...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Square - Is Lightning in there, too?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Lightning?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Monstrous invaders continue to flood into the ruins, and the government has offered a reward to any person who brings the situation under control.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: It was a world that belonged to the flan. A flan-controlled, flan-friendly, and flan-approved kingdom. Serah and Noel once defeated a massive flan, but the act triggered a paradoxical backlash, and filled the breadth of Cocoon with gelatinous organisms. From among them rose the most powerful flan to ever exist. The entire world quailed beneath its tyrannical pseudopod. Would all of Cocoon be devoured by this immense flan potentate?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I don't want to please her. I want to save her. (walks away)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One such memory is the disappearance of the Blitz Squadron during their investigation of a spacetime anomaly. The monster that attacked the team was a dark version of Lightning's Eidolon, Odin.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Hope's ship arrives and Hope leaps to the deck.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Final Fantasy XIII-2: The story so far...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The goddess bestowed on Caius Ballad the Heart of Chaos. Only a Guardian of the same tribe may ever hope to wrest that power from him. And so Caius waited. He waited for one who possessed the strength to defeat him. After many centuries, his patience was rewarded with the arrival of Noel, the last Guardian to be born. Caius pinned all his hopes on this child. The immortal did not want Noel to simply succeed him--he wanted Noel to surpass him.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The flan look stunned and are motionless.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Live Trigger Who should we say told us about the searchlight issues?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One thing is certain--beyond them is a place that means a great deal to a certain little flying friend.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Square - The most important person in my life.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - Will it fix the Oracle Drive?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Whaddya mean, 'Time Gate'?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Final Fantasy XIII-2: The story so far...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Lebreau is knocked back by an attack.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: C'mon!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Serah and Noel defeat the shadowy Odin, and receive an unexpected revelation from the sergeant they rescued--the members of Blitz Squadron are all friends of Lightning, and are all fighting to uphold her cause. Hearing evidence that her sister was alive once, and still remembered, is a source of great comfort for Serah.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: A pair of horse-like boss monsters appear.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Summary - Find the old-model battery
+Predicted: ACTION, Actual: CHARACTER, Dialogue: One question: what's the Academy?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: One thing at a time, Serah. (She steps into the temporal rift and it vanishes.)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Live Trigger Only I remember Lightning's being there on the plain. Why don't the others?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: An enormous C'ieth leaps down from a building. Yeul is tossed back.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Will they ever find the dawn?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - Don't you like it here?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If they build up enough coins to get the Crystal...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - My sister is there.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I feel like an interrogator. Do you mind me asking?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Okay! (Caius leaps forward and Noel leaps to.)

@@ -25,9 +25,9 @@
 	"parserParameters": {
 		"parser":"WikiquoteParser",
 		"fileType":".html",
-		"scriptStartCue":"<h2><span class=\"mw-headline\" id=\"Lightning_-_Battle\">",
-		"scriptMidCue": "<h2><span class=\"mw-headline\" id=\"Dialogue\">",
-		"scriptEndCue":"<span class=\"mw-headline\" id=\"External_Links\">External Links</span>",
+		"scriptStartCue":"<div class=\"mw-heading mw-heading2\"><h2 id=\"Lightning_-_Battle\">",
+		"scriptMidCue":"<div class=\"mw-heading mw-heading2\"><h2 id=\"Dialogue\">",
+		"scriptEndCue":"<div class=\"mw-heading mw-heading2\"><h2 id=\"External_links\">",
 		"lineNode": "li",
 		"characterNameNode": "b",
 		"narrativeLineRegexp": "^\\["

@@ -1,0 +1,1086 @@
+{"text": [
+		{"ACTION": "The Normandy is travelling in space. The camera follows SHEPARD as they're entering the Normandy's CIC."},
+		{"JOKER": "The Arcturus Prime relay is in range. Initiating transmission sequence."},
+		{"ACTION": "Shepard runs into Corporal Jenkins."},
+		{"CORPORAL JENKINS": "Commander."},
+		{"ACTION": "Shepard keeps walking. Navigator Pressly nods at him."},
+		{"JOKER": "We are connected. Calculating transit mass and destination. The relay is hot. Acquiring approach vector. All stations secure for transit."},
+		{"ACTION": "Shepard walks toward the cockpit as the Normandy gets closer to the mass relay. Shepard enters the cockpit and stands still next to a turian named Nihlus. Both are behind the pilot, Joker."},
+		{"JOKER": "The board is green. Approach run has begun. Hitting the relay in 3...2...1 ..."},
+		{"ACTION": "We see the Normandy making its first trip through a mass relay."},
+		{"JOKER": "Thrusters, check. Navigation, check. Internal emissions sink engaged. All systems online. Drift...just under 1500 K."},
+		{"NIHLUS": "1500 is good. Your captain will be pleased."},
+		{"ACTION": "Nihlus leaves the cockpit. Joker looks at Kaidan, who is sitting next to him, on his right."},
+		{"JOKER": "I hate that guy."},
+		{"KAIDAN": "Nihlus gave you a compliment...so you hate him?"},
+		{"JOKER": "You remember to zip your jumpsuit on the way out of the bathroom? That's good. I just jumped us halfway across the galaxy and hit a target the size of a pinhead. So that's incredible. Besides, Spectres are trouble. I don't like having him on board. Call me paranoid."},
+		{"KAIDAN": "You're paranoid. The Council helped fund this project. They have a right to send someone to keep an eye on their investment."},
+		{"JOKER": "Yeah, that is the official story. But only an idiot believes the official story."},
+		{"CHOICE": [
+				[
+					{"ACTION": "You're overreacting"}],
+				[
+					{"ACTION": "Cut the chatter!"}],
+				[
+					{"ACTION": "I agree", "_ChosenPath": true},
+					{"SHEPARD": "They don't send Spectres on shakedown runs."}]]},
+		{"JOKER": "So there's more going on here than the captain's letting on."},
+		{"CAPTAIN ANDERSON": "Joker. Status report."},
+		{"JOKER": "Just cleared the mass relay, Captain. Stealth systems engaged. Everything looks solid."},
+		{"CAPTAIN ANDERSON": "Good. Find a comm buoy and link us into the network. I want mission reports relayed back to Alliance brass before we reach Eden Prime."},
+		{"JOKER": "Aye, aye, Captain. Better brace yourself, sir. I think Nihlus is headed your way."},
+		{"CAPTAIN ANDERSON": "He's already here, Lieutenant. Tell Commander Shepard to meet me in the comm room for a debriefing."},
+		{"JOKER": "You get that, Commander?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "I heard"}],
+				[
+					{"ACTION": "You made him mad."}],
+				[
+					{"ACTION": "Is he upset?", "_ChosenPath": true},
+					{"SHEPARD": "He sounds angry. Something must have gone wrong with the mission."}]]},
+		{"JOKER": "Pff. Captain always sounds like that when he's talking to me."},
+		{"KAIDAN": "I can't possibly imagine why."},
+		{"KAIDAN": "-> Additional scenes"},
+		{"ACTION": "Shepard enters the comm room. Nihlus stops watching a picture of Eden Prime (from the projector in front of him) and turns around to greet Shepard."},
+		{"NIHLUS": "Commander Shepard. I was hoping you'd get here first. It will give us a chance to talk."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Talk?"}],
+				[
+					{"ACTION": "Where's Captain Anderson?", "_ChosenPath": true},
+					{"SHEPARD": "The captain said he'd meet me here."}]]},
+		{"NIHLUS": "He's on his way. I'm interested in this world we're going to — Eden Prime. I've heard it's quite beautiful."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I wouldn't know."}],
+				[
+					{"ACTION": "So what?"}],
+				[
+					{"ACTION": "Beyond beautiful.", "_ChosenPath": true},
+					{"SHEPARD": "They say it's a paradise."}]]},
+		{"NIHLUS": "Yes... a paradise. Serene. Tranquil. Safe. Eden Prime has become something of a symbol for your people, hasn't it? Proof that humanity can not only establish colonies across the galaxy, but also protect them. But how safe is it, really?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "What's your point?"}],
+				[
+					{"ACTION": "Is that a threat?"}],
+				[
+					{"ACTION": "Why are you asking?", "_ChosenPath": true},
+					{"SHEPARD": "Do you know something?"},
+					{"SHEPARD": "I figured there was something you weren't telling us."},
+					{"SHEPARD": "There must be a reason you didn't tell me about this, sir."},
+					{"SHEPARD": "I thought the Protheans vanished 50 000 years ago."},
+					{"SHEPARD": "Why didn't we keep the beacon for ourselves?"}]]},
+		{"NIHLUS": "Your people are still newcomers, Shepard. The galaxy can be a very dangerous place. Is the Alliance truly ready for this?"},
+		{"ACTION": "Anderson enters the comm room."},
+		{"ANDERSON": "I think it's about time we told the commander what's really going on."},
+		{"NIHLUS": "This mission is far more than a simple shakedown run."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I knew it."}],
+				[
+					{"ACTION": "What's going on?"}],
+				[
+					{"ACTION": "That's obvious."}],
+				[
+					{"ACTION": "Why are you asking?", "_ChosenPath": true},
+					{"SHEPARD": "Do you know something?"},
+					{"SHEPARD": "I figured there was something you weren't telling us."},
+					{"SHEPARD": "There must be a reason you didn't tell me about this, sir."},
+					{"SHEPARD": "I thought the Protheans vanished 50 000 years ago."},
+					{"SHEPARD": "Why didn't we keep the beacon for ourselves?"}]]},
+		{"ANDERSON": "We're making a covert pick-up on Eden Prime. That's why we needed the stealth systems operational."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Why the secrecy?"}],
+				[
+					{"ACTION": "You should have told me."}],
+				[
+					{"ACTION": "What are we picking up?"}],
+				[
+					{"ACTION": "Why are you asking?", "_ChosenPath": true},
+					{"SHEPARD": "Do you know something?"},
+					{"SHEPARD": "I figured there was something you weren't telling us."},
+					{"SHEPARD": "There must be a reason you didn't tell me about this, sir."},
+					{"SHEPARD": "I thought the Protheans vanished 50 000 years ago."},
+					{"SHEPARD": "Why didn't we keep the beacon for ourselves?"}]]},
+		{"ANDERSON": "This comes down from the top, Commander. Information strictly on a need-to-know basis. A research team on Eden Prime unearthed some kind of beacon during an excavation. It was Prothean."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Prothean?"}],
+				[
+					{"ACTION": "What are the details?"}],
+				[
+					{"ACTION": "Why are you asking?", "_ChosenPath": true},
+					{"SHEPARD": "Do you know something?"},
+					{"SHEPARD": "I figured there was something you weren't telling us."},
+					{"SHEPARD": "There must be a reason you didn't tell me about this, sir."},
+					{"SHEPARD": "I thought the Protheans vanished 50 000 years ago."},
+					{"SHEPARD": "Why didn't we keep the beacon for ourselves?"}]]},
+		{"NIHLUS": "Their legacy still remains. The mass relays, the Citadel, our ship drives -- it's all based on Prothean technology."},
+		{"ANDERSON": "This is big, Shepard. The last time humanity made a discovery like this, it jumped our technology forward two hundred years. But Eden  Prime doesn't have the facilities to handle something like this. We need to bring the beacon back to the Citadel for proper study."},
+		{"NIHLUS": "Obviously, this goes beyond mere human interests, Commander. This discovery could affect every species in Council space."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Why did we tell the Council?"}],
+				[
+					{"ACTION": "I'm glad you're here to help."}],
+				[
+					{"ACTION": "You sound worried."}],
+				[
+					{"ACTION": "We don't need your help here."}],
+				[
+					{"ACTION": "Why are you asking?", "_ChosenPath": true},
+					{"SHEPARD": "Do you know something?"},
+					{"SHEPARD": "I figured there was something you weren't telling us."},
+					{"SHEPARD": "There must be a reason you didn't tell me about this, sir."},
+					{"SHEPARD": "I thought the Protheans vanished 50 000 years ago."},
+					{"SHEPARD": "Why didn't we keep the beacon for ourselves?"}]]},
+		{"NIHLUS": "You humans don't have the best reputation. Some species see you as selfish. Too unpredictable. Too independent. Even dangerous."},
+		{"ANDERSON": "Sharing that beacon will improve relations with the Council. Plus, we need their scientific expertise. They know more about the Protheans than we do."},
+		{"NIHLUS": "The beacon's not the only reason I'm here, Shepard."},
+		{"ANDERSON": "Nihlus wants to see you in action, Commander. He's here to evaluate you."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I should've known."}],
+				[
+					{"ACTION": "Like hell he is!"}],
+				[
+					{"ACTION": "Why?", "_ChosenPath": true},
+					{"SHEPARD": "What's going on, Captain?"}]]},
+		{"ANDERSON": "The Alliance has been pushing for this for a long time. Humanity wants a larger role in shaping interstellar policy. We want more say with the Citadel Council. The Spectres represent the Council's power and authority. If they accept a human into their ranks, it shows how far the Alliance has come."},
+		{"NIHLUS": "Not many could have survived what you went through on Akuze. You showed a remarkable will to live — a particularly useful talent. That's why I put your name forward as a candidate for the Spectres."},
+		{"CHOICE": [
+				[
+					{"ACTION": "You support this, Captain?"}],
+				[
+					{"ACTION": "What's the next step?"}],
+				[
+					{"ACTION": "What if I refuse?"}],
+				[
+					{"ACTION": "You put my name forward?", "_ChosenPath": true},
+					{"SHEPARD": "Why would a turian want a human in the Spectres?"},
+					{"SHEPARD": "I assume this is good for the Alliance."}]]},
+		{"NIHLUS": "Not all turians resent humanity. Some of us see the potential of your species. We see what you have to offer to the rest of the galaxy... and to the Spectres."},
+		{"NIHLUS": "We are an elite group. It's rare to find an individual with the skills we seek. I don't care that you're human, Shepard. I only care that you can do the job."},
+		{"CHOICE": [
+				[
+					{"ACTION": "You support this, Captain?"}],
+				[
+					{"ACTION": "What's the next step?"}],
+				[
+					{"ACTION": "What if I refuse?"}],
+				[
+					{"ACTION": "You put my name forward?", "_ChosenPath": true},
+					{"SHEPARD": "Why would a turian want a human in the Spectres?"},
+					{"SHEPARD": "I assume this is good for the Alliance."}]]},
+		{"ANDERSON": "Earth needs this, Shepard. We're counting on you."},
+		{"NIHLUS": "I need to see your skills for myself, Commander. Eden Prime will be the first of several missions together."},
+		{"ANDERSON": "You'll be in charge of the ground team. Secure the beacon and get it onto the ship ASAP. Nihlus will accompany you to observe the mission."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Eden Prime"}],
+				[
+					{"ACTION": "Beacons"}],
+				[
+					{"ACTION": "Protheans", "_ChosenPath": true},
+					{"SHEPARD": "What do you know about the Protheans?"}]]},
+		{"ANDERSON": "Just what they taught us in school. They were a technologically-advanced species that rules the galaxy 50 000 years ago. Then they vanished. Nobody really knows how or why, though I've heard plenty of theories. But everyone agrees galactic civilization wouldn't exist without them."},
+		{"NIHLUS": "Their Citadel is the very heart of galactic society. And without their mass relays, interstellar travel would be impossible. We all owe the Protheans a great debt."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Protheans"}],
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Eden Prime", "_ChosenPath": true},
+					{"SHEPARD": "I'd like to know more about Eden Prime before we touch down."}]]},
+		{"ANDERSON": "It's a peaceful farming world, but it represents something much bigger. Eden Prime is one of our oldest and most successful colonies. It proved we were ready to face the challenges of settling new worlds, to forge a place for humanity beyond Earth. It symbolizes humanity's growth and evolution as a spacefaring species. And after this, it will be known as the world where humans made a discovery of galactic importance."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Protheans"}],
+				[
+					{"ACTION": "Eden Prime"}],
+				[
+					{"ACTION": "Beacon", "_ChosenPath": true},
+					{"SHEPARD": "Why is this beacon so important?"}]]},
+		{"NIHLUS": "All advanced galactic civilization is based on Prothean technology. Even yours."},
+		{"ANDERSON": "If we hadn't discovered those Prothean ruins buried on Mars, we'd still be stuck on Earth. That was just a small data cache. Who knows what we can learn from this beacon? What if it's a weapons archive? We can't let it fall into the wrong hands."},
+		{"SHEPARD": "Like who?"},
+		{"ANDERSON": "The Attican Traverse isn't the most stable sector of Citadel space. There are plenty of raiders and criminal groups active in the region. They might figure a Prothean beacon is worth the risk of attacking an Alliance ship. Plus, Eden Prime is right on the border of the Terminus Systems."},
+		{"SHEPARD": "The Attican Traverse is under Citadel protection. If the Terminus Systems attack, it's an act of war."},
+		{"NIHLUS": "Technically, yes. But some of the species in the Terminus might be willing to start a war over this."},
+		{"ANDERSON": "The last thing the Council wants is to get dragged into a major conflict with the Terminus Systems. We have to keep this low-key."},
+		{"SHEPARD": "Just give the word, Captain."},
+		{"ANDERSON": "We should be getting close to Eden —"},
+		{"JOKER": "Captain! We've got a problem."},
+		{"ANDERSON": "What's wrong, Joker?"},
+		{"JOKER": "Transmission from Eden Prime, sir. You better see this!"},
+		{"ANDERSON": "Bring it up on screen."},
+		{"ACTION": "Shepard, Anderson, and Nihlus look at the screen."},
+		{"ON SCREEN": "Alliance members are under attack. A soldier (Ashley Williams) get close to the screen."},
+		{"ASHLEY": "GET DOWN!"},
+		{"ACTION": "The camera shows her firing at an unseen enemy, followed by images of a ship."},
+		{"OFFICIER": "We are under attack! Taking heavy casualties. I repeat: heavy casualties! We can't ... argh!"},
+		{"OFFICIER": "--eed evac! They came out of nowhere. We need —"},
+		{"OFFICIER": "The officer gets hurt by an unseen enemy. Other soldiers stare astonished at a ship. The camera shows its image and is followed by a grey screen."},
+		{"JOKER": "Everything cuts out after that. No comm traffic at all. Just goes dead. There's nothing."},
+		{"ANDERSON": "Reverse and hold at 38.5."},
+		{"ACTION": "Anderson and Nihlus stare at the image of the ship on the screen."},
+		{"ANDERSON": "Status report."},
+		{"JOKER": "Seventeen minutes out, Captain. No other Alliance ships in the area."},
+		{"ANDERSON": "Take us in, Joker. Fast and quiet. This mission just got a lot more complicated."},
+		{"NIHLUS": "A small strike team can move quickly without drawing attention. It's our best chance to secure the beacon."},
+		{"ACTION": "Shepard stares at the image of the ship on the screen."},
+		{"ANDERSON (to Nihlus)": "Grab your gear and meet us in the cargo hold."},
+		{"ACTION": "Nihlus walks toward the exit."},
+		{"ANDERSON (to Shepard)": "Tell Alenko and Jenkins to suit up, Commander. You're going in."},
+		{"ACTION": "The image of the ship on the screen is shown one last time."},
+		{"ACTION": "The Normandy is headed to Eden Prime."},
+		{"JOKER": "Engaging stealth systems."},
+		{"ACTION": "The Normandy reaches Eden Prime."},
+		{"JOKER": "Somebody was doing some serious digging here, Captain."},
+		{"ACTION": "Anderson briefs Shepard, Kaidan, and Jenkins before the mission in the Normandy's cargo bay. Nihlus is present as well."},
+		{"ANDERSON": "Your team's the muscle in this operation, Commander. Go in heavy and head straight for the dig site."},
+		{"KAIDAN": "What about survivors, Captain?"},
+		{"ANDERSON": "Helping survivors is a secondary objective. The beacon's your top priority."},
+		{"JOKER": "Approaching drop point one."},
+		{"JENKINS": "Nihlus, you're coming with us?"},
+		{"NIHLUS": "I move faster on my own."},
+		{"ACTION": "Nihlus leaves the Normandy."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Can we trust him?"}],
+				[
+					{"ACTION": "Understood, Captain."}],
+				[
+					{"ACTION": "He can count on us.", "_ChosenPath": true},
+					{"SHEPARD": "We've got his back, Captain."}]]},
+		{"ANDERSON": "The mission's yours now, Shepard. Good luck."},
+		{"ACTION": "The Normandy lands on Eden Prime."},
+		{"JOKER": "We are approaching drop point two."},
+		{"ACTION": "Shepard, Jenkins, and Kaidan are the squad on the ground."},
+		{"NIHLUS": "This place got hit hard, Commander. Hostiles everywhere. Keep your guard up."},
+		{"ACTION": "As the squad moves, they see strange looking forms moving around them."},
+		{"KAIDAN": "What the hell are those?"},
+		{"JENKINS": "Gas bags. Don't worry — they're harmless."},
+		{"ACTION": "They see burned corpses on the ground."},
+		{"JENKINS": "Oh god. What happened here?"},
+		{"KAIDAN": "Smells like smoke and death."},
+		{"ACTION": "Shepard makes signs to position the squad. Jenkins goes past a corner and gets hit by multiple geth recon drones. Shepard and Kaidan destroy the drones. They reach Jenkins next. He's dead. Kaidan closes his eyes."},
+		{"KAIDAN": "Ripped right through his shields. Never had a chance."},
+		{"CHOICE": [
+				[
+					{"ACTION": "We can't help him now."}],
+				[
+					{"ACTION": "Forget about him."}],
+				[
+					{"ACTION": "He deserves a burial.", "_ChosenPath": true},
+					{"SHEPARD": "We'll see that he receives a proper service once the mission is complete. But I need you to stay focused."}]]},
+		{"KAIDAN": "Aye, aye, sir."},
+		{"ACTION": "Kaidan and Shepard keep walking.They fight more geth recon drones."},
+		{"NIHLUS": "I've got some burned out buildings here, Shepard. A lot of bodies. I'm going to check it out. I'll try to catch up with you at the dig site."},
+		{"ACTION": "Still in Eden Prime. Cuts to Ashley Williams, thrown on the ground. She gets her weapon and shoots geth recon drones. In front of her, geth spikes rise from the ground to pierce humans, who remain stuck on the ends up in the air. Ashley runs and finds cover. The geth walk toward her. Shepard and Kaidan arrive and shoot the geth troopers. Once they're alone and safe, Ashley stands in front of them."},
+		{"ASHLEY": "Thanks for your help, Commander. I didn't think I was going to make it. Gunnery Chief Ashley Williams of the 212. You the one in charge here, sir?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "What happened here?"}],
+				[
+					{"ACTION": "We're on a mission."}],
+				[
+					{"ACTION": "Are you okay?", "_ChosenPath": true},
+					{"SHEPARD": "Are you wounded, Williams?"}]]},
+		{"ASHLEY": "A few scrapes and burns. Nothing serious. The others weren't so lucky. Oh man ...  We were patrolling the perimeter when the attack hit. We tried to get off a distress call, but they cut off our communications. I've been fighting for my life ever since."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Fighting these things?"}],
+				[
+					{"ACTION": "What happened to your unit?", "_ChosenPath": true},
+					{"SHEPARD": "Where's the rest of your squad?"},
+					{"SHEPARD": "This isn't your fault, Williams. You couldn't have done anything to save them."},
+					{"SHEPARD": "We could use your help, Williams."}]]},
+		{"ASHLEY": "We tried to double back to the beacon. But we walked into an ambush. I don't think any of the others ... . I think I'm the only one left."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Don't blame yourself."}],
+				[
+					{"ACTION": "You abandoned them."}],
+				[
+					{"ACTION": "What killed them?"}],
+				[
+					{"ACTION": "What happened to your unit?", "_ChosenPath": true},
+					{"SHEPARD": "Where's the rest of your squad?"},
+					{"SHEPARD": "This isn't your fault, Williams. You couldn't have done anything to save them."},
+					{"SHEPARD": "We could use your help, Williams."}]]},
+		{"ASHLEY": "Yes, sir. We held our position as long as we could. Until the geth overwhelmed us."},
+		{"KAIDAN": "The geth haven't been seen outside the Veil in nearly 200 years. Why are they here now?"},
+		{"ASHLEY": "They must have come for the beacon. The dig site is close. Just over that rise. It might still be there."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Join us."}],
+				[
+					{"ACTION": "Take us there."}],
+				[
+					{"ACTION": "Stay there."}],
+				[
+					{"ACTION": "What happened to your unit?", "_ChosenPath": true},
+					{"SHEPARD": "Where's the rest of your squad?"},
+					{"SHEPARD": "This isn't your fault, Williams. You couldn't have done anything to save them."},
+					{"SHEPARD": "We could use your help, Williams."}]]},
+		{"ASHLEY": "Aye, aye, sir. It's time for payback."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Before the attack"}],
+				[
+					{"ACTION": "Nihlus"}],
+				[
+					{"ACTION": "Geth", "_ChosenPath": true},
+					{"SHEPARD": "What else do you know about the geth?"}]]},
+		{"ASHLEY": "Just what I remember from history class back in school. They're synthetics. Non-organic life-forms with limited AI programming created by the quarians a few centuries ago. They were supposed to be a source of cheap labor, but ended up turning on the quarians and drove them into exile. After that, they just kind of disappeared behind the Perseus Veil. Nobody's really heard much from them since."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Geth"}],
+				[
+					{"ACTION": "Before the attack"}],
+				[
+					{"ACTION": "Nihlus"}],
+				[
+					{"ACTION": "Beacon", "_ChosenPath": true},
+					{"SHEPARD": "Tell me everything you know about the beacon."}]]},
+		{"ASHLEY": "They were doing some digging out here to extend the monorail and expand the colony. A few weeks ago they unearthed some Prothean ruins...and the beacon. Suddenly, every scientific expert in the colony was interested. That's when they brought us in to secure the site. I don't know much about the beacon itself. But I heard one of the researchers say this could be the biggest scientific discovery of the century."},
+		{"SHEPARD": "Describe what happened leading up to the attack."},
+		{"ASHLEY": "We were sent out a couple nights ago from the main colony to secure the area. Seemed like a routine patrol until the geth hit us. We never knew they were coming."},
+		{"SHEPARD": "What happened to the researchers at the dig site?"},
+		{"ASHLEY": "I don't know. They set up camp near the beacon. The 232 was with them. Maybe their unit fared better than mine."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Geth"}],
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Before the attack"}],
+				[
+					{"ACTION": "Nihlus", "_ChosenPath": true},
+					{"SHEPARD": "Have you seen a turian Spectre around here?"}]]},
+		{"ASHLEY": "There aren't any turians on Eden Prime. None that I've ever met. Not sure I'd be able to tell if one was a Spectre, anyway."},
+		{"KAIDAN": "If you saw this guy, you'd know. Carries enough firepower to wipe out a whole platoon. Luckily, he's on our side."},
+		{"ASHLEY": "Sorry. Like I said, no turians."},
+		{"SHEPARD": "Move out!"},
+		{"ACTION": "Ashley nods. She joins the squad. The three of them walk toward the dig site."},
+		{"ASHLEY": "The beacon's at the far end of this trench."},
+		{"KAIDAN": "Eden Prime will never be the same again. That man was still alive when they stuck him on the spike."},
+		{"ASHLEY": "Killing us isn't enough. The geth want us to suffer. Impaling victims instead of just shooting them...there must be some reason behind it."},
+		{"KAIDAN": "Classic psychological warfare. They're using terror as a weapon."},
+		{"ACTION": "They arrive at the dig site, where geth troopers wait for them. The squad kills them."},
+		{"ASHLEY": "This is the dig site. The beacon was right here. It must have been moved."},
+		{"KAIDAN": "By who? Our side? Or the geth?"},
+		{"ASHLEY": "Hard to say. Maybe we'll know more after we check out the research camp."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Let's go there."}],
+				[
+					{"ACTION": "We're wasting time."}],
+				[
+					{"ACTION": "Any survivors?", "_ChosenPath": true},
+					{"SHEPARD": "You think anyone got out of here alive?"}]]},
+		{"ASHLEY": "If they were lucky. Maybe hiding up in the camp. It's just at the top of this ridge. Up the ramps."},
+		{"NIHLUS": "Change of plans, Shepard. There's a small spaceport up ahead. I want to check it out. I'll wait for you there."},
+		{"ACTION": "The squad walks toward the camp."},
+		{"ASHLEY": "Looks like they hit the camp hard."},
+		{"KAIDAN": "It's a good place for an ambush. Keep your guard up."},
+		{"ACTION": "Spikes (with pierced husks at the center) are being lowered."},
+		{"KAIDAN": "Oh, god! They're still alive!"},
+		{"ASHLEY": "What did the geth do to them?"},
+		{"ACTION": "The squad kills the husks."},
+		{"ASHLEY": "It must take a few hours for the spikes to turn people into husks."},
+		{"ACTION": "They find a shack."},
+		{"ASHLEY": "That door. It's closed. Security lock's engaged."},
+		{"ACTION": "Shepard begins decrypting and the doors opens. Inside are a man and a woman."},
+		{"DR. WARREN": "Humans! Thank the Maker!"},
+		{"MANUEL": "Hurry! Close the door! Before they come back!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "Who are you?"}],
+				[
+					{"ACTION": "Tell me what happened."}],
+				[
+					{"ACTION": "You're safe.", "_ChosenPath": true},
+					{"SHEPARD": "Don't worry. We'll protect you."}]]},
+		{"DR. WARREN": "Thank you. I think we'll be okay now. It looks like everyone's gone."},
+		{"ASHLEY": "You're Dr. Warren, the one in charge of the excavation. Do you know what happened to the beacon?"},
+		{"DR. WARREN": "It was moved to the spaceport this morning. Manuel and I stayed behind to help pack up the camp. When the attack came, the marines held them off long enough for us to hide. They gave their lives to save us."},
+		{"MANUEL": "No one is saved. The age of humanity is ended. Soon, only ruin and corpses will remain."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Nihlus"}],
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Assistant"}],
+				[
+					{"ACTION": "Attack", "_ChosenPath": true},
+					{"SHEPARD": "What else can you tell me about the attack?"}]]},
+		{"DR. WARREN": "It all happened so fast. One second we were gathering up our equipment. The next we were hiding in the shed while the geth swarmed over the camp."},
+		{"MANUEL": "Agents of the destroyers. Bringers of darkness. Heralds of our extinction."},
+		{"DR. WARREN": "We could hear the battle outside. Gunfire. Screams. I thought it would never end. Then, everything went quiet. We just sat there, too afraid to move. Until you came along."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Attack"}],
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Assistant"}],
+				[
+					{"ACTION": "Nihlus", "_ChosenPath": true},
+					{"SHEPARD": "Did you notice a turian in the area?"}]]},
+		{"MANUEL": "I saw him. The prophet. Leader of the enemy. He was here, before the attack."},
+		{"KAIDAN": "That's impossible. Nihlus was with us on the Normandy before the attack. He couldn't have been here."},
+		{"DR. WARREN": "I'm sorry. Manuel's still a bit...unsettled. We haven't seen your turian. We've been hiding in here since the attack."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Attack"}],
+				[
+					{"ACTION": "Nihlus"}],
+				[
+					{"ACTION": "Assistant"}],
+				[
+					{"ACTION": "Beacon", "_ChosenPath": true},
+					{"SHEPARD": "Can you tell me anything about the beacon?"}]]},
+		{"DR. WARREN": "It's some type of data module from a galaxy-wide communications network. Remarkably well-preserved. It could be the greatest scientific discovery of our lifetime! Miraculous new technologies. Groundbreaking medical advances. Who knows what secrets are locked inside?"},
+		{"MANUEL": "We have unearthed the heart of evil. Awakened the beast. Unleashed the darkness."},
+		{"DR. WARREN": "Manuel! Please! This isn't the time."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Attack"}],
+				[
+					{"ACTION": "Nihlus"}],
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Assistant", "_ChosenPath": true},
+					{"SHEPARD": "What's wrong with your assistant?"}]]},
+		{"DR. WARREN": "Manuel has a brilliant mind, but he's always been a bit...unstable. Genius and madness are two sides of the same coin."},
+		{"MANUEL": "Is it madness to see the future? To see the destruction rushing towards us? To understand there is no escape? No hope? No, I am not mad. I'm the only sane one left!"},
+		{"DR. WARREN": "I gave him an extra dose of his meds after the attack."},
+		{"SHEPARD (to Ashley)": "Williams, take us to the spaceport."},
+		{"MANUEL": "You can't stop it. Nobody can stop it. Night is falling. The darkness of eternity."},
+		{"DR. WARREN": "Hush, Manuel. Go lie down. You'll feel better once the medication kicks in."},
+		{"ACTION": "The squad leaves."},
+		{"ACTION": "Cuts to Nihlus, near the spaceport. He takes cover only to emerge seconds later, aiming his weapon at a nearby turian. He lowers his weapon when he recognizes Saren."},
+		{"NIHLUS": "Saren?"},
+		{"SAREN": "Nihlus."},
+		{"NIHLUS": "This isn't your mission, Saren. What are you doing here?"},
+		{"ACTION": "Saren walks toward Nihlus and puts a hand on his shoulder."},
+		{"SAREN": "The Council thought you could use some help on this one."},
+		{"ACTION": "Saren gets behind Nihlus, whose back is turned."},
+		{"NIHLUS": "I wasn't expecting to find the geth here. The situation's bad."},
+		{"ACTION": "Saren points a gun at Nihlus."},
+		{"SAREN": "Don't worry. I've got it under control."},
+		{"ACTION": "The squad catches up and is now near the spaceport. In the sky there is a large ship looming."},
+		{"KAIDAN": "What is that? Off in the distance."},
+		{"ASHLEY": "It's a ship. Look at the size of it!"},
+		{"ACTION": "The ship slowly enters the atmosphere. The squad keeps walking and fights geth troopers on the way to the spaceport. There is a shack. Shepard decrypts the lock to open the door."},
+		{"COLE": "Everybody stay calm out there. We're coming out. We're not armed."},
+		{"ACTION": "Two men and a woman come outside."},
+		{"FARMER": "Is it safe? Are they gone?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "They're gone."}],
+				[
+					{"ACTION": "Stop right there!"}],
+				[
+					{"ACTION": "It's safe.", "_ChosenPath": true},
+					{"SHEPARD": "You're okay now. Nobody's going to hurt you."}]]},
+		{"COLE": "Those things were crawling all around the shed. They would have found us for sure. We owe you our lives."},
+		{"FARMER": "I — I still can't believe it. When we saw that ship I thought it was all over!"},
+		{"COLE": "It showed up right before the attack. Knew it was trouble the second I saw it. So we made a break for the sheds."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Ship"}],
+				[
+					{"ACTION": "Attack details", "_ChosenPath": true},
+					{"SHEPARD": "Tell me everything you remember about the attack."}]]},
+		{"COLE": "The three of us were working the crops when that ship showed up. We just saw it and ran. I don't know what happened to the rest of the crew."},
+		{"BLAKE": "They were by the garage. Over near the spaceport. Right where that ship came down. No way they survived."},
+		{"FARMER": "You don't know that! We survived. If they made it to the garage, they could've had a fighting chance!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "Attack details"}],
+				[
+					{"ACTION": "Ship"}],
+				[
+					{"ACTION": "Beacon", "_ChosenPath": true},
+					{"SHEPARD": "Do you know anything about the Prothean beacon they dug up?"}]]},
+		{"COLE": "We're just farmers. We heard they found something out there, but it never really mattered to us. Not until now."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Attack details"}],
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Ship", "_ChosenPath": true},
+					{"SHEPARD": "What else can you tell me about the ship you saw?"},
+					{"SHEPARD": "You have something to tell me, Cole?"}]]},
+		{"COLE": "I was too busy running to get a clear look at it. I think it landed over near the spaceport."},
+		{"FARMER": "Tell them about the noise, Cole. That awful noise."},
+		{"COLE": "It was emitting some kind of signal as it descended. Sounded like the shriek of the damned. Only it was coming from inside your own head."},
+		{"SHEPARD": "It was probably trying to block communications."},
+		{"COLE": "Whatever it was, felt like it was tearing right through my skull. Almost made it impossible to think."},
+		{"SHEPARD": "I have to go."},
+		{"BLAKE": "Hey, Cole. We're just a bunch of farmers. These guys are soldiers. Maybe we should give them the stuff."},
+		{"COLE": "Geez, Blake. You gotta learn when to shut up."},
+		{"CHOICE": [
+				[
+					{"ACTION": "You should come clean."}],
+				[
+					{"ACTION": "What's going on?"}],
+				[
+					{"ACTION": "I don't like being lied to."}],
+				[
+					{"ACTION": "Ship", "_ChosenPath": true},
+					{"SHEPARD": "What else can you tell me about the ship you saw?"},
+					{"SHEPARD": "You have something to tell me, Cole?"}]]},
+		{"COLE": "Some guys at the spaceport were running a small smuggling ring. Nothing major. In exchange for a cut of the profits, we let them store packages in our sheds."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Like what?"}],
+				[
+					{"ACTION": "That's why you ran here!"}],
+				[
+					{"ACTION": "Smuggling's a crime.", "_ChosenPath": true},
+					{"SHEPARD": "You're breaking the law, Cole."}]]},
+		{"COLE": "We're not hurting anybody! Hell, most of the time, I don't even know what's in the packages. I just thought there might be something we could use. I found a pistol. Figured it would come in handy if those things came back. But you'll probably get more use out of it than we will."},
+		{"SHEPARD": "We're risking our lives to save this colony. You sure there's nothing else in here that could help us out?"},
+		{"COLE": "Yeah, there's one more thing. I was going to sell it after this was over. But you probably deserve it more than I do."},
+		{"ACTION": "Cole hands it over to Shepard."},
+		{"ASHLEY": "Who's your contact at the spaceport, Cole? What's his name?"},
+		{"COLE": "He's not a bad guy. I don't want to get him in trouble. Besides, I'm not a snitch!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "Fine."}],
+				[
+					{"ACTION": "Is he worth dying for?"}],
+				[
+					{"ACTION": "He may know something.", "_ChosenPath": true},
+					{"SHEPARD": "He might have something to do with this whole attack, Cole. We need his name. It's important."}]]},
+		{"COLE": "Yeah, okay. You're right. His name's Powell. Works at the docks at the spaceport. If he's still alive."},
+		{"SHEPARD": "I have to go."},
+		{"COLE": "Good luck."},
+		{"ACTION": "The squad reaches the open space of the spaceport where they find Nihlus's corpse."},
+		{"KAIDAN": "Commander. It's Nihlus."},
+		{"ASHLEY": "Something's moving! Over behind those crates!"},
+		{"ACTION": "Kaidan and Shepard aim their gun at where Ashley is pointing. A man walks toward them, hands in the air."},
+		{"POWELL": "Wait! Don't — don't shoot! I'm one of you! I'm human."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Who are you?"}],
+				[
+					{"ACTION": "You're a coward?"}],
+				[
+					{"ACTION": "You need to be more careful.", "_ChosenPath": true},
+					{"SHEPARD": "Sneaking up on us like that nearly got you killed!"}]]},
+		{"POWELL": "I...I'm sorry. I was hiding. From those creatures. My name's Powell. I saw what happened to that turian. The other one shot him."},
+		{"CHOICE": [
+				[
+					{"ACTION": "It wasn't the geth?"}],
+				[
+					{"ACTION": "Other one?"}],
+				[
+					{"ACTION": "Tell me what happened.", "_ChosenPath": true},
+					{"SHEPARD": "I need to know how Nihlus died."},
+					{"SHEPARD": "We were told a Prothean beacon was brought to the spaceport. What happened to it?"}]]},
+		{"POWELL": "The other one got here first. He was waiting when your friend showed up. He called him Saren. I think they knew each other. Your friend seemed to relax. He let his guard down...and Saren killed him. Shot him right in the back. I'm just lucky he didn't see me behind the crates."},
+		{"CHOICE": [
+				[
+					{"ACTION": "What about the beacon?"}],
+				[
+					{"ACTION": "Then what?"}],
+				[
+					{"ACTION": "Tell me what happened.", "_ChosenPath": true},
+					{"SHEPARD": "I need to know how Nihlus died."},
+					{"SHEPARD": "We were told a Prothean beacon was brought to the spaceport. What happened to it?"}]]},
+		{"POWELL": "It's over on the other platform. Probably where that guy Saren was headed. We hopped on the cargo train right after he killed your friend. I knew that beacon was trouble. Everything's gone to hell since we found it. First that damn mother ship showed up. Then the attack. They killed everyone. Everyone! If I hadn't been behind the crates I'd be dead, too!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "The geth didn't find you?"}],
+				[
+					{"ACTION": "Cole mentioned you.", "_ChosenPath": true},
+					{"SHEPARD": "You're Cole's contact here on the docks. For the smuggling ring."}]]},
+		{"POWELL": "What? No! I mean...what does it matter now? So I'm a smuggler? Who cares? My supervisor's dead. The entire crew's dead. It doesn't matter now, does it?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "You're right."}],
+				[
+					{"ACTION": "Smuggle any weapons?", "_ChosenPath": true},
+					{"SHEPARD": "Anything hidden nearby that we could use against the geth?"}]]},
+		{"POWELL": "A shipment of grenades came through last week. Nobody notices if a few small pieces go missing from the military orders."},
+		{"ASHLEY": "You greedy son of a bitch! We're out here trying to protect your sorry ass and all you can think about is how you can rip us off?!"},
+		{"POWELL": "I never thought you'd actually need those grenades! Who'd want to attack Eden Prime? We're just a bunch of farmers! How was I supposed to know?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "Let it go, Williams."}],
+				[
+					{"ACTION": "You're pathetic!"}],
+				[
+					{"ACTION": "Hand them over.", "_ChosenPath": true},
+					{"SHEPARD": "Just give me the grenades."}]]},
+		{"POWELL": "They're yours. Take them. My smuggling days are over. I swear."},
+		{"SHEPARD": "A lot of marines died here, Powell. Those grenades could have come in handy. If I were you, I'd think of some way to make it up to them."},
+		{"POWELL": "Yeah. Okay. There is something else I was saving. Could be worth a fortune. Experimental technology. Top of the line. Take it. I don't need it. I didn't want anyone to get hurt. Really. I'm sorry."},
+		{"ACTION": "Powell gives Shepard the item."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Ship"}],
+				[
+					{"ACTION": "Attack", "_ChosenPath": true},
+					{"SHEPARD": "Tell me about the geth attack."}]]},
+		{"POWELL": "It was quick. One minute, that ship was descending. The next, those geth were swarming over the platform, thousands of them. They must have been inside that mother ship. They shot anything that moved. It was a massacre."},
+		{"SHEPARD": "How come you're the only one who survived? Why didn't anyone else try to hide behind the crates?"},
+		{"POWELL": "They never had a chance. I...I was already behind the crates when the attack started."},
+		{"KAIDAN": "Wait a minute. You were hiding behind the crates before the attack?"},
+		{"POWELL": "I...sometimes I need a nap to get through my shift. I sneak off behind the crates to grab forty winks where the supervisor can't find me."},
+		{"ASHLEY": "You survived because you're lazy?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "You make me sick."}],
+				[
+					{"ACTION": "Lucky break for you.", "_ChosenPath": true},
+					{"SHEPARD": "If you hadn't snuck off for that nap you'd probably be dead just like all the others."}]]},
+		{"POWELL": "Yeah. Yeah, I guess. I don't really want to think about it."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Attack"}],
+				[
+					{"ACTION": "Ship"}],
+				[
+					{"ACTION": "Beacon", "_ChosenPath": true},
+					{"SHEPARD": "Is there anything else you can tell me about the beacon?"}]]},
+		{"POWELL": "They brought it here this morning. We loaded it up onto the train and shipped it to the other platform. Hard to believe that was only a few hours ago. Feels like a whole other life."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Attack"}],
+				[
+					{"ACTION": "Beacon"}],
+				[
+					{"ACTION": "Ship", "_ChosenPath": true},
+					{"SHEPARD": "Tell me about this ‘mother ship' you saw."}]]},
+		{"POWELL": "I've never seen anything like it before. It — it was huge. Landed over near that platform. The whole place got dark as it came down. And — and it was making this noise, this — this sound that bored right into your brain. That's what woke me up. The attack came a few minutes later."},
+		{"SHEPARD": "We need to find that beacon before it's too late."},
+		{"POWELL": "Take the cargo train. That's where the other turian went. I...I can't stay here. I need to get away from all this."},
+		{"ACTION": "The squad walks toward the cargo train. They kill geth troopers and destroyers on the way.  The cargo train takes them to the site where the beacon is. Saren is already there."},
+		{"SAREN (to geth)": "Set the charges. Destroy the entire colony. Leave no evidence that we were here."},
+		{"ACTION": "Saren gets close to the beacon, which emits a green light. He receives a vision and is floating in the air. The geth are activating four bombs around the site. Shepard and the squad gets out of the cargo train."},
+		{"KAIDAN": "Demolition charges! The geth must have planted them."},
+		{"ASHLEY": "Hurry! We need to find them all and shut them down."},
+		{"ACTION": "They deactivate the bombs while being attacked by geth troopers. On their way to the beacon, the squad destroys husks."},
+		{"SHEPARD": "Normandy, the beacon is secure. Request immediate evac."},
+		{"KAIDAN": "This is amazing. Actual working Prothean technology. Unbelievable!"},
+		{"ASHLEY": "It wasn't doing anything like that when they dug it up."},
+		{"KAIDAN": "Something must have activated it."},
+		{"SHEPARD": "Roger, Normandy. Standing by."},
+		{"ACTION": "Ashley gets close to the beacon. It starts emitting a vibrant green light. Shepard sees her and rushes to get her out of the way. Kaidan takes Ashley in his arms."},
+		{"ASHLEY": "Shepard!"},
+		{"ACTION": "Kaidan prevents her from moving."},
+		{"KAIDAN": "No! Don't touch him! It's too dangerous!"},
+		{"ACTION": "Shepard is now floating in the air. He's receiving a vision from the beacon, and a series of images appear on the screen. Finally, the vision ends, and he's back on the ground. Ashley and Kaidan rush toward him."},
+		{"ACTION": "The ship on Eden Prime is now travelling in space. Saren is sitting, his back turned. Matriarch Benezia, an asari, walks toward him."},
+		{"MATRIARCH BENEZIA": "We identified the ship that touched down on Eden Prime. The Normandy. A human Alliance vessel. It was under the command of Captain Anderson. They managed to save the colony."},
+		{"SAREN": "And the beacon?"},
+		{"MATRIARCH BENEZIA": "One of the humans may have used it."},
+		{"SAREN": "Argh! Rarh! Argh!"},
+		{"ACTION": "Saren throws objects around in a fit of rage. Matriarch Benezia moves her head so as not to get hit by an object thrown at her. He rushes toward her and puts her head in his hands."},
+		{"SAREN": "This human must be eliminated."},
+		{"ACTION": "He lets go of her and leaves while she stares at him."},
+		{"ACTION": "Shepard wakes up in the Normandy's med bay."},
+		{"ASHLEY": "Doctor? Doctor Chakwas? I think he's waking up."},
+		{"ACTION": "Shepard sits on the bed while Chakwas comes to see him. Ashley is behind them."},
+		{"CHAKWAS": "You had us worried there, Shepard. How are you feeling?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "What happened?"}],
+				[
+					{"ACTION": "Not great."}],
+				[
+					{"ACTION": "I'm okay.", "_ChosenPath": true},
+					{"SHEPARD": "Minor throbbing. Nothing serious. How long was I out?"},
+					{"SHEPARD": "You had no way to know what would happen."}]]},
+		{"CHAKWAS": "About fifteen hours. Something happened down there with the beacon, I think."},
+		{"ASHLEY": "It's my fault. I must have triggered some kind of security field when I approached it. You had to push me out of the way."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Don't blame yourself."}],
+				[
+					{"ACTION": "What about the beacon?"}],
+				[
+					{"ACTION": "You were careless."}],
+				[
+					{"ACTION": "I'm okay.", "_ChosenPath": true},
+					{"SHEPARD": "Minor throbbing. Nothing serious. How long was I out?"},
+					{"SHEPARD": "You had no way to know what would happen."}]]},
+		{"ACTION": "Ashley appears relieved and pleased."},
+		{"CHAKWAS": "Actually, we don't even know if that's what set it off. Unfortunately, we'll never get the chance to find out."},
+		{"ASHLEY": "The beacon exploded. A system overload, maybe. The blast knocked you cold. The Lieutenant and I carried you back here to the ship."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Was I hurt?"}],
+				[
+					{"ACTION": "Not a local hospital?"}],
+				[
+					{"ACTION": "Thanks.", "_ChosenPath": true},
+					{"SHEPARD": "I appreciate it."}]]},
+		{"ACTION": "Ashley appears pleased."},
+		{"CHAKWAS": "Physically, you're fine. But I detected some unusual brain activity, abnormal beta waves. I also noticed an increase in your rapid eye movement, signs typically associated with intense dreaming."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I was dreaming."}],
+				[
+					{"ACTION": "More like a nightmare."}],
+				[
+					{"ACTION": "Not a dream. A vision.", "_ChosenPath": true},
+					{"SHEPARD": "I saw — I'm not sure what I saw. Death. Destruction. Nothing's really clear."}]]},
+		{"CHAKWAS": "Hmmm. I better add this to my report. It may — Oh, Captain Anderson."},
+		{"ACTION": "Anderson joins the group in the med bay."},
+		{"ANDERSON": "How's our XO holding up, Doctor?"},
+		{"CHAKWAS": "All the readings look normal. I'd say the commander's going to be fine."},
+		{"ANDERSON": "Glad to hear it. Shepard, I need to speak with you — in private."},
+		{"ACTION": "Ashley salutes Anderson."},
+		{"ASHLEY": "Aye, aye, Captain. I'll be in the mess if you need me."},
+		{"ACTION": "Ashley and Chakwas leave the med bay."},
+		{"ANDERSON": "Sounds like that beacon hit you pretty hard, Commander. You sure you're okay?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "Why is Williams here?"}],
+				[
+					{"ACTION": "I'm pissed off about the geth."}],
+				[
+					{"ACTION": "I'm fine."}],
+				[
+					{"ACTION": "I feel bad about Jenkins.", "_ChosenPath": true},
+					{"SHEPARD": "I don't like soldiers dying under my command."}]]},
+		{"ANDERSON": "Jenkins wasn't your fault. You did a good job, Shepard."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I feel bad about Jenkins."}],
+				[
+					{"ACTION": "I'm pissed off about the geth."}],
+				[
+					{"ACTION": "You wanted to talk?"}],
+				[
+					{"ACTION": "Why is Williams here?", "_ChosenPath": true},
+					{"SHEPARD": "Chief Williams isn't part of the Normandy crew."}]]},
+		{"ANDERSON": "I figured we could use a soldier like her. She's been reassigned to the Normandy."},
+		{"CHOICE": [
+				[
+					{"ACTION": "That's a mistake."}],
+				[
+					{"ACTION": "You wanted to talk?"}],
+				[
+					{"ACTION": "Good.", "_ChosenPath": true},
+					{"SHEPARD": "Williams is a good soldier. She deserves it."}]]},
+		{"ANDERSON": "Lieutenant Alenko agrees with you. That's why I added her to our crew."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I feel bad about Jenkins."}],
+				[
+					{"ACTION": "You wanted to talk?"}],
+				[
+					{"ACTION": "I'm pissed off about the geth.", "_ChosenPath": true},
+					{"SHEPARD": "Intel dropped the ball, sir. We had no idea what we were walking into down there. That's why things went to hell."}]]},
+		{"ANDERSON": "The geth haven't been outside the Veil in two centuries, Commander. Nobody could have predicted this."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I feel bad about Jenkins."}],
+				[
+					{"ACTION": "I'm pissed off about the geth."}],
+				[
+					{"ACTION": "You wanted to talk?", "_ChosenPath": true},
+					{"SHEPARD": "You said you needed to see me in private, Captain?"}]]},
+		{"ANDERSON": "I won't lie to you, Shepard. Things look bad. Nihlus is dead. The beacon was destroyed and geth are invading. The Council's going to want answers."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I did my job."}],
+				[
+					{"ACTION": "To hell with them!"}],
+				[
+					{"ACTION": "We've got nothing to hide.", "_ChosenPath": true},
+					{"SHEPARD": "I didn't do anything wrong, Captain. Hopefully, the Council can see that."}]]},
+		{"ANDERSON": "I'll stand behind you and your report, Shepard. You're a damned hero in my books. That's not why I'm here. It's Saren, that other turian. Saren's a Spectre, one of the best. A living legend. But if he's working with the geth, it means he's gone rogue. A rogue Spectre's trouble. Saren's dangerous. And he hates humans."},
+		{"CHOICE": [
+				[
+					{"ACTION": "He wanted the beacon."}],
+				[
+					{"ACTION": "Hates humans?", "_ChosenPath": true},
+					{"SHEPARD": "Why?"}]]},
+		{"ANDERSON": "He thinks we're growing too fast, taking over the galaxy. A lot of aliens think that way. Most of them don't do anything about it. But Saren has allied himself with the geth. I don't know how. I don't know why. I only know it had something to do with that beacon. You were there just before the beacon self-destructed. Did you see anything? Any clue that might tell us what Saren was after?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "I'm not sure."}],
+				[
+					{"ACTION": "A vision.", "_ChosenPath": true},
+					{"SHEPARD": "Just before I lost consciousness, I had some kind of vision."}]]},
+		{"ANDERSON": "A vision? A vision of what?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "War."}],
+				[
+					{"ACTION": "Our death."}],
+				[
+					{"ACTION": "A warning.", "_ChosenPath": true},
+					{"SHEPARD": "I saw synthetics. Geth, maybe. Slaughtering people. Butchering them."}]]},
+		{"ANDERSON": "We need to report this to the Council, Shepard."},
+		{"CHOICE": [
+				[
+					{"ACTION": "There's nothing to report."}],
+				[
+					{"ACTION": "Forget it!"}],
+				[
+					{"ACTION": "What will we say?", "_ChosenPath": true},
+					{"SHEPARD": "What are we going to tell them? I had a bad dream?"}]]},
+		{"ANDERSON": "We don't know what information was stored in that beacon. Lost Prothean technology? Blueprints for some ancient weapon of mass destruction? Whatever it was, Saren took it. But I know Saren. I know his reputation, his politics. He believes humans are a blight on the galaxy. This attack was an act of war! He has the secrets from the beacon. He has an army of geth at his command. And he won't stop until he's wiped humanity from the face of the galaxy!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "You're right."}],
+				[
+					{"ACTION": "Not if I can help it!"}],
+				[
+					{"ACTION": "I'll stop him.", "_ChosenPath": true},
+					{"SHEPARD": "I'll find some way to take him down."}]]},
+		{"ANDERSON": "It's not that easy. He's a Spectre. He can go anywhere, do almost anything. That's why we need the Council on our side."},
+		{"CHOICE": [
+				[
+					{"ACTION": "We expose him."}],
+				[
+					{"ACTION": "They can't help us!"}],
+				[
+					{"ACTION": "Understood, sir!", "_ChosenPath": true},
+					{"SHEPARD": "We prove Saren's gone rogue and the Council will revoke his Spectre status."}]]},
+		{"ANDERSON": "I'll contact the ambassador and see if he can get us an audience with the Council. He'll want to see us as soon as we reach the Citadel. We should be getting close. Head up to the bridge and tell Joker to bring us into dock."},
+		{"ANDERSON": "-> Additional scenes"},
+		{"ACTION": "Shepard starts a conversation with Navigator Pressly"},
+		{"PRESSLY": "Congratulations, Commander. Looks like we had a smooth run. You heading down to see the captain?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "I heard you arguing."}],
+				[
+					{"ACTION": "He wants to see me.", "_ChosenPath": true},
+					{"SHEPARD": "I'm on my way to give him a status update right now."}]]},
+		{"PRESSLY": "With all due respect, sir, maybe he'll finally tell you what we're doing out here."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I'll look into it."}],
+				[
+					{"ACTION": "Goodbye."}],
+				[
+					{"ACTION": "Just do your job."}],
+				[
+					{"ACTION": "What do you mean?", "_ChosenPath": true},
+					{"SHEPARD": "You think the Alliance brass is holding out on us?"}]]},
+		{"PRESSLY": "If all we're supposed to do is test out the stealth systems, why is Captain Anderson in charge? And then there's Nihlus. Spectres are elite operatives. Top covert agents. Why send a Spectre — a turian Spectre — on a shakedown run? It doesn't add up."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Captain"}],
+				[
+					{"ACTION": "Turian spectre"}],
+				[
+					{"ACTION": "Stealth systems", "_ChosenPath": true},
+					{"SHEPARD": "What do you know about the stealth systems?"}]]},
+		{"PRESSLY": "I just know it masks our location from scans and sensors. Cutting edge technology. The Normandy's the only ship with this prototype drive. But why are we fully staffed? A skeleton crew would be cheaper. Less chance of security leaks, too. Plus, there's Nihlus. It's pretty obvious this shakedown run is just a cover."},
+		{"PRESSLY": "Shepard - dialogue options:"},
+		{"PRESSLY": "-A cover?"},
+		{"PRESSLY": "-You're wrong."},
+		{"SHEPARD": "For what?"},
+		{"PRESSLY": "Damned if I know, Commander. We're out here on false pretenses. I'm not a fan of being left in the dark."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Stealth systems"}],
+				[
+					{"ACTION": "Turian spectre"}],
+				[
+					{"ACTION": "Captain", "_ChosenPath": true},
+					{"SHEPARD": "Do you have a problem with the captain?"}]]},
+		{"PRESSLY": "No, sir! But I can't figure out what he's doing here. Captain Anderson is one of the most decorated Special Forces officers in the service. If he melted down all his medals, he could make a life-size statue of himself. You don't send a soldier like that on a do-nothing mission. He's treating this shakedown run too seriously. Something big is going on."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Stealth systems"}],
+				[
+					{"ACTION": "Captain"}],
+				[
+					{"ACTION": "Turian spectre", "_ChosenPath": true},
+					{"SHEPARD": "You don't trust Nihlus."}]]},
+		{"CHOICE": [
+				[
+					{"ACTION": "Plus, he's a Spectre."}],
+				[
+					{"ACTION": "That was long ago.", "_ChosenPath": true},
+					{"SHEPARD": "That was thirty years. You can't blame Nihlus for that."}]]},
+		{"PRESSLY": "No, I guess not. But it still makes me nervous to have a Spectre on board, especially a turian. We're an Alliance vessel, human military. But Nihlus doesn't answer to the captain like the rest of us. Spectres operate outside the normal chain of command. And they don't come along just to observe shakedown runs. Nihlus looks like he's expecting some heavy action. I don't like it."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Goodbye."}],
+				[
+					{"ACTION": "Just do your job."}],
+				[
+					{"ACTION": "I'll look into it.", "_ChosenPath": true},
+					{"SHEPARD": "I'll see if I can get some answers when I see him."}]]},
+		{"PRESSLY": "Good luck, Commander."},
+		{"ACTION": "Shepard walks toward Corporal Jenkins and Doctor Karin Chakwas."},
+		{"JENKINS": "I grew up on Eden Prime, Doc. It's not the kind of place Spectres visit. There's something Nihlus isn't telling us about this mission."},
+		{"CHAKWAS": "That's crazy. The captain's in charge here. He wouldn't take orders from a Spectre."},
+		{"JENKINS": "Not his choice, Doc. Spectres don't answer to anyone. They can do whatever they want. Kill anyone who gets in their way."},
+		{"CHAKWAS": "Ha! You watch too many spy vids, Jenkins."},
+		{"JENKINS": "What do you think, Commander? We won't be staying on Eden Prime too long, will we? I'm itching for some real action!"},
+		{"CHAKWAS": "I sincerely hope you're kidding, Corporal. Your ‘real action' usually ends with me patching up crew members in the infirmary."},
+		{"CHOICE": [
+				[
+					{"ACTION": "The doctor's right."}],
+				[
+					{"ACTION": "Part of the job, Doc."}],
+				[
+					{"ACTION": "Relax, Jenkins.", "_ChosenPath": true},
+					{"SHEPARD": "You need to calm down, Corporal. A good soldier stays cool, even under fire."}]]},
+		{"JENKINS": "Sorry, Commander. But this waiting's killing me. I've never been on a mission like this before. Not one with a Spectre on board."},
+		{"CHOICE": [
+				[
+					{"ACTION": "The Spectres"}],
+				[
+					{"ACTION": "Eden Prime"}],
+				[
+					{"ACTION": "Nihlus", "_ChosenPath": true},
+					{"SHEPARD": "What can you tell me about Nihlus?"}]]},
+		{"CHAKWAS": "Turians are generally well-respected by the other species. Their fleet has more patrols protecting Citadel space than any other. They don't always get on well with us, though. Some people find them too rigid. Others still blame them for the First Contact War. As for Nihlus, I haven't said more than two words to him. He usually only speaks to the captain."},
+		{"JENKINS": "I heard Nihlus once took down an entire enemy platoon all by himself. Man, I can't believe I'm on a mission with an actual Spectre!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "Nihlus"}],
+				[
+					{"ACTION": "Eden Prime"}],
+				[
+					{"ACTION": "The Spectres", "_ChosenPath": true},
+					{"SHEPARD": "What do you know about the Spectres?"}]]},
+		{"CHAKWAS": "Only what I've heard. Spectre agents work directly for the Citadel Council. They usually work alone or in small groups. Spectres don't have any official power, though. Basically, they're a shadow organization with a mandate to preserve and protect galactic stability."},
+		{"JENKINS": "Protect it at any cost. Don't forget that part. Spectres operate above the law!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "That's dangerous."}],
+				[
+					{"ACTION": "There are no human Spectres?", "_ChosenPath": true},
+					{"SHEPARD": "Why don't we have any of our own people in there?"},
+					{"SHEPARD": "I try not to think about Akuze."}]]},
+		{"CHAKWAS": "Spectres usually come from the Council races. Like the turians. We've been trying to get a human accepted into their ranks for years now. So far, it hasn't happened."},
+		{"JENKINS": "Hey, Commander! You'd make a good Spectre! They're always getting dropped into impossible situations. Forced to survive unbeatable odds. Just like you on Akuze!"},
+		{"JENKINS": "Those are bad memories."},
+		{"JENKINS": "Show some respect!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "There are no human Spectres?", "_ChosenPath": true},
+					{"SHEPARD": "Why don't we have any of our own people in there?"},
+					{"SHEPARD": "I try not to think about Akuze."}]]},
+		{"JENKINS": "Sorry, Commander. I-- I didn't mean to offend you. I respect what you did there. We all do."},
+		{"CHAKWAS": "Let's not dwell on the past, Commander. Was there something else you needed?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "Nihlus"}],
+				[
+					{"ACTION": "The Spectres"}],
+				[
+					{"ACTION": "Eden Prime", "_ChosenPath": true},
+					{"SHEPARD": "You're from Eden Prime, aren't you Jenkins? What's it like?"}]]},
+		{"JENKINS": "It's very peaceful, Commander. They've been real careful with development, so you don't have  any city noise or pollution. My parents lived on the outskirts of the colony. At night, I used to climb this big hill and stare across the fields back at the lights from the main settlement. It was gorgeous. But when I got older, I realized it was a little too calm and quiet for me. That's why I joined the Alliance. Even paradise gets boring after a while."},
+		{"SHEPARD": "Any idea why Eden Prime was chosen as our destination?"},
+		{"JENKINS": "Not really sure, Commander. Eden Prime's one of our most stable colonies. Good place to take the Normandy for her shakedown run, I guess. No real danger there. But there's got to be something else going on. We've got a Spectre on board! That's why I'm so wound up. I can't wait for the real mission to start!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "It's just another mission."}],
+				[
+					{"ACTION": "You'll do fine.", "_ChosenPath": true},
+					{"SHEPARD": "Just treat this like every other assignment you've had and everything'll work out."}]]},
+		{"JENKINS": "Easy for you to say. You proved yourself on Akuze. Everybody knows what you can do. This is my big chance. I need to show the brass what I can do!"},
+		{"CHOICE": [
+				[
+					{"ACTION": "There's no rush."}],
+				[
+					{"ACTION": "Don't play the hero!"}],
+				[
+					{"ACTION": "Be careful.", "_ChosenPath": true},
+					{"SHEPARD": "You're young, Corporal. You have a long career ahead of you. Don't do something stupid to mess it up."}]]},
+		{"JENKINS": "Don't worry, sir. I'm not going to screw this up."},
+		{"SHEPARD": "The captain's waiting for me."},
+		{"ACTION": "Shepard finds Chakwas outside of the med bay."},
+		{"CHAKWAS": "Yes, Commander? Is there something you need?"},
+		{"CHOICE": [
+				[
+					{"ACTION": "Captain Anderson"}],
+				[
+					{"ACTION": "Kaidan Alenko"}],
+				[
+					{"ACTION": "Personal questions", "_ChosenPath": true},
+					{"SHEPARD": "How did you end up serving on an Alliance ship?"}]]},
+		{"CHAKWAS": "I enlisted out of med school. Earth always seemed boring to me... too safe, too secure. I figured the colonies were teeming with exotic adventure. I wanted to travel the stars, tending the wounds of tough soldiers with piercing eyes and sensitive souls. Turns out military life isn't quite as romantic as I'd imagined. But humanity needs the Alliance if we want to keep expanding through the Traverse, and the Alliance always needs good doctors. So I stayed on to do my part."},
+		{"SHEPARD": "Ever think you made the wrong choice?"},
+		{"CHAKWAS": "Sometimes I think about opening a private practice back on Earth, or maybe taking a position at one of the new med centers out in the colonies. But there's something special about working on soldiers. If I left the Alliance now, I'd feel like I was abandoning them."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Personal questions"}],
+				[
+					{"ACTION": "Kaidan Alenko"}],
+				[
+					{"ACTION": "Captain Anderson", "_ChosenPath": true},
+					{"SHEPARD": "What do you think about Captain Anderson?"}]]},
+		{"CHAKWAS": "I've served with him for a few tours now. He knows when to let things slide and when to crack the whip. The crew knows he's seen pretty much anything they'll ever run into. And he cares about the people under his command."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Personal questions"}],
+				[
+					{"ACTION": "Captain Anderson"}],
+				[
+					{"ACTION": "Kaidan Alenko", "_ChosenPath": true},
+					{"SHEPARD": "How well do you know the lieutenant?"}]]},
+		{"CHAKWAS": "I'd never worked with him before the mission. But he has an impressive service record. Over a dozen special commendations. Tends to keep to himself, though. Maybe because of the headaches. It's not easy being an L2."},
+		{"SHEPARD": "What does that have to do with it?"},
+		{"CHAKWAS": "Well, most biotics now use the L3 implants. Lt. Alenko was wired with the old L2 configuration. Sometimes there are complications."},
+		{"SHEPARD": "What kind of complications?"},
+		{"CHAKWAS": "Severe mental disabilities, insanity, crippling physical pain. There's a long list of horrific side effects. Kaidan's lucky. He just gets migraines."},
+		{"SHEPARD": "I should go."},
+		{"ACTION": "Shepard finds Ashley outside of the med bay."},
+		{"ASHLEY": "I'm glad you're okay, Commander. The crew could use some good news after what happened to Jenkins."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Soldiers die."}],
+				[
+					{"ACTION": "He'll be missed.", "_ChosenPath": true},
+					{"SHEPARD": "Jenkins was a valuable part of this crew."}]]},
+		{"ASHLEY": "Part of me feels guilty over what happened. If Jenkins was still alive, I might not be here."},
+		{"CHOICE": [
+				[
+					{"ACTION": "Soldiers die."}],
+				[
+					{"ACTION": "You earned it.", "_ChosenPath": true},
+					{"SHEPARD": "You're a good soldier, Williams. You belong on the Normandy."}]]},
+		{"ASHLEY": "Thanks, Commander. I appreciate that."},
+		{"SHEPARD": "Things were pretty rough down there. Are you okay?"},
+		{"ASHLEY": "I've seen friends die before. Comes with being a marine. But to see my whole unit wiped out... And you never get used to seeing dead civilians. But things have been a lot worse if you hadn't shown up."},
+		{"SHEPARD": "We couldn't have done it without you, Williams."},
+		{"ASHLEY": "Thanks, Commander. I have to admit, I was a little worried about being assigned to the Normandy. It's nice when someone makes you feel welcome."},
+		{"CHOICE": [
+				[
+					{"ACTION": "I should go."}],
+				[
+					{"ACTION": "Don't disappoint me."}],
+				[
+					{"ACTION": "Glad to have you.", "_ChosenPath": true},
+					{"SHEPARD": "I think you're going to fit in here just fine, Williams."}]]},
+		{"ASHLEY": "Thanks, Commander."},
+		{"ACTION": "Shepard passes by Kaidan outside of the med bay."},
+		{"KAIDAN": "Glad to see you're okay, Commander."},
+		{"ACTION": "Shepard goes to the CIC, where he sees Navigator Pressly."},
+		{"PRESSLY": "I'm going you're okay, Commander. Losing Jenkins was hard enough on the crew."},
+		{"ACTION": "Shepard finds Joker in the cockpit."},
+		{"JOKER": "Good timing, Commander. I was just about to bring us in to the Citadel. See that taxpayer money at work."}]
+}

@@ -1,0 +1,29 @@
+ num_entries : 17805
+
+CHARACTER : 13742
+percentage of CHARACTER : 77.18056725638866%
+
+ACTION : 4063
+percentage of ACTION : 22.819432743611344%
+
+num_unique_characters : 674
+characters with most dialogues : 
+character_name
+ACTION        4063
+Dragonborn    2474
+Serah         1035
+Noel           961
+Sam            441
+Name: count, dtype: int64
+
+num_unique_groups : 7
+dialogues_per_group : 
+character_group
+male            7288
+ACTION          4063
+female          3834
+playerChoice    2474
+unknown          116
+neutral           27
+genderless         3
+Name: count, dtype: int64

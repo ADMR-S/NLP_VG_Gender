@@ -1,0 +1,1 @@
+{'clf__class_weight': 'balanced', 'clf__criterion': 'entropy', 'clf__max_depth': 20, 'clf__max_features': 'sqrt', 'clf__min_samples_leaf': 2, 'clf__min_samples_split': 2, 'clf__min_weight_fraction_leaf': 0.0, 'clf__n_estimators': 100, 'tfidf__use_idf': True, 'vect__ngram_range': (1, 2), 'vect__stop_words': 'english', 'vect__strip_accents': 'ascii'}

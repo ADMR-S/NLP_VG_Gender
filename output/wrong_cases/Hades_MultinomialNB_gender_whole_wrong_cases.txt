@@ -1,0 +1,756 @@
+Predicted: male, Actual: female, Dialogue: Not your fight, Thanatos!
+Predicted: female, Actual: male, Dialogue: All right, this is becoming unproductive, Zagreus. As you were!
+Predicted: male, Actual: female, Dialogue: Well... I suppose there are a few. But I like pomegranates most of all.
+Predicted: male, Actual: female, Dialogue: Why, you have my Eternal Rose, don't you? I am so very touched that you'd think first of me among my mighty kin. It pleases me to know I'm in your thoughts!
+Predicted: male, Actual: female, Dialogue: What in the hell was that?!
+Predicted: female, Actual: male, Dialogue: Oh...
+Predicted: male, Actual: female, Dialogue: Oh, haha, it's really nothing, Prince, something that anybody could have done really, as long as they were fired up to do their very, very best, all the time, with a positive attitude, and without worrying too much about the overwhelming amount of work that still needs to be done!
+Predicted: female, Actual: male, Dialogue: Aww, thanks!
+Predicted: female, Actual: male, Dialogue: ...Ssss... kkkhhh... rrrrnngghhh... raauuuggghhh!!
+Predicted: female, Actual: male, Dialogue: Die.
+Predicted: male, Actual: female, Dialogue: Enough, let's finish this.
+Predicted: female, Actual: male, Dialogue: Hm-hm.
+Predicted: male, Actual: female, Dialogue: ...and so, who else is there to be depended on...? You are a trusted overseer, Megaera. Your station is no accident and there is no one better fit for what you do. I urge you to look inwardly. How you approach your work is vital to the end result.
+Predicted: male, Actual: female, Dialogue: It is you.
+Predicted: male, Actual: female, Dialogue: Be thankful that the rivers to your realm have not yet frozen over, Zagreus.
+Predicted: male, Actual: female, Dialogue: Get away from him!
+Predicted: male, Actual: female, Dialogue: Hail, Charon!
+Predicted: male, Actual: female, Dialogue: Would you look at this crowd?
+Predicted: male, Actual: female, Dialogue: Achilles?!
+Predicted: male, Actual: female, Dialogue: It definitely has, I... have to go, um, hope you get yourself some rest, OK?
+Predicted: female, Actual: male, Dialogue: Whom do you take me for.
+Predicted: male, Actual: female, Dialogue: Don't start with me. You show up here, we fight, somebody dies. That's it. Now, who's it going to be?
+Predicted: male, Actual: female, Dialogue: What do you say we skip the chat and get right to it, hm?
+Predicted: male, Actual: female, Dialogue: Hey!
+Predicted: male, Actual: female, Dialogue: Ehh, we'll find out. I've got plenty of ideas left I've been meaning to try.
+Predicted: female, Actual: male, Dialogue: ClearedCerberus,
+Predicted: male, Actual: female, Dialogue: Oh, come now, Artemis! I'm sure you're very capable of hiding from a common beast, but I can see you plain. Why not be honest with yourself, next time?
+Predicted: male, Actual: female, Dialogue: Hope Orpheus is on the up-and-up down where you live.
+Predicted: male, Actual: female, Dialogue: If you are bent on undermining my authority, go do so someplace else.
+Predicted: male, Actual: female, Dialogue: Nonsense, there's also Cerberus! Present company excluded. Come on, Son. Your father has a lot of work to do, but I'm absolutely certain that he has fond memories of you. Though, I know that isn't reassuring, coming from me.
+Predicted: male, Actual: female, Dialogue: Shiver and rot, for all I care!
+Predicted: male, Actual: female, Dialogue: Hah! Idiot.
+Predicted: male, Actual: female, Dialogue: Um, Zagreus, did you attempt to chat with Coronacht just yet? Remember, tell the bow I see you drawn in the arms of the seventh avatar! Something good's supposed to happen if you do, some divine archer-person's aspect I should think? You going to try it soon, or not?
+Predicted: male, Actual: female, Dialogue: This particular discussion doesn't concern you, Zag.
+Predicted: male, Actual: female, Dialogue: I understand, it's just... am I supposed to keep pretending nothing's changed? This House is cracking at the seams, and no one's going to admit it?
+Predicted: female, Actual: male, Dialogue: I'll say!
+Predicted: female, Actual: male, Dialogue: You truly dare?
+Predicted: male, Actual: female, Dialogue: Your gal's right here!
+Predicted: female, Actual: male, Dialogue: Ready!
+Predicted: female, Actual: male, Dialogue: Felt something.
+Predicted: male, Actual: female, Dialogue: The Queen always gave Nyx her space. Your father, though... I don't know what it'll be like for him, if she decides to stick around this time.
+Predicted: male, Actual: female, Dialogue: Let's go, then, Zagreus.
+Predicted: male, Actual: female, Dialogue: What a bunch of phonies!
+Predicted: female, Actual: male, Dialogue: I know that toll.
+Predicted: male, Actual: female, Dialogue: I'm glad you put it that way. I... I'm not looking for an intimate relationship. You're the kindest soul in this whole House. And I have learned so much from you! But, when I really think about my feelings... I'm just, not attracted to you, in that way. I'm sorry. You're a really nice guy!
+Predicted: male, Actual: female, Dialogue: You're right, I... need to be more careful, not to push myself too hard, too often. Hey, could I ask a favor? Would you tell me if I go too far with work again?
+Predicted: female, Actual: male, Dialogue: You're not to speak of that accursed Mount Olympus in this household, do you hear me? Nor shall you invoke the names of its inhabitants.
+Predicted: male, Actual: female, Dialogue: Hey thank you for this, really. And, I've just the thing to offer in return. It's just a gift, OK?
+Predicted: male, Actual: female, Dialogue: Who is this idiot?
+Predicted: male, Actual: female, Dialogue: If that's not the experience mortals are looking for, they need only keep their oaths and not betray the ones they're closest to. It's not that hard.
+Predicted: female, Actual: male, Dialogue: ...Understood.
+Predicted: male, Actual: female, Dialogue: Oh, please, Nyx! No formalities between us, right? It's wonderful to see you, too, my friend. The days there on the surface, they were very different, but the nights... I was reminded of our times together, here.
+Predicted: male, Actual: female, Dialogue: Here you go!
+Predicted: female, Actual: male, Dialogue: Surrounded...!
+Predicted: male, Actual: female, Dialogue: Surely that is not so. Think back on when you started all of this. You now know so much more. Are capable of so much more.
+Predicted: male, Actual: female, Dialogue: Already taken care of. Though, the flooding in Asphodel, hm, that doesn't look like something we can clear up for quite some time. Fortunately, the residents seem to be getting accustomed to it.
+Predicted: male, Actual: female, Dialogue: That was nothing.
+Predicted: male, Actual: female, Dialogue: The Frostbitten Horn which you bear once overflowed. It holds a certain power still, of course. But never again shall mortalkind take it for granted.
+Predicted: female, Actual: male, Dialogue: Appreciate the backup.
+Predicted: male, Actual: female, Dialogue: Keep going!
+Predicted: male, Actual: female, Dialogue: This monster, huh.
+Predicted: male, Actual: female, Dialogue: Ah.
+Predicted: male, Actual: female, Dialogue: There's something to the barrenness, where you reside; perhaps someday it shall be more like that up here.
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: female, Actual: male, Dialogue: Weak!!
+Predicted: male, Actual: female, Dialogue: I thought you might show up.
+Predicted: male, Actual: female, Dialogue: No kidding.
+Predicted: female, Actual: male, Dialogue: Tsch.
+Predicted: female, Actual: male, Dialogue: Farthest I've come.
+Predicted: female, Actual: male, Dialogue: In the bag.
+Predicted: male, Actual: female, Dialogue: Well done, Zagreus.
+Predicted: male, Actual: female, Dialogue: Went all the way to the top last time, huh? Not bad at all.
+Predicted: female, Actual: male, Dialogue: Olympus, I require your assistance, now!
+Predicted: male, Actual: female, Dialogue: Then learn to keep your emotions in check. You keep them bottled up a while, they'll be that much stronger when it's time to let them out.
+Predicted: female, Actual: male, Dialogue: Hm.
+Predicted: female, Actual: male, Dialogue: Hrrrnn!
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: male, Actual: female, Dialogue: ...We got off on the wrong foot from the start. Just what happens when you're born of Titan blood, I guess. It's for the best we haven't crossed paths much since.
+Predicted: male, Actual: female, Dialogue: Oh no!!
+Predicted: female, Actual: male, Dialogue: What have I wrought, that such a witless, careless brat would be my progeny?
+Predicted: male, Actual: female, Dialogue: Listen to this.
+Predicted: male, Actual: female, Dialogue: Hey, check it out, sisters, he's back. You ready?
+Predicted: male, Actual: female, Dialogue: Ah! Haha, got me again, Prince, sneaking up on me like that!
+Predicted: male, Actual: female, Dialogue: Go on, Hades. Try saying something nice to him, for once.
+Predicted: female, Actual: male, Dialogue: The winter's chill.
+Predicted: female, Actual: male, Dialogue: time passes
+Predicted: female, Actual: male, Dialogue: We are bound by the Fates to this realm. It is ours, and we belong to it, in turn. And... I did not hold back against you. Rather... I had forgotten my old strength. Some of it since returned to me.
+Predicted: female, Actual: male, Dialogue: A marketplace here, huh.
+Predicted: female, Actual: male, Dialogue: Grraauugggh....
+Predicted: female, Actual: male, Dialogue: Weak.
+Predicted: male, Actual: female, Dialogue: Nyx was just telling me some more about your early days, my son.
+Predicted: male, Actual: female, Dialogue: Please be OK?
+Predicted: male, Actual: female, Dialogue: She shouldn't. The only one responsible for all of this is you. And I thought even you would have understood that by now.
+Predicted: male, Actual: female, Dialogue: OK byeee!
+Predicted: male, Actual: female, Dialogue: You beg my favor now?!
+Predicted: male, Actual: female, Dialogue: Oh, Cerberus is a good boy, he's fine! One of the highlights of the job, for sure. We really hit it off after he finally realized I'm not a ball! So, I've been feeding him, grooming him, changing his water dish...
+Predicted: female, Actual: male, Dialogue: Zagreus!
+Predicted: female, Actual: male, Dialogue: I trust the river-boatman Charon has been keeping plenty busy lately thanks to me?
+Predicted: male, Actual: female, Dialogue: He's come crawling back again, sisters. Let's get him, then.
+Predicted: male, Actual: female, Dialogue: What, you think I get a lot of guests, here? Haha, no, but I like cooking anyway! It's like singing, in a way. Keep getting better the more you try, turns out a bit different each time.
+Predicted: female, Actual: male, Dialogue: Ready here!
+Predicted: male, Actual: female, Dialogue: A senseless, punishable choice. But if you wish to face the consequences, so be it.
+Predicted: male, Actual: female, Dialogue: I wish it didn't have to be this way.
+Predicted: female, Actual: male, Dialogue: Discipline, that's what we're calling it?
+Predicted: female, Actual: male, Dialogue: I'm not afraid of you!
+Predicted: male, Actual: female, Dialogue: I didn't summon you!
+Predicted: female, Actual: male, Dialogue: Heartwarming.
+Predicted: male, Actual: female, Dialogue: ...I'm sorry that I flew away last time you brought me something like this, Prince... I mean, Zagreus. It's really strange for me to call you that, I... when I started here, they told me not to even speak with you, and now, uh... here we are...!
+Predicted: male, Actual: female, Dialogue: Here!
+Predicted: male, Actual: female, Dialogue: You call this a good habit, huh? Maybe for me, it is. Well, come here all you like, and I will be here waiting, every single time! About once every three times, anyway.
+Predicted: male, Actual: female, Dialogue: You asked for this!
+Predicted: male, Actual: female, Dialogue: What if he didn't want me coming back to him? Or seeing you? Oh no, you're fading again, Zagreus. You've pushed yourself too hard! But what is it you meant, by what you said?
+Predicted: female, Actual: male, Dialogue: Whaa?
+Predicted: male, Actual: female, Dialogue: Hmph.
+Predicted: female, Actual: male, Dialogue: I bet Alecto's next.
+Predicted: female, Actual: male, Dialogue: You know who you're dealing with?
+Predicted: male, Actual: female, Dialogue: You give Thanatos and me too little credit, Zag. We've known each other longer than you've been alive.
+Predicted: male, Actual: female, Dialogue: The heat has risen quite considerably there, is that not so? Then if my foster-brother's tampered with the temperature, I'll have to cool things off.
+Predicted: female, Actual: male, Dialogue: Sounds like we've both been keeping plenty busy as of late.
+Predicted: male, Actual: female, Dialogue: You get the gist.
+Predicted: female, Actual: male, Dialogue: So...!
+Predicted: male, Actual: female, Dialogue: Well that was exciting!
+Predicted: male, Actual: female, Dialogue: Oh, come on.
+Predicted: male, Actual: female, Dialogue: Your father always had a sternness to him that his brothers lacked. Thought him a decent sort, comparatively anyway; though evidently he is no such thing.
+Predicted: female, Actual: male, Dialogue: Time to hunt.
+Predicted: male, Actual: female, Dialogue: Surely my cleverness comes from your brother and yourself, Lord Uncle Poseidon. And I would only add, my feeling is we've more than enough children in this family, thus no further need for more of them, for now.
+Predicted: male, Actual: female, Dialogue: Charon!
+Predicted: female, Actual: male, Dialogue: Whoa!
+Predicted: male, Actual: female, Dialogue: You call upon me now?
+Predicted: female, Actual: male, Dialogue: I'd ask you offer my respects to your lord father, Zagreus, but I suspect you won't have such a chance anytime soon, considering how far you'll come with my support!
+Predicted: male, Actual: female, Dialogue: You're more stubborn than your father. I never thought that such a thing was possible.
+Predicted: female, Actual: male, Dialogue: ...Not my business.
+Predicted: female, Actual: male, Dialogue: You are as multifaceted as anyone I know.
+Predicted: female, Actual: male, Dialogue: The goddess of the hunt ought know when to retreat.
+Predicted: male, Actual: female, Dialogue: Blood and darkness!
+Predicted: female, Actual: male, Dialogue: Well my work here is done.
+Predicted: male, Actual: female, Dialogue: Oh I would say it's very wrong of you, indeed.
+Predicted: male, Actual: female, Dialogue: What shall we do here once you finally arrive? Perhaps we could go out and meet some mortals! I know all too many maidens and/or noble gentlemen who'd absolutely love to get to know you.
+Predicted: female, Actual: male, Dialogue: Kill or be killed.
+Predicted: male, Actual: female, Dialogue: You'll get what you deserve.
+Predicted: male, Actual: female, Dialogue: You are returned.
+Predicted: female, Actual: male, Dialogue: Still there, are you?
+Predicted: male, Actual: female, Dialogue: Beware me, Champion!
+Predicted: female, Actual: male, Dialogue: Where did that come from?!
+Predicted: female, Actual: male, Dialogue: Coming right up!
+Predicted: male, Actual: female, Dialogue: You're prompt sometimes, I have to give you that.
+Predicted: male, Actual: female, Dialogue: Excuse me!
+Predicted: male, Actual: female, Dialogue: You must have let me win.
+Predicted: male, Actual: female, Dialogue: That skeleton again!
+Predicted: male, Actual: female, Dialogue: You know, the last bottle you gave me brought more pleasant memories than I expected. No telling just how many more of them I've tucked away. Say, would it be all right if I shared this with your father?
+Predicted: male, Actual: female, Dialogue: I'm not in any mood to trifle with your father's nonsense this time, Zagreus. So, use this.
+Predicted: female, Actual: male, Dialogue: I'm not your foe here, Zag.
+Predicted: female, Actual: male, Dialogue: Welcome back to our most frequent guest!
+Predicted: female, Actual: male, Dialogue: I mean only that our family is prone to causing problems for itself. Never content to leave things well enough alone. But if we have little to do with them... their quarrels, all their nonsense on Olympus... it should be of no consequence.
+Predicted: male, Actual: female, Dialogue: I never felt like I could be myself with everybody on this mountaintop, you know? So much posturing, and bickering, and... I just head out to the woods most of the time. Maybe you understand me better than the rest, I've no idea still. But I appreciate you've made attempts to try.
+Predicted: male, Actual: female, Dialogue: No way, Miss Meg?!
+Predicted: male, Actual: female, Dialogue: No!
+Predicted: female, Actual: male, Dialogue: <Laughter>
+Predicted: male, Actual: female, Dialogue: Just catching up with Thanatos, if you don't mind.
+Predicted: female, Actual: male, Dialogue: Survived...
+Predicted: male, Actual: female, Dialogue: I see you've made it all the way to hallowed Elysium, Cousin? A significant way toward the surface, and if you could get there the one time, surely you have what it takes to do it again, and overcome the dangers that await therein.
+Predicted: male, Actual: female, Dialogue: Why, you!
+Predicted: female, Actual: male, Dialogue: Shades! We've kept you waiting long enough.
+Predicted: female, Actual: male, Dialogue: You're still in this.
+Predicted: male, Actual: female, Dialogue: I'm with you every step till you arrive here, Zagreus. Then I will probably ignore you like the rest. Just warning you ahead of time, all right?
+Predicted: female, Actual: male, Dialogue: Tisiphone has failed me, has she.
+Predicted: male, Actual: female, Dialogue: Oh. That is a fair-enough assessment. What shall you do?
+Predicted: male, Actual: female, Dialogue: I thought all the added responsibility would stress Dusa out worse than usual. But she's taking it in stride.
+Predicted: female, Actual: male, Dialogue: He's not really that great.
+Predicted: male, Actual: female, Dialogue: Something's troubled me a little, about you. You fight so desperately. At first I thought you simply lacked in patience. But now I see it's urgency that drives you. What is it that you're after, really...?
+Predicted: female, Actual: male, Dialogue: Argh.
+Predicted: male, Actual: female, Dialogue: We just finished eating, here! Got plenty left over.,
+Predicted: male, Actual: female, Dialogue: Oh don't you lose hope now, Prince Zagreus! There isn't anything you couldn't handle, I just know! You're every bit as tough as your father, except, you're nice! And you never back down from anything. You can do this!
+Predicted: female, Actual: male, Dialogue: Grr.
+Predicted: male, Actual: female, Dialogue: Social graces, she says! Going about like that! I'm sure you know that I can find you when it's necessary, Zagreus. Though, how to get away from Aphrodite, I have no idea.
+Predicted: female, Actual: male, Dialogue: I'm sure we can reconcile our disagreements all the same.
+Predicted: female, Actual: male, Dialogue: Oh!
+Predicted: male, Actual: female, Dialogue: No coming back from certain crimes, indeed. Though you may have more mercy in your heart to spare than I in mine.
+Predicted: male, Actual: female, Dialogue: ...I hope you do.
+Predicted: male, Actual: female, Dialogue: What, I, Miss Nyx, you mean... like, start right now? Now now? I mean, I, I don't have a lot of pressing obligations, so, I'll do it, yes!! I accept! I'm so excited to be back! Where do I even start, I can survey the lounge, sweep the cobwebs, walk Cerberus, check the pantry, ah, OK, I'm off!!
+Predicted: male, Actual: female, Dialogue: No, nononono, no, Meg, no! No, Meg! Come on, now, are you kidding me? I mean, I couldn't be happier about it, really! You deserve this! As long as you're happy, yourself, right?
+Predicted: male, Actual: female, Dialogue: Heard you made it pretty far last time.
+Predicted: female, Actual: male, Dialogue: Who doesn't love this stuff.
+Predicted: female, Actual: male, Dialogue: <Laughter>
+Predicted: male, Actual: female, Dialogue: Am I supposed to be impressed?
+Predicted: male, Actual: female, Dialogue: You get the gist.
+Predicted: male, Actual: female, Dialogue: Augh, hahaha.
+Predicted: male, Actual: female, Dialogue: The Fates have been unkind.
+Predicted: female, Actual: male, Dialogue: Yeeoww!
+Predicted: female, Actual: male, Dialogue: I'm waiting...!
+Predicted: female, Actual: male, Dialogue: Oh good, I love snakes.
+Predicted: male, Actual: female, Dialogue: They're tolerable each to some extent. About as much as I can say for you. Now let's the two of us begin.
+Predicted: male, Actual: female, Dialogue: Want more?
+Predicted: female, Actual: male, Dialogue: Your Highness, over here.
+Predicted: male, Actual: female, Dialogue: Enough!
+Predicted: female, Actual: male, Dialogue: Oh I entirely agree with that.
+Predicted: female, Actual: male, Dialogue: I got the message that you need assistance, Zagreus?
+Predicted: female, Actual: male, Dialogue: You want to tangle with us?!
+Predicted: female, Actual: male, Dialogue: But anyway...
+Predicted: female, Actual: male, Dialogue: Ready!
+Predicted: male, Actual: female, Dialogue: One of these seasons I suppose I ought to double-check the mortals haven't gone extinct without my intervention at each step.
+Predicted: male, Actual: female, Dialogue: You bet!
+Predicted: male, Actual: female, Dialogue: You show your father who's in charge next chance you get, all right?
+Predicted: male, Actual: female, Dialogue: ...Tell you later.
+Predicted: male, Actual: female, Dialogue: I'm not your practice partner, fool.
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: female, Actual: male, Dialogue: Nothing like battling before an audience!
+Predicted: male, Actual: female, Dialogue: Nevertheless, given the circumstances of your life and servitude, you need not have given so much of yourself. The greatness of your mortal days followed you into death.
+Predicted: female, Actual: male, Dialogue: War is inevitable!
+Predicted: female, Actual: male, Dialogue: The garden's always open now...
+Predicted: female, Actual: male, Dialogue: Now she's angry.
+Predicted: female, Actual: male, Dialogue: This is embarrassing, but... I don't know the way to get back in. Except, you know, the customary way.
+Predicted: female, Actual: male, Dialogue: Really.
+Predicted: male, Actual: female, Dialogue: ...We all do that which is within our power.
+Predicted: male, Actual: female, Dialogue: You don't want to know what I think.
+Predicted: male, Actual: female, Dialogue: Mmm, so my heart tells me that you've developed quite the bond with moody Thanatos, haven't you, there? I always figured that his brooding quality was just an act!
+Predicted: male, Actual: female, Dialogue: Sometimes, our hearts become so full that they could burst! If only you could see how much I care. I would do anything to aid you in your plight! My heartfelt blessings be with you, dearest.
+Predicted: male, Actual: female, Dialogue: I was afraid of that... I wanted to believe the snow about my cottage, it was native to the climate there, but... seems that Mother took my absence harder than I thought. Oh, what have I done. All those poor people.
+Predicted: male, Actual: female, Dialogue: A word.
+Predicted: male, Actual: female, Dialogue: More than enough parchmentwork to go around!
+Predicted: male, Actual: female, Dialogue: The fury of Olympus!
+Predicted: male, Actual: female, Dialogue: Now you've done it.
+Predicted: male, Actual: female, Dialogue: Now we're getting somewhere.
+Predicted: male, Actual: female, Dialogue: Very well.
+Predicted: female, Actual: male, Dialogue: Just been a little tied up lately is all, but I will get to it, Asterius! I guess you'll want to know the result?
+Predicted: male, Actual: female, Dialogue: I got here right away!
+Predicted: male, Actual: female, Dialogue: You think you can brush me aside like that? Well, I think I can crush you into tiny, little bits! Let's see who's right, shall we?
+Predicted: male, Actual: female, Dialogue: Not bad.
+Predicted: female, Actual: male, Dialogue: Tell him I said hi.
+Predicted: male, Actual: female, Dialogue: Indeed.
+Predicted: male, Actual: female, Dialogue: Control yourself.
+Predicted: male, Actual: female, Dialogue: You ask me now to aid you, is that so?!
+Predicted: male, Actual: female, Dialogue: You broke free.
+Predicted: male, Actual: female, Dialogue: AAH, I completely forgot!! I need to get more cooking grease for the Head Chef! I have to go!!
+Predicted: female, Actual: male, Dialogue: Hmm.
+Predicted: male, Actual: female, Dialogue: Nuh-uh!
+Predicted: male, Actual: female, Dialogue: Get out of here, death god!
+Predicted: male, Actual: female, Dialogue: I will not let you win.
+Predicted: female, Actual: male, Dialogue: Nice shot there, Prince!
+Predicted: male, Actual: female, Dialogue: Why, you!
+Predicted: male, Actual: female, Dialogue: Then very well.
+Predicted: male, Actual: female, Dialogue: Let's see if you can make it past me, Zag.
+Predicted: female, Actual: male, Dialogue: I just know you'll reach the surface here eventually, Zagreus! And I look forward to our meeting when you do!
+Predicted: male, Actual: female, Dialogue: This again.
+Predicted: male, Actual: female, Dialogue: Don't be an idiot, and you won't. We've been through a lot together. Grown, maybe. This particular relationship... it can't die so easily, I think.
+Predicted: male, Actual: female, Dialogue: It is you.
+Predicted: male, Actual: female, Dialogue: Fight on.
+Predicted: male, Actual: female, Dialogue: Well, one good thing about all of the blood you've lost is it was even easier to track you down this time!
+Predicted: male, Actual: female, Dialogue: Then, let's make it a good one. Come on.
+Predicted: female, Actual: male, Dialogue: .   .   .   .
+Predicted: male, Actual: female, Dialogue: Come on.
+Predicted: male, Actual: female, Dialogue: I don't suppose... no, it is nothing, little sprout, it's just... I hear such wicked rumors now and then, about my daughter, lost to me, and what became of her. Kore, we called her, then. Persephone is what she called herself. Before she vanished utterly, leaving no trace....
+Predicted: male, Actual: female, Dialogue: Enough of this.
+Predicted: female, Actual: male, Dialogue: Khhrrrnnnnnnggghh....
+Predicted: male, Actual: female, Dialogue: Chaos is comfortable in their realm. I may, however, visit every now and then. Keep them apprised of what unfolds up here. Beyond that... Chaos knows better than to exert too much influence upon this realm. Beyond having already formulated it, and everything.
+Predicted: male, Actual: female, Dialogue: You know what else?
+Predicted: male, Actual: female, Dialogue: All right, all right, I'm going to forgive you now I guess, no need to beg, you just think twice next time OK?
+Predicted: male, Actual: female, Dialogue: That's it.
+Predicted: male, Actual: female, Dialogue: That's unfortunate.
+Predicted: male, Actual: female, Dialogue: You don't have what it takes, redblood.
+Predicted: male, Actual: female, Dialogue: Oh, that's rich! How smart of you, you're smart! Know what? I'll get you for that, too.
+Predicted: male, Actual: female, Dialogue: The goddess Nyx has indicated you possess a list of prophecies from the Three Fates. I've such a list upon Olympus, here! It seems to be connected to your own, as several prophecies already are fulfilled. Isn't it such an honor to urge Fate along?
+Predicted: female, Actual: male, Dialogue: Oh.
+Predicted: male, Actual: female, Dialogue: Not seen the court musician sulking over there quite as much lately. Your doing, I hear?
+Predicted: male, Actual: female, Dialogue: Hi Than.
+Predicted: female, Actual: male, Dialogue: Argh.
+Predicted: male, Actual: female, Dialogue: All I really wanted was to leave Olympus. I didn't exactly abscond. I doubt I had much of a choice, but I went willingly. Perhaps Zeus knew how I felt, and thought he was doing me a favor. As for Hades... I grew to love him, yes. He always gave me my space.
+Predicted: male, Actual: female, Dialogue: Oh we're busy just formulating more of our dark schemes together, Zagreus.
+Predicted: male, Actual: female, Dialogue: Hey you.
+Predicted: female, Actual: male, Dialogue: Shehh!
+Predicted: female, Actual: male, Dialogue: What... wow... I'll cherish her.
+Predicted: male, Actual: female, Dialogue: At last.
+Predicted: female, Actual: male, Dialogue: May I help you?
+Predicted: female, Actual: male, Dialogue: Nrrrhh...
+Predicted: male, Actual: female, Dialogue: That's it?
+Predicted: male, Actual: female, Dialogue: Well, that's just it! Miss Nyx, she tasked me with a pretty big project a while back, to make this place worthy of the name, which means... there's so much left to do, I need to get everything ready, please, excuse me, Prince!
+Predicted: male, Actual: female, Dialogue: That's it!
+Predicted: male, Actual: female, Dialogue: I have no such fear for either one of you. You both are dedicated to your tasks. I trust your friendship can withstand your confrontations every now and then. For that is why the friendship blossomed, is it not?
+Predicted: male, Actual: female, Dialogue: You just be sure to tell that good-for-nothing Orpheus I'm looking good.
+Predicted: female, Actual: male, Dialogue: And you in turn.
+Predicted: female, Actual: male, Dialogue: Forgive my rudeness here.
+Predicted: female, Actual: male, Dialogue: I bet he'd like you better if you were a regular pushover! Ah, well, he'll learn, I'm sure.
+Predicted: male, Actual: female, Dialogue: Dereliction of duty and fear of reprisal are not one and the same. Though you don't seem to be concerned with either one.
+Predicted: male, Actual: female, Dialogue: I'd like that even more than this fine Nectar, Zagreus!
+Predicted: female, Actual: male, Dialogue: Ungh... <scoff>
+Predicted: male, Actual: female, Dialogue: You're being very nice to me, and that makes me suspicious, understand? So, you want more of that... you keep this up.
+Predicted: male, Actual: female, Dialogue: I understand you nearly reached the surface lately, Zagreus. My confidence remains unshaken that you shall get out of there, eventually. No matter what sorts of unknown horrors lie shrouded beyond the boundary there.
+Predicted: male, Actual: female, Dialogue: You did?
+Predicted: female, Actual: male, Dialogue: I'll get you back, Alecto.
+Predicted: male, Actual: female, Dialogue: Don't you have enough help?
+Predicted: male, Actual: female, Dialogue: You beat Alecto, Zag. Could hear her screaming her head off about it all the way through Tartarus... I almost want to thank you.
+Predicted: female, Actual: male, Dialogue: And you did what.
+Predicted: female, Actual: male, Dialogue: If that's your choice, then.
+Predicted: male, Actual: female, Dialogue: Tsch. I can't believe it. You signed the Pact of Punishment. Have you completely lost your mind? Or just trying to insult me?
+Predicted: male, Actual: female, Dialogue: No. They are required elsewhere. It is for the best. Some of my children are not on speaking terms with one another, or with me. As a mother... one has her victories, and her defeats.
+Predicted: male, Actual: female, Dialogue: Megaera's not just weak, she's got bad taste to match.
+Predicted: female, Actual: male, Dialogue: Thanatos...
+Predicted: female, Actual: male, Dialogue: You summon our custodian for help?
+Predicted: male, Actual: female, Dialogue: Hello!
+Predicted: female, Actual: male, Dialogue: Hera...!
+Predicted: female, Actual: male, Dialogue: Y... you are the Queen....
+Predicted: female, Actual: male, Dialogue: Yeaaaah!
+Predicted: male, Actual: female, Dialogue: The common ground in our family is that we want peace. Besides Ares, though even he would rather the conflict occur elsewhere. That elaborate tale... it's less a deception, and more a concession. A way of saying let's move on from the past, and start anew. No hard feelings.
+Predicted: female, Actual: male, Dialogue: That eyeball, is that him?
+Predicted: female, Actual: male, Dialogue: Continue.
+Predicted: male, Actual: female, Dialogue: ...Oh, come on, Hades! Mortals are much more resilient than that! What, you think they'll show up at your gates here, all at once? They have our family looking out for them.
+Predicted: female, Actual: male, Dialogue: So?
+Predicted: female, Actual: male, Dialogue: I am the god of blood.
+Predicted: female, Actual: male, Dialogue: Zagreus.
+Predicted: female, Actual: male, Dialogue: That's a relief.
+Predicted: female, Actual: male, Dialogue: Winter... that's when it's cold, or something, right?
+Predicted: male, Actual: female, Dialogue: I'm not angry with you any longer, dearest! Though, might I suggest you take some extra steps to keep it that way, hm?
+Predicted: female, Actual: male, Dialogue: Easy.
+Predicted: female, Actual: male, Dialogue: Oh, Cerberus!
+Predicted: male, Actual: female, Dialogue: You are home.
+Predicted: female, Actual: male, Dialogue: Easy.
+Predicted: male, Actual: female, Dialogue: Primordial Chaos... indeed, I know them well. They must have taken interest in your quest. I would advise that you beware their offerings, though know that Chaos, whilst a trickster, is not a deceiver.
+Predicted: female, Actual: male, Dialogue: You know how much trouble I am getting myself into here?
+Predicted: male, Actual: female, Dialogue: Somewhere more private, please, if that's OK? Thank you.
+Predicted: female, Actual: male, Dialogue: A good decision there!
+Predicted: male, Actual: female, Dialogue: ...You have your father's stubbornness. Listen to me. You're endangering everything you care about by coming here. Don't you understand? Besides...
+Predicted: female, Actual: male, Dialogue: Whaa?
+Predicted: male, Actual: female, Dialogue: You stay away from him, please, Charon sir!
+Predicted: male, Actual: female, Dialogue: Well, let's see. My hard feelings are nothing next to the joy of having my son in my life. Your father never imagined his relationship with me could be out in the open. And my mother... she's just glad I'm alive.
+Predicted: female, Actual: male, Dialogue: Hm-hm.
+Predicted: female, Actual: male, Dialogue: It's been a little while, hasn't it?
+Predicted: male, Actual: female, Dialogue: There you are.
+Predicted: female, Actual: male, Dialogue: A welcome sight.
+Predicted: male, Actual: female, Dialogue: Ngh, blood and
+Predicted: male, Actual: female, Dialogue: Hey, Zagreus, good luck out there, this time. I'd tell you 'may your aim be true' but I can guarantee it, actually.
+Predicted: male, Actual: female, Dialogue: Tsk... Come off it, Zag. Are you really going to act all uncomfortable every time you see me now? More than usual I mean.
+Predicted: male, Actual: female, Dialogue: That took me long enough.
+Predicted: male, Actual: female, Dialogue: I have no tolerance for disrespect.
+Predicted: male, Actual: female, Dialogue: Get off him!
+Predicted: male, Actual: female, Dialogue: I knew that you were more than capable.
+Predicted: male, Actual: female, Dialogue: Smooth sailing!
+Predicted: male, Actual: female, Dialogue: Get out of here!!
+Predicted: female, Actual: male, Dialogue: I'm grateful for this.
+Predicted: male, Actual: female, Dialogue: Have some of this...!
+Predicted: male, Actual: female, Dialogue: The dead must make a rather easy target, wouldn't you say? Let's see what you can do to them, given your choice of these.
+Predicted: male, Actual: female, Dialogue: Pardon the interruption.
+Predicted: male, Actual: female, Dialogue: ...I do. Then, very well. But understand that your relationship with her does not preclude the need for her continual improvement with respect to her responsibilities.
+Predicted: female, Actual: male, Dialogue: I hope so, too. If you do see him, tell him I said hi.
+Predicted: male, Actual: female, Dialogue: If there's anyone in all the Underworld who owes you, Zagreus, it's your friend, Sisyphus. He would be much worse off if not for you.
+Predicted: female, Actual: male, Dialogue: Peace, Tisiphone.
+Predicted: female, Actual: male, Dialogue: Do not mess with me right now.
+Predicted: female, Actual: male, Dialogue: Hrrrn, hhmmm hmmmm....
+Predicted: male, Actual: female, Dialogue: My, but if this isn't such a treasure to behold, and I accept it as a sign of your affection! Of something even more, perhaps...?
+Predicted: male, Actual: female, Dialogue: What is the matter with you.
+Predicted: female, Actual: male, Dialogue: I'll make you regret this.
+Predicted: female, Actual: male, Dialogue: Here they come.
+Predicted: female, Actual: male, Dialogue: Don't you have mortals to attend to, Thanatos?
+Predicted: female, Actual: male, Dialogue: Really, Zagreus?
+Predicted: female, Actual: male, Dialogue: Whoa whoa whoa!
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: male, Actual: female, Dialogue: Soon after you invite them all, I hope. Now, go. And trust in me, all right? We have a lot to learn of trust, I think.
+Predicted: male, Actual: female, Dialogue: No one in our family can avoid taking sides forever, Zagreus. But you can take the more sensible side, at least.
+Predicted: male, Actual: female, Dialogue: This isn't over yet.
+Predicted: male, Actual: female, Dialogue: You have confronted the Exalted Shades within Elysium, my child. Your father offers them a handsome bounty should they bring your journey to an end. Although, I think the pride of vanquishing you would more than suffice in getting them to take up arms again.
+Predicted: female, Actual: male, Dialogue: Come and get it.
+Predicted: female, Actual: male, Dialogue: Don't be absurd.
+Predicted: male, Actual: female, Dialogue: Not this again.
+Predicted: female, Actual: male, Dialogue: Megaera had better not be going easy on you.
+Predicted: male, Actual: female, Dialogue: Well, Zagreus, you getting out of there this time, or am I going to have to keep on hunting by myself for the time being? Probably?
+Predicted: male, Actual: female, Dialogue: I guess you want to die again?
+Predicted: male, Actual: female, Dialogue: Become unstoppable!
+Predicted: female, Actual: male, Dialogue: Zagreus.
+Predicted: male, Actual: female, Dialogue: A commendable result.
+Predicted: female, Actual: male, Dialogue: Eeugghh.
+Predicted: male, Actual: female, Dialogue: I say hand over the damn bottle. I'll see that it's disposed of properly. Now as for you... you wouldn't know who misplaced something like this, would you? On my authority as Overseer... hang onto it. Though if you tell so much as anyone...!
+Predicted: female, Actual: male, Dialogue: Megaera!
+Predicted: female, Actual: male, Dialogue: Oh good, I love snakes.
+Predicted: female, Actual: male, Dialogue: I'm sensing a pattern that it really doesn't take much for you to have something to get me for, does it?
+Predicted: female, Actual: male, Dialogue: How thoughtful, there, indeed!
+Predicted: male, Actual: female, Dialogue: Um... wait, wait. Wait, wait. Did you just say I'm... wonderful?
+Predicted: male, Actual: female, Dialogue: Um, it's my great pleasure to make your acquaintance. Call me Dusa, please! I, I'm your House custodian? And I am at your service! Anything you need, just call, OK?
+Predicted: male, Actual: female, Dialogue: You're difficult to track there in the depths, Cousin; though, the boatman Charon thankfully is proving of some help.
+Predicted: male, Actual: female, Dialogue: Your Royal Majesty, you want my song? You are aware it's called 'Good Riddance', right? Tsk, but sure, why not. If music's going to be playing in your House, it might as well be great. And let me give you something to go with it.
+Predicted: male, Actual: female, Dialogue: I daresay, my Lord Dionysus, that partaking of less wine for some amount of time might do you good. Regardless, you'll not coax a better crop from me.
+Predicted: female, Actual: male, Dialogue: Trickery!
+Predicted: male, Actual: female, Dialogue: I was quite skeptical of him, at first. I thought his presence merely a cruel trick of Fate. But... he worked diligently, from the start. Soon there was order where once there was none. I fashioned this House for him, and I maintain it still. We remain in partnership. In interdependency.
+Predicted: female, Actual: male, Dialogue: A most enthusiastic audience!
+Predicted: female, Actual: male, Dialogue: I still cannot entirely believe you really think there's any way you're getting out of here.
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: female, Actual: male, Dialogue: Didn't hurt!!
+Predicted: female, Actual: male, Dialogue: Bwaah?!
+Predicted: female, Actual: male, Dialogue: Mmm....
+Predicted: female, Actual: male, Dialogue: Ungh, damn it.
+Predicted: female, Actual: male, Dialogue: We meet again!
+Predicted: male, Actual: female, Dialogue: Enough of this!
+Predicted: female, Actual: male, Dialogue: Attack!
+Predicted: male, Actual: female, Dialogue: It almost sounds as though you've broken up with me, except... well, are you sure that you'll be all right?
+Predicted: male, Actual: female, Dialogue: Gorgon coming through!!
+Predicted: male, Actual: female, Dialogue: Hey, what gives?
+Predicted: female, Actual: male, Dialogue: Decidedly below my expectations.
+Predicted: male, Actual: female, Dialogue: You don't seem to learn. Then, come and die.
+Predicted: female, Actual: male, Dialogue: I'd like to offer you a choice amongst my most exquisite tools which inflict suffering.
+Predicted: male, Actual: female, Dialogue: I'd ask you to bring one of these to Orpheus, but they're no good unless they're perfectly fresh.
+Predicted: male, Actual: female, Dialogue: You'll soon feel something else. I don't know how you did it. But it changes nothing.
+Predicted: male, Actual: female, Dialogue: If you prefer the way they do things on Olympus, then I think you know the way. As for me... dealing with jealousy is what I do. Tell me, should I feel threatened by Thanatos?
+Predicted: male, Actual: female, Dialogue: Hey, that can't possibly be the spear once wielded by the great Achilles, there, can it?! The shape is unmistakable, I mean, have you even the slightest just how many mortals got completely slaughtered by that thing? Oh, it has seen some use!
+Predicted: female, Actual: male, Dialogue: Every facet of the Mirror, now within my grasp.
+Predicted: female, Actual: male, Dialogue: Heed now my summons, wretches, and come bring my wayward son down to your depths!
+Predicted: male, Actual: female, Dialogue: Sure, here!
+Predicted: male, Actual: female, Dialogue: I think you might enjoy it on Olympus, there's... a lot of feasting here, I guess, and the air is cool and crisp, and it's much brighter than it is down there. Sounds like a dream, right?
+Predicted: female, Actual: male, Dialogue: I heard you got yourself into another mess that needed cleaning up.
+Predicted: female, Actual: male, Dialogue: It's Mount Olympus...
+Predicted: male, Actual: female, Dialogue: Your birthmother is resourceful, certainly. Though can you say as yet, which sort of plan?
+Predicted: male, Actual: female, Dialogue: The Mirror has little to do with your power, let alone your capability. You may deactivate its effects and see for yourself. It merely gave you greater opportunity to learn. And you shall continue to do so.
+Predicted: male, Actual: female, Dialogue: Should you achieve your goal, and see this surface-world, Zagreus, I've but one bit of knowledge to impart: Don't ever fall for mortals. Use them if you must, but do not waste your love on those who waste away.
+Predicted: male, Actual: female, Dialogue: Wretches of Tartarus, I summon you!
+Predicted: female, Actual: male, Dialogue: Get on with your responsibilities.
+Predicted: female, Actual: male, Dialogue: We owe everything to our audience!
+Predicted: male, Actual: female, Dialogue: You know how many times you've beaten me, here, Zagreus? Can you even guess?
+Predicted: female, Actual: male, Dialogue: You wished to see me once again, my lord? It's been... a while since I had an audience with you.
+Predicted: female, Actual: male, Dialogue: Peaaaaace!
+Predicted: female, Actual: male, Dialogue: It gladdens me that you could join us here, my friend.,
+Predicted: female, Actual: male, Dialogue: Come show your father what you've learned of late. Do not hold back.
+Predicted: female, Actual: male, Dialogue: ...Oh.
+Predicted: male, Actual: female, Dialogue: He did! And a tan is like... well, when you stay out in the hot sun up there long enough, your skin kind of starts to bake a little bit. But nicer than that sounds! Got to say, though, the years have been kind to Orphy, don't you think?
+Predicted: male, Actual: female, Dialogue: Oh, hahaha, I was just checking, don't feel bad, OK? You don't seem capable of hiding what's in your heart. And I mean that in the best possible way. I'm so happy, it's just... all this is a lot, and, I'm on duty right now, but... see you soon...?
+Predicted: male, Actual: female, Dialogue: Hahaha, well, that's nice to know! She cares about my work performance, that's for very sure, and I am doing everything I can to live up to and exceed her expectations, tell her that!
+Predicted: female, Actual: male, Dialogue: Erm... have we met?
+Predicted: male, Actual: female, Dialogue: He says it's so you put forth your fullest effort every time. All this is a big adjustment for him as well. Not that it's any excuse for how he's treated you. Are you... all right, seeing us together?
+Predicted: female, Actual: male, Dialogue: Can't escape!
+Predicted: male, Actual: female, Dialogue: That one's on me!
+Predicted: female, Actual: male, Dialogue: No, on quite the contrary I've been under no impression that avoiding conflict is an option here. So say your piece, and let's get on with it.
+Predicted: female, Actual: male, Dialogue: Respectful. Definitely.
+Predicted: female, Actual: male, Dialogue: Zesty.
+Predicted: male, Actual: female, Dialogue: I have to meet Callisto soon, but it won't take me but a moment here to get you on your way!
+Predicted: female, Actual: male, Dialogue: Be on your way, Zagreus. I have an audience with Lord Hades in a moment. An inquiry into my recent absences.
+Predicted: female, Actual: male, Dialogue: You're back, welcome!
+Predicted: female, Actual: male, Dialogue: I am indebted to you, Zagreus, both for your friendship and embarrassment of generosity.
+Predicted: male, Actual: female, Dialogue: What are we going to do with you this time, now, hm?
+Predicted: male, Actual: female, Dialogue: You know exactly what is necessary, and no more. I know better than anyone never to tamper with the Fates' design. Though, if they had cruelty in store for you through their List... I think that I would warn you, anyway.
+Predicted: female, Actual: male, Dialogue: ...Persephone... I...
+Predicted: male, Actual: female, Dialogue: Not again?!
+Predicted: male, Actual: female, Dialogue: Got more need taking care of, Prince?
+Predicted: female, Actual: male, Dialogue: You'll never... truly... win...
+Predicted: male, Actual: female, Dialogue: Hades... you look tired. Though, I am not the only one you ought to be apologizing to.
+Predicted: male, Actual: female, Dialogue: You've met the master of the seas, Poseidon, haven't you? Our uncle's affable but quick to anger. Be on your guard with him, is my advice.
+Predicted: female, Actual: male, Dialogue: Hrrrrrrnnnnghhhhhhhh...
+Predicted: male, Actual: female, Dialogue: Let me sing.
+Predicted: male, Actual: female, Dialogue: You know it's strictly business here between us, don't you, Zag?
+Predicted: male, Actual: female, Dialogue: Hahaha, secret? I'm two weeks behind schedule with this place, at least! Fortunately, no one here seems very good at keeping time, so, no one's gotten on my case just yet, but... oh, you aren't going to tell, are you?
+Predicted: male, Actual: female, Dialogue: Eugh, she said the same thing to me. Look, you know what, fine. If that's the only way to get her to take a break from this place, I guess it's for the best.
+Predicted: female, Actual: male, Dialogue: Modified.
+Predicted: male, Actual: female, Dialogue: That sounds like information neither one of them would want for me to know. You know the punishment for spilling secrets, don't you?
+Predicted: female, Actual: male, Dialogue: Ah, haha, how embarrassing!
+Predicted: male, Actual: female, Dialogue: Hey. You're not alone. You're not alone down there, OK? Here, let me show you.
+Predicted: male, Actual: female, Dialogue: Pff.
+Predicted: female, Actual: male, Dialogue: Hmm.
+Predicted: female, Actual: male, Dialogue: Why spring to his assistance, Megaera?
+Predicted: male, Actual: female, Dialogue: Here.
+Predicted: female, Actual: male, Dialogue: I bet Alecto's next.
+Predicted: female, Actual: male, Dialogue: Damn, time's up!
+Predicted: male, Actual: female, Dialogue: It's all part of the job.
+Predicted: male, Actual: female, Dialogue: We're not finished yet.
+Predicted: female, Actual: male, Dialogue: Die...!
+Predicted: male, Actual: female, Dialogue: Mmph.
+Predicted: male, Actual: female, Dialogue: Whew!
+Predicted: male, Actual: female, Dialogue: You know how long it took Callisto to become a master of the hunt? I'm sure you can still learn a thing or two!
+Predicted: male, Actual: female, Dialogue: It's time we had one of our little fights.
+Predicted: female, Actual: male, Dialogue: No! It most certainly is not. Though, I take it it shall not be long before another of our private meetings, then.
+Predicted: female, Actual: male, Dialogue: Heeehhh, hohhhhh....
+Predicted: female, Actual: male, Dialogue: Least we have a backup singer if we need one.
+Predicted: male, Actual: female, Dialogue: Sometimes I think that you're quite different than most all the others here, darling. And then, you go and do something like this.
+Predicted: female, Actual: male, Dialogue: Prince Z., we're back!
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: female, Actual: male, Dialogue: You're acting like a fool!
+Predicted: male, Actual: female, Dialogue: I am. Your father is no fool when it comes to matters such as this. Besides... all that has happened... it's my fault. I was selfish! And now both sides of our family threaten to be torn apart.
+Predicted: male, Actual: female, Dialogue: I guess this means you must have paid the boatman's ransom here, and whatever price he charged you, it was worth it.
+Predicted: female, Actual: male, Dialogue: Icy.
+Predicted: female, Actual: male, Dialogue: Let's even up the odds.
+Predicted: female, Actual: male, Dialogue: Crisp, cold air.
+Predicted: female, Actual: male, Dialogue: How... dare... ungghh.
+Predicted: male, Actual: female, Dialogue: Hey, sister, let's see what you've got!
+Predicted: female, Actual: male, Dialogue: I can hold my own in case you haven't noticed, Than.
+Predicted: female, Actual: male, Dialogue: Oh.
+Predicted: male, Actual: female, Dialogue: Your services were always welcome, here. Please acclimate yourself at your own rate. I am available to answer any questions you may have at any time.
+Predicted: male, Actual: female, Dialogue: Come on, now.
+Predicted: female, Actual: male, Dialogue: <Laughter>
+Predicted: male, Actual: female, Dialogue: Why, isn't that there Sister Hestia's oddly constructed armament you bear? She always was so predisposed to flame; I thought she'd never give it up! If it's to be in any hands, then may as well be yours.
+Predicted: male, Actual: female, Dialogue: It seems you haven't learned your lesson yet.
+Predicted: male, Actual: female, Dialogue: All right.
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: male, Actual: female, Dialogue: Mmm, hrr-hrr-hrrdderrr...
+Predicted: female, Actual: male, Dialogue: Megaera?!
+Predicted: male, Actual: female, Dialogue: Hah, take that!
+Predicted: female, Actual: male, Dialogue: Oh, don't fret. I was just trying to help her expand her somewhat limited vocabulary.
+Predicted: male, Actual: female, Dialogue: Go forth, bearing the mark of Chaos.
+Predicted: male, Actual: female, Dialogue: Got some kind of deathwish, don't you. Fine.
+Predicted: male, Actual: female, Dialogue: Little godling, you must know the seven types of love by now, don't you? It's quite a complicated field, though several types intrigue me most of all. In fact, why, I have several types of love for you, right here!
+Predicted: male, Actual: female, Dialogue: When shall they ever learn?
+Predicted: male, Actual: female, Dialogue: That's what you get.
+Predicted: female, Actual: male, Dialogue: Really?
+Predicted: male, Actual: female, Dialogue: Your father's not been very pleased with my performance lately as you might have guessed.
+Predicted: male, Actual: female, Dialogue: My focus is on other matters at this time.
+Predicted: male, Actual: female, Dialogue: My blessing be with you.
+Predicted: female, Actual: male, Dialogue: Hope your father doesn't mind...!
+Predicted: male, Actual: female, Dialogue: Well if it isn't our mutual friend.
+Predicted: male, Actual: female, Dialogue: What is it now?
+Predicted: male, Actual: female, Dialogue: Make not the same mistake twice, and you shall always grow wiser, no matter what else.
+Predicted: male, Actual: female, Dialogue: I'm positively moved!
+Predicted: male, Actual: female, Dialogue: All shall soon decay!
+Predicted: male, Actual: female, Dialogue: Hey, I saw you and Thanatos recently, Prince! You two, if you don't mind me saying, you are quite the pair, I mean, you ought to see yourselves! You're, whew...! Makes me a little woozy just remembering it now! Well, up I go, then, bye!
+Predicted: male, Actual: female, Dialogue: You think just 'cause you got through Megaera, you'll get through me?
+Predicted: female, Actual: male, Dialogue: I'd hope we're wiser, too.
+Predicted: female, Actual: male, Dialogue: Considering I beat you last we met, I'd be much more concerned with your predictability than mine.
+Predicted: female, Actual: male, Dialogue: You're dead.
+Predicted: female, Actual: male, Dialogue: What, really? Huh! So then your mom doesn't spend any time with you, either! We've got something in common!
+Predicted: male, Actual: female, Dialogue: Don't you know when to quit?
+Predicted: female, Actual: male, Dialogue: Not interested in your nasty remarks about her, Alecto. Though if you keep them up, I'm warning you, I might get mad.
+Predicted: female, Actual: male, Dialogue: You shouldn'tve crossed me.
+Predicted: male, Actual: female, Dialogue: Why won't you give up?
+Predicted: male, Actual: female, Dialogue: ...If that is your will, Lord Hades, then it will be done. To the fullest limits of my capability.
+Predicted: male, Actual: female, Dialogue: Sure thing!
+Predicted: male, Actual: female, Dialogue: Hah, I knew it!
+Predicted: male, Actual: female, Dialogue: Am I interrupting something?
+Predicted: female, Actual: male, Dialogue: Hrrooooohhh....
+Predicted: male, Actual: female, Dialogue: Heh. As you say.
+Predicted: female, Actual: male, Dialogue: Hm.
+Predicted: female, Actual: male, Dialogue: Forgive me, lord!
+Predicted: female, Actual: male, Dialogue: Then, good. You have much to enjoy in store.
+Predicted: male, Actual: female, Dialogue: Um, well, it's just, I think you were supposed to keep things moving, so, if they're taking too long, I guess that maybe you could say something, or... any bright ideas?
+Predicted: male, Actual: female, Dialogue: ...Nyx really let Dusa go?
+Predicted: male, Actual: female, Dialogue: You have your Pact of Punishment to thank for our reunion, there. We have to answer to its terms. But my sisters and I, we got on better than I had expected, I will give you that.
+Predicted: female, Actual: male, Dialogue: Our responsibilities must have us cross paths often, yes. But I didn't really get to know her until after the whole humiliating affair with Sisyphus.
+Predicted: male, Actual: female, Dialogue: I know, right?
+Predicted: female, Actual: male, Dialogue: Your hated enemies, they almost got the best of you, I fear! But you can still turn it around, especially now that you have my aid!
+Predicted: male, Actual: female, Dialogue: There's more, though.
+Predicted: male, Actual: female, Dialogue: Guess I hit a nerve.
+Predicted: female, Actual: male, Dialogue: Niiiice....
+Predicted: female, Actual: male, Dialogue: We'll take care of things while you're away.
+Predicted: female, Actual: male, Dialogue: Your stubborness shall only bring you pain.
+Predicted: female, Actual: male, Dialogue: I don't like it, but I'll eat it.
+Predicted: male, Actual: female, Dialogue: Oh we're not done!
+Predicted: male, Actual: female, Dialogue: You seem to be in dire need of some assistance, Zagreus. I think perhaps I have a bit to spare.
+Predicted: female, Actual: male, Dialogue: Krraaugghhh....
+Predicted: female, Actual: male, Dialogue: They're making me choose.
+Predicted: male, Actual: female, Dialogue: Whoa, that is something, Prince!
+Predicted: male, Actual: female, Dialogue: There has to be a way to help him, Prince! He's been so loyal to this House, and he has to be your truest friend of everybody here. But he's the pity-party type. He needs someone to get him out of this!
+Predicted: male, Actual: female, Dialogue: Hear me, you wretched shades!
+Predicted: female, Actual: male, Dialogue: Hades.
+Predicted: male, Actual: female, Dialogue: Zagreus, I know you're upset about what happened between Nyx and Dusa. Before you ask... I need to respect Nyx's space and authority on this one, all right?
+Predicted: male, Actual: female, Dialogue: I didn't think you'd have it in you. To leave this place for good. But I didn't think you'd take responsibility for anything, either. Anyway... we'll just have to kill each other more officially, I guess.
+Predicted: female, Actual: male, Dialogue: I can handle this.
+Predicted: female, Actual: male, Dialogue: This the farthest I've come?
+Predicted: male, Actual: female, Dialogue: Right here.
+Predicted: female, Actual: male, Dialogue: Do I look like I want to talk to you?
+Predicted: male, Actual: female, Dialogue: Would you by any chance have room, there, in your heart for a most-gentle blessing from a goddess such as me?
+Predicted: male, Actual: female, Dialogue: ...Fortunately, our loving and dutiful son at last persuaded his mother and father to reveal their secretive relationship, and make an effort to rejoin their great family.
+Predicted: male, Actual: female, Dialogue: ...Sometimes, though, Dusa, he's not the best at taking hints...
+Predicted: female, Actual: male, Dialogue: Oh, hi.
+Predicted: male, Actual: female, Dialogue: Blood and darkness!
+Predicted: female, Actual: male, Dialogue: You are the prey, not me.
+Predicted: female, Actual: male, Dialogue: Who dares?
+Predicted: female, Actual: male, Dialogue: Come off it.
+Predicted: male, Actual: female, Dialogue: Oh, this is wonderful, except... I'm wracked with guilt for having nothing much to give you, in return. You never even got a mother's love from me.
+Predicted: male, Actual: female, Dialogue: Back. Off.
+Predicted: female, Actual: male, Dialogue: Hrngh... grrr...
+Predicted: female, Actual: male, Dialogue: Murderzer?!
+Predicted: male, Actual: female, Dialogue: Hello, indeed!
+Predicted: female, Actual: male, Dialogue: You're doing great.
+Predicted: male, Actual: female, Dialogue: You, in a healthy relationship? Why yes, then this I have to see.
+Predicted: male, Actual: female, Dialogue: Hello!
+Predicted: female, Actual: male, Dialogue: Damn this smarts.
+Predicted: female, Actual: male, Dialogue: Grr....
+Predicted: male, Actual: female, Dialogue: Well, well!
+Predicted: male, Actual: female, Dialogue: Good news for you, I'm in a real bad mood right now.
+Predicted: male, Actual: female, Dialogue: Hah! Idiot.
+Predicted: female, Actual: male, Dialogue: Prince.
+Predicted: female, Actual: male, Dialogue: Ta-daaaa!
+Predicted: male, Actual: female, Dialogue: I've every confidence that you shall imminently put my blessing to good use.
+Predicted: female, Actual: male, Dialogue: [[
+Predicted: male, Actual: female, Dialogue: How was that?
+Predicted: male, Actual: female, Dialogue: ...It was my duty to prevent him from getting farther. If I succeeded... he never would have found you. So this once, I'm glad I failed. I hope you know that, my Queen.
+Predicted: female, Actual: male, Dialogue: So do I.
+Predicted: male, Actual: female, Dialogue: ...the problem that I have with that wretched shade is his attitude.
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: female, Actual: male, Dialogue: Situation is under control.
+Predicted: female, Actual: male, Dialogue: Don't let me keep you, Prince, I know you've plenty of important business here.
+Predicted: male, Actual: female, Dialogue: That Mirror's made you stronger, Zagreus. You're fortunate to have Nyx helping you.
+Predicted: male, Actual: female, Dialogue: Use caution with the tone you take with me, Overseer. I am the mother of the Fates, themselves. I do not act by whim or by mistake. Mind your own station, and perform your role. All shall unfold eventually as it must. I like the intervening time no more than you.
+Predicted: male, Actual: female, Dialogue: Most definitely, yes. If you'll excuse me, by the way? He's got to go. I mean! I've got to go! I mean!! You know what I mean, bye!
+Predicted: male, Actual: female, Dialogue: I'll confiscate that if you really want. Although, I'm warning you, I'm not susceptible to bribes. Many have tried.
+Predicted: female, Actual: male, Dialogue: No... he thinks so highly of you, he... he'd never wish to cause you any harm.
+Predicted: male, Actual: female, Dialogue: ...I swear you're right that one is such an idiot...! Though anyway, I'd best get back to work. Next round's on me, Dusa, and you take care.
+Predicted: male, Actual: female, Dialogue: Hey you!
+Predicted: male, Actual: female, Dialogue: Look, what was I, ugh, just, never mind. I'll talk to you some other time, I guess.
+Predicted: female, Actual: male, Dialogue: I'm all worked up...
+Predicted: female, Actual: male, Dialogue: Seriously?
+Predicted: male, Actual: female, Dialogue: T'hah.
+Predicted: male, Actual: female, Dialogue: Y, yes, right away!
+Predicted: male, Actual: female, Dialogue: What's the matter, Zagreus? You look a bit uncomfortable. Something you want to say to me? Or any one of us?
+Predicted: female, Actual: male, Dialogue: Thanks so much!
+Predicted: female, Actual: male, Dialogue: You've been so busy!
+Predicted: male, Actual: female, Dialogue: Am I supposed to be here, Prince?!
+Predicted: male, Actual: female, Dialogue: Huh?
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: male, Actual: female, Dialogue: You can't be serious.
+Predicted: male, Actual: female, Dialogue: You're serious right now?
+Predicted: male, Actual: female, Dialogue: Zagreus, if only you could turn yourself into a woodland creature and just fly or burrow out of there! My Callisto, she can turn into a bear, you ever seen those? Monstrous, furry things, quite huggable, if they don't kill you first!
+Predicted: male, Actual: female, Dialogue: Your father was different with Persephone, to some extent. He has always been as you know him, yet... her lightness... it affected even him, I think. And he knows... that he was better with her, than without.
+Predicted: male, Actual: female, Dialogue: I must acknowledge and accept your thoughtful gift of Nectar, Zagreus; would that the mortals showed deference thus.
+Predicted: male, Actual: female, Dialogue: When I first notified Lord Father Zeus and other members of our family of your existence, Zagreus, it was Uncle Poseidon here who first leapt up, and pledged his power over sea and earth to you. Is that not so, Uncle?
+Predicted: male, Actual: female, Dialogue: Oh, thank the Fates I get to deal with you this time.
+Predicted: male, Actual: female, Dialogue: No. Damn it. If you had anything to do with this...! Even if you didn't, come on and die!
+Predicted: male, Actual: female, Dialogue: It's fortunate your troubles with your mother were resolved. Persephone, I mean! To think I led all of my family to believe your mother was the goddess Nyx, instead. It seems I was an unwitting accomplice to a bit of a deception, there. But Nyx, I know she merely tried to help.
+Predicted: male, Actual: female, Dialogue: requirements are above
+Predicted: male, Actual: female, Dialogue: Did you miss me, little godling, hm? I thought I'd steal away a bit and that together we might make up for lost time.
+Predicted: male, Actual: female, Dialogue: Now!
+Predicted: male, Actual: female, Dialogue: My greetings to you, child. How unusual that we should come in contact here. Chaos and I had quite a bit of catching up to do. Please go about your business, and I shall see you back inside the House in time. Provided you return there, of course. And, thank you for this, once again.
+Predicted: male, Actual: female, Dialogue: You!
+Predicted: female, Actual: male, Dialogue: Some help he was!
+Predicted: male, Actual: female, Dialogue: What made you think I'd stand for this, from you?
+Predicted: male, Actual: female, Dialogue: I'll give you one thing, Zag. You never keep me waiting very long.
+Predicted: male, Actual: female, Dialogue: Got you.
+Predicted: female, Actual: male, Dialogue: I'll keep an eye on things while you're away.
+Predicted: male, Actual: female, Dialogue: Sisyphus!!
+Predicted: male, Actual: female, Dialogue: I, ah, hope you're having a nice stay! Even though you don't want to live here anymore, Your Highness!
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: male, Actual: female, Dialogue: I hope your last assignment turned out well.
+Predicted: male, Actual: female, Dialogue: This should be over pretty quickly, I think, Zag. Never took you for the Forced Overtime type. That's not a Pact condition for the faint of heart.
+Predicted: female, Actual: male, Dialogue: Can't give up yet.
+Predicted: female, Actual: male, Dialogue: You're back.
+Predicted: male, Actual: female, Dialogue: Why, you!
+Predicted: male, Actual: female, Dialogue: Come get a taste of your own medicine!
+Predicted: male, Actual: female, Dialogue: How very selfless of you, Zagreus. Soon doubtless it'll be your portrait hanging on that wall back there.
+Predicted: female, Actual: male, Dialogue: Auggh...
+Predicted: male, Actual: female, Dialogue: Erm, dearest? If my perfectly developed senses are correct, then you appear to be quite smitten with a little gorgon that you've met down there...? Why that must be adorable, if rather strange!
+Predicted: male, Actual: female, Dialogue: Taking a break from putting up with Alecto out there...
+Predicted: female, Actual: male, Dialogue: It's freezing...
+Predicted: female, Actual: male, Dialogue: <Scoff>
+Predicted: male, Actual: female, Dialogue: My, how very generous of you, to offer me this gift! I'm very grateful, though I ask that you not go out of your way on my account. Let's please stay focused, here?
+Predicted: male, Actual: female, Dialogue: How nice of you.
+Predicted: male, Actual: female, Dialogue: Goodbye...!
+Predicted: male, Actual: female, Dialogue: Um, here you go, boy! Triple order, just the way you like it!
+Predicted: male, Actual: female, Dialogue: Hail, King of Athens!
+Predicted: male, Actual: female, Dialogue: You getting anywhere down there yet, Zagreus?
+Predicted: female, Actual: male, Dialogue: Dum-de-dum...
+Predicted: female, Actual: male, Dialogue: What you desire is impossible!
+Predicted: male, Actual: female, Dialogue: ...Just, please be careful where you go after you eat all this, this time, OK, Cerbie?
+Predicted: male, Actual: female, Dialogue: I have to go now, Zagreus, but I shall see you just as soon as I return.
+Predicted: female, Actual: male, Dialogue: Ooh.
+Predicted: male, Actual: female, Dialogue: Neither do they.
+Predicted: male, Actual: female, Dialogue: Get lost!
+Predicted: male, Actual: female, Dialogue: I ought not help you thus!
+Predicted: male, Actual: female, Dialogue: I'm pleased to see your father's stubbornness is manifest in you as such determination, Zagreus. My blessing be with you.
+Predicted: male, Actual: female, Dialogue: Oh, that? Pff, come on, don't even worry about it. If you were being too pushy, you better believe I would have put you back in your place, royalty or not. But hey, can't ever be too careful when it comes to people's past and feelings and stuff, right?
+Predicted: male, Actual: female, Dialogue: Get out of here, Than.
+Predicted: female, Actual: male, Dialogue: Transform.
+Predicted: female, Actual: male, Dialogue: Come and get it.
+Predicted: male, Actual: female, Dialogue: Tsch... why don't you raise your voice a little louder so that all the House can hear. Is that what you want? For everyone to know that you're superior to me?
+Predicted: male, Actual: female, Dialogue: That fool is trying to protect me even now. It wasn't he who absconded with me, my son. And it's more complicated even than that. I was content to leave. Willing to make my life within the Underworld. With your father.
+Predicted: male, Actual: female, Dialogue: Lord Zeus has made acquaintances with you? Oh I sometimes forget that he's your uncle! His favor's well worth having, I assure you.
+Predicted: male, Actual: female, Dialogue: Not finished? Fine.
+Predicted: male, Actual: female, Dialogue: I thank you for the lovely flowers, child. They make my corner of the House hospitable. Such simple comforts never were for me, and yet... now that I am surrounded by them, I have found that I enjoy their presence, more than I would have admitted in the past.
+Predicted: male, Actual: female, Dialogue: That we're all we've got. And that we love each other. Through thick and thin.
+Predicted: female, Actual: male, Dialogue: Enjoying the delicate warmth of the surface, b Zagreus? Apparently, the generosity of the goddess of seasons knows no bounds.
+Predicted: male, Actual: female, Dialogue: Having fun?
+Predicted: male, Actual: female, Dialogue: You showed Alecto again. She must be so mad.
+Predicted: female, Actual: male, Dialogue: Hhhaaaaaaahhh....
+Predicted: male, Actual: female, Dialogue: You know, I think it's gone all right so far! Thank you for asking, Son. Everyone has been quite welcoming. The darkness is a pleasant change of pace, and while this dress can be a little difficult to move in... I quite like it.
+Predicted: female, Actual: male, Dialogue: Don't say that, Nyx. Besides! Conflict between Megaera and me has always put the spark in our relationship. We're going to be fine.
+Predicted: female, Actual: male, Dialogue: You're nothing.
+Predicted: female, Actual: male, Dialogue: Don't be. That feast of ours is really going to be something, Than.
+Predicted: male, Actual: female, Dialogue: I just mean, if you don't believe in the work you're doing, why keep on doing it, just out of obligation? You have to take care of yourself.
+Predicted: male, Actual: female, Dialogue: Sure, I don't see why not!
+Predicted: female, Actual: male, Dialogue: Wow...
+Predicted: male, Actual: female, Dialogue: It's been a while, Zagreus. You must have made it pretty far last time. Let's see. Outer reaches of Asphodel?
+Predicted: male, Actual: female, Dialogue: Look at the size of this guy!
+Predicted: male, Actual: female, Dialogue: I understand. I think that when Hades told you he asked no forgiveness, he understood as well, and meant it. Well, for all his failings, I'm thankful that he did not teach you how to hate. For your own sake, if not for his.
+Predicted: male, Actual: female, Dialogue: I'll pierce them through the heart!
+Predicted: female, Actual: male, Dialogue: .   .   .   .,
+Predicted: male, Actual: female, Dialogue: I'll give you one thing... I like it when my prey bites back. Come on, let's see some blood again.
+Predicted: female, Actual: male, Dialogue: Cured.
+Predicted: male, Actual: female, Dialogue: Ah, watch out!
+Predicted: male, Actual: female, Dialogue: Here, Charon!
+Predicted: female, Actual: male, Dialogue: Why ask for help from him?
+Predicted: male, Actual: female, Dialogue: Eugh, I almost want to thank you, Zagreus. I thought you'd never change that blasted Pact, and leave me here, in peace.
+Predicted: male, Actual: female, Dialogue: Think you can keep this up?
+Predicted: male, Actual: female, Dialogue: Got you again like in the old days, Zag.
+Predicted: male, Actual: female, Dialogue: What do you say we go and make new friends together, hm?
+Predicted: female, Actual: male, Dialogue: We are one.
+Predicted: male, Actual: female, Dialogue: So the Olympians are backing you officially now? Doing their part to help the family business, finally. Lord Hades probably never thought he'd see the day. Night? You know what I mean.
+Predicted: male, Actual: female, Dialogue: Oh, I... this is silly, but, I'd no idea anybody could beat you, I mean, the Prince? Greater than the mighty Achilles, more cunning than his father, faster than Hermes! But... you're just struggling, like me?
+Predicted: female, Actual: male, Dialogue: Love it.
+Predicted: male, Actual: female, Dialogue: You died! You, you died...! Those burning feet, they... sputtered out, when you were born. But... now you're standing here before me. How...?
+Predicted: male, Actual: female, Dialogue: Erm, Zagreus, despite my hunter's instincts here, it seems I was unable to elude Aphrodite in this particular case, who insisted that we present ourselves to you at the same time, for whatever reason...
+Predicted: male, Actual: female, Dialogue: You're going to be sorry, Sisyphus!
+Predicted: male, Actual: female, Dialogue: I have a brother, Helios, the Sun. A nonsense-talker with a flaming chariot. Why, he once told me that my Kore, that she went into that Underworld of yours! Preposterous. The clouds now blot him out entirely.
+Predicted: male, Actual: female, Dialogue: Huh! Normally my marks don't make a habit of seeking me out again after I'm through with them.
+Predicted: male, Actual: female, Dialogue: Whew.
+Predicted: male, Actual: female, Dialogue: That's good. And yes, the bats around here, they and I have always shared an understanding, you could say. I usually care for the pups myself. But Battie? She seemed more your style.
+Predicted: female, Actual: male, Dialogue: Have I wronged you somehow?
+Predicted: female, Actual: male, Dialogue: It... kind of already happened. And, I can confirm he's rather strong. Something I can do to make it up to him?
+Predicted: male, Actual: female, Dialogue: What is this.
+Predicted: female, Actual: male, Dialogue: This ends now.
+Predicted: male, Actual: female, Dialogue: Good thing we have this bond!
+Predicted: male, Actual: female, Dialogue: Ngh... not... yet...
+Predicted: male, Actual: female, Dialogue: What is your concern, exactly, child? Speak plain with me, or else take not my time.
+Predicted: female, Actual: male, Dialogue: Easy.
+Predicted: female, Actual: male, Dialogue: Why, my dear Artemis, the hunt is but a prelude to a war, is that not so? For if all mortalkind knew naught of hunting, why, they would not be nearly so adept at killing one another.
+Predicted: female, Actual: male, Dialogue: Curse you!
+Predicted: male, Actual: female, Dialogue: This isn't over yet.
+Predicted: female, Actual: male, Dialogue: Such utter disrespect!
+Predicted: male, Actual: female, Dialogue: All right.
+Predicted: male, Actual: female, Dialogue: Whoa it's the Minotaur!
+Predicted: male, Actual: female, Dialogue: Dusa, here?
+Predicted: female, Actual: male, Dialogue: Wow, Your Highness, you... you really shouldn't have. Thank you for not forgetting about me.
+Predicted: male, Actual: female, Dialogue: What?!
+Predicted: male, Actual: female, Dialogue: Have this!
+Predicted: male, Actual: female, Dialogue: I, I'm sure, Prince. This is my chance! I'm custodian of the House of Hades! I need to keep doing my best right now. Thanks so much for the Nectar! Bye!
+Predicted: male, Actual: female, Dialogue: There!
+Predicted: male, Actual: female, Dialogue: I understand, it's fine.
+Predicted: male, Actual: female, Dialogue: Come on, Zag.
+Predicted: female, Actual: male, Dialogue: You. Come to fulfill my father's wishes?
+Predicted: male, Actual: female, Dialogue: What is it, Zagreus? You've got that pleased-with-yourself look, which can only mean you have something obnoxious to tell me.
+Predicted: male, Actual: female, Dialogue: Be unseen.
+Predicted: male, Actual: female, Dialogue: Damn it.
+Predicted: male, Actual: female, Dialogue: You seem particularly light on your feet, there, Zagreus. I'd figure Hermes, himself, was speeding you along, except I've not seen him about in... been a while, really.
+Predicted: male, Actual: female, Dialogue: Well! Seems everything's in order. Carry on.
+Predicted: male, Actual: female, Dialogue: What?
+Predicted: male, Actual: female, Dialogue: Zagreus... how am I doing? As a mother. Tell me honestly. Nyx has had so much to share about raising you. Foods you hated or enjoyed, your natural abilities, your friendships... she knows everything! Sometimes I wonder how I can ever compete?
+Predicted: female, Actual: male, Dialogue: No love without pain.
+Predicted: female, Actual: male, Dialogue: Oh, my...
+Predicted: male, Actual: female, Dialogue: Well!
+Predicted: male, Actual: female, Dialogue: I hope you have a great whatever time it is out there, Highness!
+Predicted: female, Actual: male, Dialogue: Easy.
+Predicted: female, Actual: male, Dialogue: Perhaps not yet. But very, very soon.
+Predicted: female, Actual: male, Dialogue: Hmm.
+Predicted: female, Actual: male, Dialogue: Hope everything's been well enough of late.
+Predicted: male, Actual: female, Dialogue: Lord Father, would that I could settle even more such matters quickly and discreetly, so that only the most vital of them rise up to the level of your notice, sir. Though, I'm certain Zagreus and I are very grateful you have intervened.
+Predicted: male, Actual: female, Dialogue: Thanks for the little workout there.
+Predicted: female, Actual: male, Dialogue: A lot of things, such as how you refuse to reason with your positively charming sisters, Meg?
+Predicted: female, Actual: male, Dialogue: Nephew, your cruel father, Hades, he's my elder brother, you know that? Not exactly the expressive type, and never was. We seldomly saw eye-to-eye on things!
+Predicted: male, Actual: female, Dialogue: The finer points of hunting are not easy to communicate, though you're learning from experience, at least!
+Predicted: female, Actual: male, Dialogue: Oh hey.
+Predicted: male, Actual: female, Dialogue: Wow, would you look at that!
+Predicted: female, Actual: male, Dialogue: I hope you know what you're doing.
+Predicted: male, Actual: female, Dialogue: I asked you how you did it, got the traffic flow moving a little faster, and... it's the sarcophagus things, isn't it? Right down the hall! The shades, they're scared to stand around! That's brilliant, Mister Hypnos, I'm impressed!
+Predicted: male, Actual: female, Dialogue: Do as you must. Your victory is within reach.
+Predicted: female, Actual: male, Dialogue: Neutrality was not an option here.
+Predicted: female, Actual: male, Dialogue: Although...
+Predicted: male, Actual: female, Dialogue: May wisdom and good fortune guide you toward the light of day this time, Cousin.
+Predicted: female, Actual: male, Dialogue: That does it!
+Predicted: female, Actual: male, Dialogue: It shall be so.
+Predicted: male, Actual: female, Dialogue: Oh, Zagreus, you're so thoughtful, truly! Your father never permitted Nectar out in the open so I'd practically forgotten its savor. Though, just a moment, I have something for you, too!
+Predicted: female, Actual: male, Dialogue: So...
+Predicted: male, Actual: female, Dialogue: Are you kidding?! Ah, didn't mean to be so rude, it's just, I think it's definitely better, now! We're like a complete team!
+Predicted: female, Actual: male, Dialogue: You're back.
+Predicted: male, Actual: female, Dialogue: What can I do for you?
+Predicted: female, Actual: male, Dialogue: Ready!
+Predicted: male, Actual: female, Dialogue: That'll show you!
+Predicted: male, Actual: female, Dialogue: Thanks.

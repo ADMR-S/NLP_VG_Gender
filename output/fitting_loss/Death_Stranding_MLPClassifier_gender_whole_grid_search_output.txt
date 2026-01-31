@@ -1,0 +1,32 @@
+Fitting 3 folds for each of 128 candidates, totalling 384 fits
+Iteration 1, loss = 0.83938020
+Validation score: 0.586207
+Iteration 2, loss = 0.18830845
+Validation score: 0.663793
+Iteration 3, loss = 0.12067280
+Validation score: 0.724138
+Iteration 4, loss = 0.09560732
+Validation score: 0.732759
+Iteration 5, loss = 0.08183823
+Validation score: 0.724138
+Iteration 6, loss = 0.07288008
+Validation score: 0.724138
+Iteration 7, loss = 0.06681072
+Validation score: 0.715517
+Iteration 8, loss = 0.06226271
+Validation score: 0.715517
+Iteration 9, loss = 0.05910722
+Validation score: 0.706897
+Iteration 10, loss = 0.05644660
+Validation score: 0.706897
+Iteration 11, loss = 0.05423251
+Validation score: 0.706897
+Iteration 12, loss = 0.05240454
+Validation score: 0.698276
+Iteration 13, loss = 0.05090190
+Validation score: 0.698276
+Iteration 14, loss = 0.04959701
+Validation score: 0.698276
+Iteration 15, loss = 0.04873182
+Validation score: 0.698276
+Validation score did not improve more than tol=0.000100 for 10 consecutive epochs. Stopping.

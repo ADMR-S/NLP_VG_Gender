@@ -23,7 +23,7 @@ def cleanName(txt):
 	txt = re.sub('\(.+?\)',"",txt).strip()
 	if txt.count("(")>0:
 		txt = txt[:txt.index("(")]
-	#txt = txt.replace("Õ","'").replace("Ô","'")
+	#txt = txt.replace("ï¿½","'").replace("ï¿½","'")
 	return(txt)
 	
 def lineParser(line,param):

@@ -1,0 +1,23 @@
+Predicted: female, Actual: male, Dialogue: When sleep refuses to come, I think of our wedding night. How you welcomed me to the marital bed. How, after, when you fell to sleep, I lay there watching your delicate face. For all its beauty, I detested its... fragility. A rage swelled up inside me. I abhorred that bed, how its softness threatened to swallow us up. And that room; the stench of incense, the fine embroidery of the drapes. All of it - weak. I slipped from the bed, threw open the casement, and lay naked on the stone floor, determined to spurn all seductions of comfort. But when I woke the next morning, you lay beside me, naked as I in the cold. Your body, stretched beside mine, seemed chiseled from stone. I saw you wake. Instantly alert, like an animal ready to strike. You said nothing. You did not have to. Already you had shown me, beyond doubt, that we were meant to be.
+Predicted: female, Actual: male, Dialogue: All I'm saying is, give it a kill switch!
+Predicted: male, Actual: female, Dialogue: Seal closure at 1.4 millimeters, confirmed.
+Predicted: female, Actual: male, Dialogue: In emergencies!
+Predicted: female, Actual: male, Dialogue: My mother, she took her Bible real serious. Not just Texas Bubble serious. Pentecostal serious. Favorite chapter? Revelations. Now, I didn't always understand her - on account of all that speaking in tongues and such - but when she did use her words, it was always End Times-this and Lake of Fire-that, on account of sinful lifestyles. Speaking of which - mind if I smoke?
+Predicted: male, Actual: female, Dialogue: All right. This promises to be interesting.
+Predicted: male, Actual: female, Dialogue: I'm okay with this. I want to go home. Goodbye.
+Predicted: male, Actual: female, Dialogue: Is she gone? What are we going to do? The raids are getting closer and closer to Mainspring. How much longer can we hide like this?
+Predicted: male, Actual: female, Dialogue: 9th MRB on point! Hoo-ah!
+Predicted: male, Actual: female, Dialogue: ... if you're still nauseous--
+Predicted: male, Actual: female, Dialogue: This datapoint is obtained automatically during the main quest Maker's End. It cannot be missed.
+Predicted: female, Actual: male, Dialogue: Evacuation happened so fast-no time to think things through. No time for goodbyes. There were lines in the medical ward... I told Tom Paech I'd be with him when he went under. But there was one last shipment of Paradisaeidae zygotes I could get processed, if I rushed... I'm still... angry at him for forcing me to choose... Angry at myself for... Well, he died alone, and I didn't get the bloody birds of paradise saved, either. All the time left in the world now to think. GAIA Prime's locks are sealed. Elysium sealed up, safe and sound. A distance of miles, but it might as well be on the other side of the galaxy. All the Betas and Gammas and support staff, living their lives. If I hadn't been an Alpha, if things had gone differently, I could've been there. Instead I'm spending the rest of my unnatural life in here, with people I don't even like... And without the one I would have gladly spent life with... given the chance. Two hours since I signed off on the final executables, and I'm already a bitter old man, bitching to his Focus. There's a thought for future generations.
+Predicted: female, Actual: male, Dialogue: This datapoint is located on the second floor of the Zero Dawn Project Facility, in the area on the right hand side.
+Predicted: male, Actual: female, Dialogue: This datapoint is obtained automatically during the main quest Maker's End. It cannot be missed.
+Predicted: female, Actual: male, Dialogue: Entity is not known.
+Predicted: female, Actual: male, Dialogue: Say again, Lieutenant?
+Predicted: male, Actual: female, Dialogue: If you could try to remain calm-
+Predicted: male, Actual: female, Dialogue: To be clear, I'm not a worker on the project-
+Predicted: female, Actual: male, Dialogue: I'm not a psychologist, GAIA. Or an AI scientist. No. It is... natural. At least in the context of the work you and I have accomplished, which begs the meaning of the term "natural." She was your creator. The patron saint of this crazy endeavor... Our Lady of the Fervent Hypothetical.
+Predicted: female, Actual: male, Dialogue: That was the last transmission of Elisabet Sobeck. She gave everything for the hope of life on this planet. And we are all in her debt.
+Predicted: female, Actual: male, Dialogue: You think - ?!
+Predicted: male, Actual: female, Dialogue: Oh no.
+Predicted: male, Actual: female, Dialogue: It's not contained! It can't be!

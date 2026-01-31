@@ -1,0 +1,70 @@
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - That's an extraordinary weapon!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: DATAPOINT: Welcome to FAS
+Predicted: CHARACTER, Actual: ACTION, Dialogue: She and Fang begin to fade away.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: One down, my friend. One down.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: A thief is waiting behind the false cabinet.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: DATAPOINT: Log: Skylar Rivera
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Upon leaving the Arch-Mage's quarters, Faralda approaches.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: As she was exploring the Zero Dawn Project Facility, Aloy was able to recover this datapoint.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Mini-Game Programmer Dining Yang
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I knew I could count on you, soldier.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: You show interest in the ruins. Are you a student?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - Right! Out with it already!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They enter the Emperor's dining room.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Noel!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Episode 1 A World Without Cocoon New Bodhum 003 AF
+Predicted: ACTION, Actual: CHARACTER, Dialogue: What's at Serpentstone Island?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Kupo! (Lightning appears.)
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (auto-talk) Another gate, huh? Figures.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: His home is now partially renovated to show Mythic Dawn trinkets and curios.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Right... Helgen... One of the prisoners, if I recall correctly.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The only one who can help him retrieve that kind of information is the one with the ability to time travel.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Mog's power is used to find an artefact.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Hurry!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They clear out the lab.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Live Trigger You've almost got this. One last pun will get him to hand over Lex's message!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: She nods and chuckles.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They enter the vampire clan's keep. A gruesome feast is going on.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If the job was done to the letter:
+Predicted: CHARACTER, Actual: ACTION, Dialogue: And again...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Shedding the tears, crying out loud for once 'Cause you were such a precious part of me And there's no one who'll fill my broken heart Oh, but now I have realized The reason why I live in this world Even you have left me here alone I've found a way where I can get hope for the future
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I knew I could count on you, soldier.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: SUBJECT: The Solution
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Are you ready to spring the trap on the dragon?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: More than one miracle took place day. Cocoon was saved by Fang and Vanille's sacrifice. We awoke from our crystal sleep, and our brands were gone. It was Etro's blessing that was our salvation. A gate opened into the Unseen Realm, and through it the goddess gifted us with her mercy.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Jarl's sought out at Dragonsreach, the hilltop castle overlooking his fair city.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: tuetue kombinato.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Seal closure at 1.4 millimeters, confirmed.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: This is great. The artificial intelligence that killed Hope and his team now seems hell-bent on killing us.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: On arrival, Maro's words are shown to be true -- the Penitus Oculatus have the hall.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - Can you explain it a little more?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Everyone present can comment on Cicero's latest annoyance, both when starting dialogue and when asked directly. Astrid has additional replies.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - Talk about Snow.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: No one knows. Only that it's something that 'doesn't belong' in this time.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The story so far...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (auto-talk) We finally located all six members of the Blitz Squadron, but guys, there's still one more important thing we need to do.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The item is placed, causing the apparatus to flip upside-down.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Find the three fallen stars and bring them to Lester.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Vile Peaks, with their mountains of detritus and wandering Pulsework horrors, have resisted exploration since Cocoon first floated in the sky. This graveyard of twisted metal was also a proving ground for Lightning and her companions as they struggled against their l'Cie fates and their own inner turmoil. Serah and Noel could never have known that the journey of the l'Cie would bring disaster to the peaks two hundred years into the future.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Yeul and Caius are shown at a cliff after Serah and Noel have left. Yeul collapses to the ground, and moans.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Some sort of ghost or apparition appeared. It spoke to me.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (from the distance) Enjoying your little chat? (He materializes.)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The undead King raises his axe.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Dagon has spoken.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: President Minoru Kida
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Lightning's Theme begins playing and a flashback is shown of the events of the ending of Final Fantasy XIII. Serah is with Dajh...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Is that the tablet you have there? Do you mind if I take a look at it? Can this be true... ? It says a horrible monster appeared in ancient Paddra. The town would've been wiped out if the seeress hadn't banished the creature in the nick of time. That means the beast is sealed somewhere in this area. You've done so much for me already, but do you think you can find out more about this creature?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: How do I open the door?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Are you one of Neloth's apprentices?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Has the Bloodmoon called you, fellow hunter?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: An artefact!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Song Licensed by Reprise Records, A Warner Music Group Company
+Predicted: ACTION, Actual: CHARACTER, Dialogue: But it shows Lightning...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: <Environments>
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Correct. And this?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: DATAPOINT: E9B1 Incident Log C
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The artificial intelligence killed them? Because they were in the way!?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Eventually, the player gains access to the wing. While walking the halls, one "master" Dervenin spoke of. He's having tea with Pelagius the Mad.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: From now on, the focus of the investigation will be those glowing objects, the gates. I'm just glad that no one was badly injured.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: He leaves.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Hand over Graviton Core Epsilon?

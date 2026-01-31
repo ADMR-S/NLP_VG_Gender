@@ -1,0 +1,25 @@
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Downstairs is a torture room where the workers are fighting Stormcloaks.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: One ventures to Understone Keep in Markarth, and finds Raerek's inscribed Amulet of Talos in his nightstand. He's immediately confronted with it.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Afterward the bloodletting...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The two escapees set off down the road.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The player caps the Eye's power with the Staff, robbing Ancano of all his of his Thalmor ambitions.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They walk to the open-air perch.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: What's the Dawnguard?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They turn to flee, but...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They start walking to the dining room.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: You acted as a broker for its new owner.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: When asked to supply things and all options are exhausted:
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The player tracks down Gianna.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Argonian is found at Solitude's Winking Skeever tavern.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: With the other specialist mages following, the player leads everyone back to the Hall of the Elements, the seat of Ancano's powers.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: After finding a promissory note, it's time to report back to the Guild.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: As directed, one reunites with the Blade at Riverwood.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Stay close to the wall!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They fight the ancient dragon, fending off the skeletons his powers start to resurrect. Eventually, they stamp out his attacks.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: He breathes firing, causing Farengar to scamper off.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The two journey to the cave in the eastern Rift.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: ...and steals its soul when it lands. He repeats this for his other helper.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If one refuses Harkon's gift, the come to outside. With nothing left to do, their doorstep.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They go downstairs, almost getting trapped under the collapsing ceiling.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Everyone returns to Volkihar to confront Harkon. Before finding him, some of the other vampires will comment on it. This is optional, but eh well.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They return to Dexion, who now appears with a blindfold.

@@ -1,0 +1,24 @@
+ num_entries : 1450
+
+male : 1056
+percentage of male : 72.82758620689656%
+
+female : 394
+percentage of female : 27.172413793103452%
+
+num_unique_characters : 38
+characters with most dialogues : 
+character_name
+Sam            428
+Deadman        192
+Die-Hardman    151
+Fragile        107
+Mama            99
+Name: count, dtype: int64
+
+num_unique_groups : 2
+dialogues_per_group : 
+character_group
+male      1056
+female     394
+Name: count, dtype: int64

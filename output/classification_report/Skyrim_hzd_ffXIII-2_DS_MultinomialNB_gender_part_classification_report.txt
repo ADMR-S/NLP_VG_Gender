@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      female       0.52      0.41      0.46       167
+        male       0.69      0.77      0.73       278
+
+    accuracy                           0.64       445
+   macro avg       0.60      0.59      0.59       445
+weighted avg       0.62      0.64      0.63       445

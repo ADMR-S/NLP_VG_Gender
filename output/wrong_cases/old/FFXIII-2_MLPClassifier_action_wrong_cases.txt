@@ -1,0 +1,106 @@
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Academia, 400 AF. A paradox has infected the topographical data banks, and Miss Horizon needs your help to gather accurate map data. Any time you have Explored an area 100%, try visiting the suffering technician. Every scrap of location data will help her restore the corrupted network. The Explored percentage is displayed at the bottom of the map screen for each location. You can also press Triangle to open the main menu and select a map from the Key Items list under inventory. Unless the location has undergone significant changes, the same area map is used over different time periods.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: With nothing else to do, Serah heads in the direction of an object of interest.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Fragment - Ortlinde's Bloom
+Predicted: ACTION, Actual: CHARACTER, Dialogue: They must've been fighting monsters, too.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (lighting up again) Take it, and leave this place! (He produces a fragment.) The Day of Reckoning has not yet come.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: We've been given a second chance by the goddess herself.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If she keeps going the wrong way...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Oh, evil paradox. Where did you take Millie? This is her sister, and I'm worried sick about her! It's all my fault. I can't believe I left her alone after our stupid argument. She must be furious! I need to see her again so I can apologize. But I don't know if I can or ever will. I've become a victim of this mishap, too. I feel so guilty, so responsible. If only I'd been able to find the keepsake she was looking for.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - I have faith in Snow.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: It looks like the spacetime surrounding the orbs is distorted.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (nods) The Oracle Drive! (A light flashes from the drive and Serah's weapon lights up. )
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Are you a corporal in Blitz Squadron?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Lebreau! Good morning, kupo!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - To protect time.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Augusta Tower is the central information processing facility of the Academy. The entire edifice is occupied by the machinery of an artificial intelligence that possesses unprecedented processing power. It also houses the Proto fal'Cie Project, an ambitious plan to create a man-made fal'Cie. Here, too, is recorded the forbidden history--although no human survives to remember it.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: It's terrifying to consider what the fal'Cie's purpose might be.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They learn that Mog was somehow swept up in the winds of time and carried far from his friends and family. But now, at last, he can go home again. But will he? Mog is undecided. His home and its memories belong to the past. His journey with Serah belongs to the present. He knows where he belongs.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: A little darkness can't stop me. I light up the room with my luminous character!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If I had one last wish, it would be to see a picture of my daughter again. My colleagues are nosy so I usually find myself a quiet corner where I can look at the picture in peace.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Bye. (They vanish.)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They land.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Miss Farron! (They gather around her.)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Final Fantasy XIII-2, the story so far...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - Your memories are off?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Give it up, Caius!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Serah and Noel are trying to save the people of Academia from the C'ieth apocalypse when they encounter Yeul and learn a shocking truth. She is a seeress doomed to be reborn, over and over, and Caius is her immortal guardian. They also learn that the artificial fal'Cie is behind the Academia terror. To escape the trap it has laid for them, they must battle it in virtual space. But can it really be destroyed?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The orbs don't appear to be sentient.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: But, Serah...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Like the gate to Valhalla?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They can return to the camp and talk to the Hunter that explained about the Long Gui before...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - He's like this really cool guy!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Phh. Change is the constant. (He appears in green energy before the party.)
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (unsheathing Lightning's knife) Lightning's knife. It's been sharpened and cleaned.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Square - You mean five years ago?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Hi, guys! How's your adventure through time going? Taking in the scenery? Enjoying the action?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: In 13 AF, the Academy built the Augusta Tower as a central information processing facility, with an enormous artificial intelligence at its core. But now, centuries in the future, the system has suddenly begun to run amok. Somehow, the network system was attacked--from somewhere in the future. When the Academy tried to respond and shut down the system, it was too late. The AI had already taken control of much of the Academy.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Noel doesn't think Caius is behind this mayhem. Then who is?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Pray for all the things in this world And believe in the power of our love Sing a song of tomorrow Now we are not alone and we come to life again A new will come to you, for youuuuu and meee.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - I don't remember putting them on.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: <Movies>
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Before heading out, they can auto-talk with a female hunter nearby...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - I work hard, too!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: He's angrier than before...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Now the tower back in 200 AF should be open to us, kupo!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: I recognize this picture frame! That's mine! I can't thank you enough! Just looking at my little girl's smile every morning gets me through the hardest of days. I bet she's grown up so much. How I wish I could see her. But I need to stop thinking like this and move on. I had a wonderful life. No regrets. You're too kind for granting me my last wish. May the goddess bless you with good fortune.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - Someone's waiting for me?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (auto-talk) Threat level 'Omega.'
+Predicted: CHARACTER, Actual: ACTION, Dialogue: In the village of Oerba, Serah and Noel see that things are not as they were once before. Twisted mockeries of humans sprawl lifeless among the buildings. The scars of war that should have long since faded appear fresh and raw. Is this the world of the past? Or is it the reflection of someone's memory? Serah hears a faint voice calling her, and sets off to investigate...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Noel walks away, irritated.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: He's teasing again!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Once more...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: S-security!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - How did it come to that?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Let's follow him!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The party activates a switch to change the direction of an escalator...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: He is now outside Headquarters on Shiva, with Serah, Noel, Hope and Mog around him.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: What about Fang and Vanille?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Final Fantasy XIII-2: the story so far...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses X - You're a hunter?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - Growing up, I heard the stories.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: A Cinematic Action begins. Atlas launches debris at the two.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: After defeating some more monsters in front of another barrier...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I see. Valhalla... otherwise known as the Unseen World.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Square - I don't want to kill anyone.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (turns to him and nods) Yes. (She raises her hand and a jet of orange energy shoots into the air. A creature instantly recognizable to any regular player of Final Fantasy as a moogle appears, holding a rod with a clock attached.)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If you win...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Square - Even you can't figure out what's going on?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Ooh Oh, yeah yeah.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Anything other than Circle is a failure.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Bresha Ruins, 300 AF. The bounty hunter Thurston has a brilliant idea for getting rid of all the monsters in the area--blow up the entire ruins using explosives. He's asked the Commander to look around the ruins to see if the plan is safe to conduct. Talk to the Commander and find out what he has discovered.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: It is now raining in the ruins.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (auto-talk) Oh, you caught up already? Don't know what to make of this... (As she and & Noel keep moving forward... .)
+Predicted: ACTION, Actual: CHARACTER, Dialogue: While you start preparing in the here and now.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Good morning!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Ouch. You know I have feelings, right?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: More monsters appear.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Yep. (They move forward.)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Circle - Someone who died here long ago
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Yaschas Massif, 10 AF. Excavation worker Cole enjoys collecting retro electronic gadgets, and there's a particular battery model from ten years ago that'd he'd love to get his hands on. Although it no longer exists in this time, such an item might have been sucked into a spacetime vortex--and if so, Mog would be just the moogle to find it.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I won't ask then. (She holds up the artefact.)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: And once more...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: He doesn't look amused.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: (zipping by) Kupo! Find the gate and the key, kupo!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: In 400 AF, the Academy is the de facto government. Their crowning achievement is Academia, a magnificent city which surpasses any that existed on Cocoon under the fal'Cie hegemony.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: A Primer is presented on how the Academia defense system is out of control and how to escape the lockdown.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Serah gasps, but it's too late; it's already activated. She is pushed back by some energy.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: In the year 20 AF, the Bresha Ruins suddenly experienced an influx of monstrous intruders. A paradox was thought to be the cause, but before an investigation could be launched, the situation was already out of hand. The government all but abandoned the area, and appealed to the general populace for possible solutions. The ruins crawled with mercenaries and researchers, looking to make names for themselves in what had become an unregulated, lawless district. As the situation continued to deteriorate, all attempts to stem the invasion ended in wasted time and resources.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The village of Oerba is returned to how it once was. The strange distortion that threatened to swallow it is safely dispelled. But here and there, small fissures in space still remain. These fissures confound scientists. Are they a type of gate? Are they singularities, in the process of giving birth to incomplete spacetimes?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Stories, yeah... More like legends or myths. 'The goddess showed mercy to the sisters, and the sisters became one with eternity.'
+Predicted: ACTION, Actual: CHARACTER, Dialogue: The Vile Peaks.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Morning!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Serah? You said you met my sister. What did she look like? What was she wearing?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Live Trigger An artefact is something that 'doesn't belong' in this time. What else can Noel tell me?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: She can do auto-talk with some the people from before...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: It is a dark, shadowy form.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Serah and Noel return from Oerba to find that by changing the future, they have also changed the past. Hope's memories are different, and the prophecy recorded on the Oracle Drive now shows a horrific scene--they see the end of the world as Caius causes Cocoon to plummet into Pulse.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Serah and Noel have changed the future. The Proto fal'Cie that threatened Academia is no more, and in the sky floats the Thirteenth Ark. The people have built a society with their own hands, using technology of their own devising. However, the day when Cocoon is prophesized to fall is drawing closer. The Academy has put into motion an ambitious project to avert the catastrophe.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Those fragments are remnants of a time passed. The goddess's will is that they fall into the hands of those with the purest of hearts.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: But, I didn't do anything. At least, I don't think I did. (The gates appear in her eyes and she has a vision of Noel battling Caius.)
+Predicted: ACTION, Actual: CHARACTER, Dialogue: That's weird, he doesn't remember me.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: giggling
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - Will we meet Lightning again?
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Bresha Ruins, 100 AF. Pat is working on developing a new weapon, and she needs someone to bring her some weapon materials. If she's desperate enough to ask civilians to do the job, the compensation has to be nothing less than generous.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Threat level 'Sigma.' All sections of Academia on high alert.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I'll put together some data on Graviton Cores. Check in with the Academy front desk.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Player chooses Triangle - Am I remembering things wrong?

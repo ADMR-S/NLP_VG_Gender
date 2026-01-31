@@ -1,0 +1,39 @@
+Predicted: CHARACTER, Actual: ACTION, Dialogue: DATAPOINT: Welcome to FAS
+Predicted: CHARACTER, Actual: ACTION, Dialogue: She and Fang begin to fade away.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Who's the Whispering Lady?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Kupokupo.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: A thief is waiting behind the false cabinet.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Upon leaving the Arch-Mage's quarters, Faralda approaches.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I knew I could count on you, soldier.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Noel!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: What's at Serpentstone Island?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Kupo! (Lightning appears.)
+Predicted: CHARACTER, Actual: ACTION, Dialogue: His home is now partially renovated to show Mythic Dawn trinkets and curios.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: This concludes our quiz. Unfortunately, you did not obtain a perfect score. We look forward to your next attempt at the 'Brain Blast!' challenge.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The only one who can help him retrieve that kind of information is the one with the ability to time travel.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: They clear out the lab.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Live Trigger You've almost got this. One last pun will get him to hand over Lex's message!
+Predicted: CHARACTER, Actual: ACTION, Dialogue: She nods and chuckles.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: If the job was done to the letter:
+Predicted: CHARACTER, Actual: ACTION, Dialogue: And again...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Shedding the tears, crying out loud for once 'Cause you were such a precious part of me And there's no one who'll fill my broken heart Oh, but now I have realized The reason why I live in this world Even you have left me here alone I've found a way where I can get hope for the future
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Many "kupo"s can be heard coming from beyond the gate.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: I knew I could count on you, soldier.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: SUBJECT: The Solution
+Predicted: CHARACTER, Actual: ACTION, Dialogue: More than one miracle took place day. Cocoon was saved by Fang and Vanille's sacrifice. We awoke from our crystal sleep, and our brands were gone. It was Etro's blessing that was our salvation. A gate opened into the Unseen Realm, and through it the goddess gifted us with her mercy.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Seal closure at 1.4 millimeters, confirmed.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: On arrival, Maro's words are shown to be true -- the Penitus Oculatus have the hall.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: No one knows. Only that it's something that 'doesn't belong' in this time.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The story so far...
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The Vile Peaks, with their mountains of detritus and wandering Pulsework horrors, have resisted exploration since Cocoon first floated in the sky. This graveyard of twisted metal was also a proving ground for Lightning and her companions as they struggled against their l'Cie fates and their own inner turmoil. Serah and Noel could never have known that the journey of the l'Cie would bring disaster to the peaks two hundred years into the future.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: The undead King raises his axe.
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Dagon has spoken.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: President Minoru Kida
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Is that the tablet you have there? Do you mind if I take a look at it? Can this be true... ? It says a horrible monster appeared in ancient Paddra. The town would've been wiped out if the seeress hadn't banished the creature in the nick of time. That means the beast is sealed somewhere in this area. You've done so much for me already, but do you think you can find out more about this creature?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: An artefact!
+Predicted: ACTION, Actual: CHARACTER, Dialogue: But it shows Lightning...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Correct. And this?
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Dah...
+Predicted: ACTION, Actual: CHARACTER, Dialogue: Yes.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: He leaves.
+Predicted: CHARACTER, Actual: ACTION, Dialogue: Hand over Graviton Core Epsilon?

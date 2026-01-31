@@ -1,0 +1,27 @@
+ num_entries : 7006
+
+CHARACTER : 4292
+percentage of CHARACTER : 61.26177562089637%
+
+ACTION : 2714
+percentage of ACTION : 38.73822437910363%
+
+num_unique_characters : 208
+characters with most dialogues : 
+character_name
+ACTION    2714
+Serah     1035
+Noel       961
+Mog        373
+Hope       128
+Name: count, dtype: int64
+
+num_unique_groups : 5
+dialogues_per_group : 
+character_group
+ACTION        2714
+male          2538
+female        1747
+neutral          4
+genderless       3
+Name: count, dtype: int64

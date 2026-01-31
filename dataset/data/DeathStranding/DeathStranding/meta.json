@@ -21,15 +21,79 @@
 	"mainPlayerCharacters": ["Sam"],
 	"characterGroups": {
 		"male": [
+			"Clifford Unger",
+			"Combat Veteran",
+			"Deadman",
+			"Die-Hardman",
+			"Die-Harman Hologam",
+			"Die-Hardman Holorgam",
+			"Doctor",
+			"Heartman",
+			"Higgs",
+			"Igor",
+			"Junk Dealer",
+			"Man",
+			"Man (from afar)",
+			"Man 2",
+			"Man 3",
+			"Man in Red",
+			"Man in a Golden Skull Mask",
+			"Mountaineer",
+			"Sam",
+			"Young Sam",
+			"Geologist",
+			"John",
+			"Paleontologist",
+			"Driver",
+			"Shady Operator"
+
 
 		],
 
 		"female": [
+			"Amelie",
+			"Bridget",
+			"Fragile",
+			"Junk Dealer's Girlfriend",
+			"Lisa",
+			"Lockne",
+			"Mama",
+			"Old Bridget",
+			"Woman",
+			"Woman in Red",
+			"Yound Bridget",
+			"Spiritualist",
+			"Roboticist",
+			"Evo-devo Biologist",
+			"Photographer"
 
 		],
 
 		"neutral": [
+		],
 
+		"unknown" : [
+			"Capital Knot City",
+			"Center South",
+			"Center West",
+			"Computer",
+			"Doctor 1",
+			"Doctor 2",
+			"Edge Knot City Terminal",
+			"Heartman's Lab Terminal",
+			"Hologram",
+			"Lake Knot City",
+			"Loudspeaker",
+			"Mountain Knot City",
+			"Mountain Knot City Computer",
+			"Port Knot City",
+			"Radio",
+			"Record",
+			"Soldier",
+			"Soldiers",
+			"South Knot City",
+			"Special Forces",
+			"Wind Farm"
 		]
 	},
 	"aliases": {

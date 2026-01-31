@@ -1,0 +1,63 @@
+Predicted: female, Actual: male, Dialogue: I see. Interesting that you can set aside your morals when it suits you.
+Predicted: male, Actual: female, Dialogue: If the Night Mother truly spoke to you, if you really are the Listener...your destiny was written in the Void. Astrid is right to fear your power.
+Predicted: female, Actual: male, Dialogue: Let me know when you're ready.
+Predicted: male, Actual: female, Dialogue: No. This coven has existed for thousands of years. Namira is a goddess. She has been worshipped since time began. I'm honored to be leading the latest generation of Namira's faithful. Those who have embraced what they are.
+Predicted: male, Actual: female, Dialogue: Thank you. Whatever your other reasons for acting, you have done the Skaal a great service. We will not forget what you've done.
+Predicted: male, Actual: female, Dialogue: You mean they used a Shout to defeat Alduin? You're sure?
+Predicted: female, Actual: male, Dialogue: Nord nonsense? Why you puffed-up ignorant...these are our sacred traditions that go back to the founding of the First Empire.
+Predicted: female, Actual: male, Dialogue: I've made my peace. I'm ready.
+Predicted: male, Actual: female, Dialogue: I see. You're simply here to stop the Tyranny of the Sun, despite the cost to Serana. Nothing else matters.
+Predicted: female, Actual: male, Dialogue: For Skyrim!
+Predicted: male, Actual: female, Dialogue: Welcome to the College.
+Predicted: male, Actual: female, Dialogue: Well, that depends on what you're looking for. Faralda can teach Destruction spells, and offers training in that school. Phinis is one of the best Conjurers in all Skyrim, and can help with spells from that school. Don't let Tolfdir fool you; he's the pre-eminent scholar in Alteration. One of the best in Tamriel, and always willing to pass on his knowledge. If you can find him and focus his attention, there's a great deal Drevis can teach you about Illusion magic. And finally, there's Colette. She may be...difficult to get along with, but she's very knowledgeable when it comes to Restoration magic.
+Predicted: female, Actual: male, Dialogue: Only the foolish or the courageous approach the Jarl without summons... Do I know you?
+Predicted: male, Actual: female, Dialogue: Really? Oh, I use Nirnroot as a special seasoning all the time as well. What a wonderful idea. Okay, now what?
+Predicted: male, Actual: female, Dialogue: Have you been paying attention to everything that's happened? He'll betray us the second our backs are turned.
+Predicted: female, Actual: male, Dialogue: Well done. Again.
+Predicted: male, Actual: female, Dialogue: Try not to? But I do realize sometimes it's not that easy. You may want to make a statement, or a contract may require a public killing. Murder is, obviously, a very serious crime, and a very high bounty will be put on your head in the hold where the act was committed. You can run, obviously, but you'll still have a price on your head. If a guard attacks, you can attempt to yield by sheathing your weapon. If the guard accepts, you can serve your time in a cell, or pay off your bounty. We've all gone through it. We do what we must to survive. But, there is another option. Some members of the Thieves Guild in Riften can get their bounties...erased. For a price. Something to think about.
+Predicted: male, Actual: female, Dialogue: Is that confidence I hear...or arrogance? Strange how often they're confused.
+Predicted: male, Actual: female, Dialogue: Let's just get this over with.
+Predicted: female, Actual: male, Dialogue: You plan to march on Windhelm?
+Predicted: male, Actual: female, Dialogue: Like myself, Serana was a human once. We were devout followers of Lord Molag Bal. Tradition dictates the females be offered to Molag Bal on his summoning day. Few survive the ordeal. Those that do emerge as a pure-blooded vampire. We call such confluences the "Daughters of Coldharbour."
+Predicted: female, Actual: male, Dialogue: If you'll excuse me, I'll return to my duties.
+Predicted: male, Actual: female, Dialogue: It's on your head if something goes wrong. Just let me get back inside first.
+Predicted: male, Actual: female, Dialogue: The crown should be around here somewhere. Spread out, and keep your eyes open.
+Predicted: male, Actual: female, Dialogue: I knew he wouldn't be able to resist.
+Predicted: male, Actual: female, Dialogue: It's what some call the domain of Molag Bal. His place in Oblivion.
+Predicted: female, Actual: male, Dialogue: Of course.
+Predicted: male, Actual: female, Dialogue: I knew I could count on you, soldier.
+Predicted: male, Actual: female, Dialogue: Good job! I knew I gave the mission to the right person.
+Predicted: female, Actual: male, Dialogue: This better not be another waste of the Guild's resources, Brynjolf. Before we continue, I want to make one thing perfectly clear. If you play by the rules, you walk away rich. You break the rules and you lose your share. No debates, no discussions... you do what we say, when we say. Do I make myself clear?
+Predicted: male, Actual: female, Dialogue: Dear brother, I need you to steal into that chamber, and eavesdrop on their meeting. It'll be no use clinging to the shadows. They'll see you for sure. No, you need a hiding place. Somewhere they'd never think to look. Like inside the Night Mother's coffin.
+Predicted: female, Actual: male, Dialogue: What gave it away? Ha ha ha ha ha. Yeah, got to admit that little jester's good with that butter knife. But don't worry, I gave as good as I got.
+Predicted: male, Actual: female, Dialogue: I'll carry the stew pot, and lead the way up to the dining room. I'm sure the Emperor and his guests are dying to meet you.
+Predicted: female, Actual: male, Dialogue: What? You!
+Predicted: male, Actual: female, Dialogue: Any idea on how you're going to find a Moth Priest? Skyrim's a pretty big place. Do you have any ideas?
+Predicted: male, Actual: female, Dialogue: I think my father really died a long time ago. This was just...the end of something else. I did what needed to be done. Nothing more.
+Predicted: male, Actual: female, Dialogue: You there. What brings you to this place? Why are you here?
+Predicted: male, Actual: female, Dialogue: Vampires? Really? Oh, and I suppose now he remembers that I proposed no less than three different scenarios that involved vampires overrunning the population. Well, what are they up to?
+Predicted: male, Actual: female, Dialogue: Certainly not. But a true warrior would have relished the opportunity to take on a giant. That's why I'm here with my Shield-Brothers.
+Predicted: female, Actual: male, Dialogue: Dammit! This isn't about gold!
+Predicted: male, Actual: female, Dialogue: Minutes? Hours? Years? I can't even begin to guess. I suggest we don't wait around to find out. Now, let's get your Elder Scroll and you can be on your way.
+Predicted: male, Actual: female, Dialogue: You'll need to speak with Mirabelle Ervine. Her quarters are in the Hall of Countenance, but she could be anywhere on the grounds.
+Predicted: male, Actual: female, Dialogue: Don't take too long figuring it out. I've got a war to run here.
+Predicted: male, Actual: female, Dialogue: What? Alain is...is dead? I...I'm grateful. It's just this...this isn't at all how I imagined things would play out. There was Alain, but I was considering more, and... Ah, well. Dead is dead. Right? My thanks to you, assassin. Here's the gold I was going to pay you for the job. You earned it, after all.
+Predicted: male, Actual: female, Dialogue: I'm glad you were able to bring the Key back safely. Nocturnal seemed quite pleased with your efforts.
+Predicted: male, Actual: female, Dialogue: Oh, no. I'm no fool. You'll learn what you need to know once we've come to an agreement.
+Predicted: female, Actual: male, Dialogue: Karliah...she's still alive? I feared she'd befallen the same fate, ending up a victim of Mercer's betrayal.
+Predicted: male, Actual: female, Dialogue: The Stonefist's no fool. He's found the Crown. But we'll get to it first.
+Predicted: male, Actual: female, Dialogue: If your eyes and your ears are open and your mind is free of judgment and expectation, you might learn much in this chamber.
+Predicted: female, Actual: male, Dialogue: You are looking for Arkay's protection while you delve some dank tomb, I take it? My duties keep me busy in Markarth. I don't know if I can help you.
+Predicted: male, Actual: female, Dialogue: If you desire a glimpse of our Dark Mistress, then this is what you must do. First, prove your tongue can wield a lie. Find someone. Gain his trust. Lead him to the shrine above. Next, instruct your thrall to touch the Pillar of Sacrifice. Its magic will ensnare him, rendering him helpless. Then, girded with certitude, plant the ceremonial blade deeply, so that the waters of his heart wash over you. If your will is strong enough, it will stir Boethiah in her Dark Mansion, and she will appear before us.
+Predicted: male, Actual: female, Dialogue: Very clever, mother. Very clever. I've never been in those tunnels before, but I'd bet they run right under the courtyard and into the tower ruins. Well, at least we're getting closer. Let's go.
+Predicted: male, Actual: female, Dialogue: You've earned the right. Your strength and honor are apparent to all.
+Predicted: female, Actual: male, Dialogue: Balgruuf!
+Predicted: female, Actual: male, Dialogue: These thralls of yours are slower than Argonians in a blizzard.
+Predicted: male, Actual: female, Dialogue: Yes. I set you up. I wanted you dead. I betrayed you, the Night Mother, and everything I hold dear. And now Maro has betrayed me.
+Predicted: male, Actual: female, Dialogue: Believe it or not, Festus likes you. He senses your power, your potential. Follow his instructions to the letter, and you may even earn his respect.
+Predicted: male, Actual: female, Dialogue: If I die today, it will not be in terror. You feel fear for the first time, worm. I see it in your eyes.
+Predicted: female, Actual: male, Dialogue: He's alive. I've seen him. But something's wrong. He never looks as though he's in pain or under duress. He just...stands there and watches, as though waiting.
+Predicted: female, Actual: male, Dialogue: Ha ha ha ha ha ha ha ha ha!
+Predicted: female, Actual: male, Dialogue: An' maybe it won't.
+Predicted: male, Actual: female, Dialogue: Always. Let's go see if we can find this Sky Haven Temple.
+Predicted: male, Actual: female, Dialogue: To battle, my friends! The fields will echo with the clamor of war, our wills undaunted.
